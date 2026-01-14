@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Browser vs API Analysis | HUFT AI Visibility Report</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-header">
+            <h1><a href="index.html">HUFT AI Visibility</a></h1>
+            <p>January 13, 2026</p>
+        </div>
+
+        <div class="nav-section">
+            <h3>Overview</h3>
+            <a href="index.html" class="nav-link">Executive Summary</a>
+            <a href="index.html#surface-comparison" class="nav-link">Surface Comparison</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>Analysis</h3>
+            <a href="surface-analysis.html" class="nav-link active">Browser vs API Differences</a>
+            <a href="surface-analysis.html#why-differ" class="nav-link">Why Responses Differ</a>
+            <a href="surface-analysis.html#closest" class="nav-link">Which Is Closest to API?</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>By Surface</h3>
+            <a href="index.html#perplexity" class="nav-link">Perplexity (43%)</a>
+            <a href="index.html#gemini" class="nav-link">Gemini (29%)</a>
+            <a href="index.html#meta-ai" class="nav-link">Meta AI (23%)</a>
+            <a href="index.html#google" class="nav-link">Google AIO (22%)</a>
+            <a href="index.html#chatgpt" class="nav-link">ChatGPT (40%)</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>Optimization</h3>
+            <a href="visibility-techniques.html" class="nav-link">Visibility Techniques</a>
+            <a href="product-analysis.html" class="nav-link">Product Category Analysis</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>About</h3>
+            <a href="methodology.html" class="nav-link">Methodology</a>
+            <a href="https://github.com/edforman-75/glu-knowledge/blob/main/07_BRAND_HUB/docs/HOW_AI_CHATBOTS_WORK.md" target="_blank" class="nav-link">How AI Chatbots Work</a>
+            <a href="https://github.com/edforman-75/glu-knowledge/blob/main/07_BRAND_HUB/docs/WHY_WEB_AND_API_DIFFER.md" target="_blank" class="nav-link">Why Web & API Differ</a>
+        </div>
+    </nav>
+
+    <main class="main">
+        <section class="section">
+            <div class="page-hero">
+                <div class="breadcrumb"><a href="index.html">Report</a> / Browser vs API Analysis</div>
+                <h2>Understanding Browser vs API Response Differences</h2>
+                <p>Why the same AI model gives different answers depending on how you access it</p>
+            </div>
+
+            <h3>The Core Question</h3>
+            <p>When we call an AI model's API directly (like GPT-4 or Gemini Pro), we get one type of response. When consumers use the web interface (ChatGPT, Gemini, etc.), they often get different responses.</p>
+            <p><strong>Why does this matter?</strong> Consumers use browser interfaces, not APIs. Testing through browsers captures what customers actually see.</p>
+        </section>
+
+        <section class="section">
+            <h2>How Browser Interfaces Work</h2>
+
+            <div class="diagram">
+                <p style="margin-bottom: 20px; color: #888; font-size: 14px;">What happens when you ask a question through a browser interface:</p>
+                <div class="diagram-row">
+                    <div class="diagram-box">User Query</div>
+                    <div class="diagram-arrow">&rarr;</div>
+                    <div class="diagram-box">Web Interface</div>
+                    <div class="diagram-arrow">&rarr;</div>
+                    <div class="diagram-box highlight">Processing Layer</div>
+                    <div class="diagram-arrow">&rarr;</div>
+                    <div class="diagram-box">AI Model</div>
+                    <div class="diagram-arrow">&rarr;</div>
+                    <div class="diagram-box">Response</div>
+                </div>
+            </div>
+
+            <p>The <strong>Processing Layer</strong> is where browser interfaces differ from API calls. This layer can:</p>
+
+            <ul>
+                <li><strong>Add web search:</strong> Query the internet for current information before generating a response</li>
+                <li><strong>Apply system prompts:</strong> Pre-configure the AI with specific instructions and context</li>
+                <li><strong>Filter responses:</strong> Remove certain content, brands, or recommendations</li>
+                <li><strong>Add personalization:</strong> Consider user location, language, and history</li>
+                <li><strong>Format output:</strong> Structure responses differently than raw API output</li>
+            </ul>
+        </section>
+
+        <section id="why-differ" class="section">
+            <h2>Why Different Surfaces Give Different Answers</h2>
+
+            <h3>1. Web Search Capability</h3>
+            <div class="surface-card">
+                <h4>Who Has It:</h4>
+                <ul>
+                    <li><strong>Perplexity:</strong> Always searches the web, cites sources</li>
+                    <li><strong>Google AIO:</strong> Pulls from Google's search index</li>
+                    <li><strong>ChatGPT (Plus):</strong> Can browse when needed</li>
+                    <li><strong>Gemini:</strong> Has access to Google Search</li>
+                </ul>
+                <h4>Impact on HUFT:</h4>
+                <p>Surfaces with web search are more likely to find and mention HUFT because they can access current HUFT website content, reviews, and news.</p>
+            </div>
+
+            <h3>2. Training Data Cutoff</h3>
+            <div class="surface-card">
+                <h4>The Challenge:</h4>
+                <p>AI models are trained on data up to a certain date. Without web search, they can't know about recent HUFT products, store openings, or brand developments.</p>
+                <h4>Impact on HUFT:</h4>
+                <p>Surfaces relying solely on training data may have outdated information or miss HUFT entirely if the brand wasn't well-represented in training data.</p>
+            </div>
+
+            <h3>3. System Prompts & Configuration</h3>
+            <div class="surface-card">
+                <h4>What This Means:</h4>
+                <p>Each web interface configures its AI model with specific instructions. For example:</p>
+                <ul>
+                    <li>Google may instruct Gemini to favor Google Shopping results</li>
+                    <li>Meta may configure their AI to reference Meta-owned content</li>
+                    <li>Perplexity instructs its models to always cite sources</li>
+                </ul>
+                <h4>Impact on HUFT:</h4>
+                <p>These hidden instructions affect which brands get mentioned and how recommendations are formatted.</p>
+            </div>
+
+            <h3>4. Geographic Context</h3>
+            <div class="surface-card">
+                <h4>What This Means:</h4>
+                <p>Some surfaces detect user location and adjust responses accordingly. An Indian user gets India-specific results.</p>
+                <h4>Impact on HUFT:</h4>
+                <p>HUFT visibility increases when surfaces correctly identify Indian context. Generic (non-localized) responses may favor global brands.</p>
+            </div>
+        </section>
+
+        <section id="closest" class="section">
+            <h2>Which Browser Surface Is Closest to Its API?</h2>
+
+            <p>Understanding this helps predict how API-tested content will perform on consumer-facing surfaces.</p>
+
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th>Surface</th>
+                        <th>API Model</th>
+                        <th>Distance from API</th>
+                        <th>Key Differences</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>ChatGPT Web</strong></td>
+                        <td>GPT-4</td>
+                        <td><span class="status status-good">Medium</span></td>
+                        <td>Adds web search, memory, custom instructions (40% HUFT)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Gemini Web</strong></td>
+                        <td>Gemini Pro</td>
+                        <td><span class="status status-moderate">Medium-High</span></td>
+                        <td>Heavy Google Search integration, Google ecosystem context</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Google AIO</strong></td>
+                        <td>Gemini</td>
+                        <td><span class="status status-poor">High</span></td>
+                        <td>Shopping-focused, snippets vs full responses, search result context</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Meta AI</strong></td>
+                        <td>Llama 3</td>
+                        <td><span class="status status-good">Medium</span></td>
+                        <td>Conversational wrapper, Meta ecosystem integration</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Perplexity</strong></td>
+                        <td>Multiple</td>
+                        <td><span class="status status-poor">High</span></td>
+                        <td>Unique architecture: web search + multiple models + citation system</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="info-box insight">
+                <h4>Key Insight: Perplexity Is Its Own Thing</h4>
+                <p>Perplexity doesn't map cleanly to any single API because it combines multiple models with real-time web search. It's essentially a new type of system - an "AI-powered search engine" rather than a chatbot interface.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>What This Means for HUFT</h2>
+
+            <div class="finding positive">
+                <h4>Perplexity's Advantage: Web Search</h4>
+                <p>Perplexity's 43% HUFT visibility (vs 23% average for others) is largely due to web search. Perplexity finds HUFT content on the web and includes it in responses. <strong>Implication:</strong> Strong web presence directly translates to Perplexity visibility.</p>
+            </div>
+
+            <div class="finding neutral">
+                <h4>Meta AI's India Context</h4>
+                <p>Meta AI's ability to recognize Indian context helps surface HUFT. The Sara's Treats breakthrough suggests Meta AI has strong India-specific understanding. <strong>Implication:</strong> India-focused content performs well on Meta AI.</p>
+            </div>
+
+            <div class="finding neutral">
+                <h4>Google AIO's Shopping Bias</h4>
+                <p>Google AI Overviews often redirect to shopping filters rather than providing brand recommendations. <strong>Implication:</strong> Google Shopping and product listing optimization matters as much as content.</p>
+            </div>
+
+            <div class="finding positive">
+                <h4>ChatGPT's Strong Brand Recognition</h4>
+                <p>ChatGPT shows strong HUFT mentions (40%) - matching Perplexity's top performance. This suggests HUFT is well-represented in GPT-4's training data. <strong>Implication:</strong> The gap is in generic category queries, not brand awareness.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Recommendations Based on This Analysis</h2>
+
+            <h3>For Maximum Perplexity Visibility</h3>
+            <ul>
+                <li>Ensure HUFT website content is crawlable and well-structured</li>
+                <li>Create authoritative content that ranks in search results</li>
+                <li>Build presence on sites Perplexity frequently cites (reviews, publications)</li>
+            </ul>
+
+            <h3>For Google AI Overviews</h3>
+            <ul>
+                <li>Optimize Google Shopping listings</li>
+                <li>Ensure Google Business profiles are complete for all stores</li>
+                <li>Create product-focused content targeting shopping intent</li>
+            </ul>
+
+            <h3>For Meta AI</h3>
+            <ul>
+                <li>Continue building India-specific content</li>
+                <li>Capitalize on Sara's Treats breakthrough with more sub-brand content</li>
+                <li>Monitor competitor (Supertails) mentions and counter with differentiated content</li>
+            </ul>
+
+            <h3>For ChatGPT</h3>
+            <ul>
+                <li>The high mention rate (40%) confirms strong training data presence</li>
+                <li>Focus on generic category queries where HUFT is missing</li>
+                <li>Create FAQ content for "best dog food" and "best grooming products" queries</li>
+                <li>ChatGPT + Perplexity are the highest-value surfaces for HUFT</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Further Reading</h2>
+
+            <a href="https://github.com/edforman-75/glu-knowledge/blob/main/07_BRAND_HUB/docs/HOW_AI_CHATBOTS_WORK.md" target="_blank" class="resource-card">
+                <span class="arrow">&rarr;</span>
+                <h4>How AI Chatbots Actually Work</h4>
+                <p>A plain-English guide to what happens between your question and the answer.</p>
+            </a>
+
+            <a href="https://github.com/edforman-75/glu-knowledge/blob/main/07_BRAND_HUB/docs/HOW_AI_RECOMMENDS_PRODUCTS.md" target="_blank" class="resource-card">
+                <span class="arrow">&rarr;</span>
+                <h4>How AI Recommends Products</h4>
+                <p>Understanding how AI systems decide which products to recommend.</p>
+            </a>
+
+            <a href="https://github.com/edforman-75/glu-knowledge/blob/main/07_BRAND_HUB/docs/WHY_WEB_AND_API_DIFFER.md" target="_blank" class="resource-card">
+                <span class="arrow">&rarr;</span>
+                <h4>Why Web and API Responses Differ</h4>
+                <p>Technical deep-dive into the differences between browser and API access.</p>
+            </a>
+        </section>
+
+        <footer class="footer">
+            <p><a href="index.html">&larr; Back to Report Overview</a></p>
+            <p>Report generated by <a href="https://github.com/edforman-75/glu-knowledge" target="_blank">Glu AI Visibility Monitoring</a> | January 13, 2026</p>
+        </footer>
+    </main>
+</body>
+</html>

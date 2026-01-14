@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visibility Techniques | HUFT AI Visibility Report</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-header">
+            <h1><a href="index.html">HUFT AI Visibility</a></h1>
+            <p>January 13, 2026</p>
+        </div>
+
+        <div class="nav-section">
+            <h3>Overview</h3>
+            <a href="index.html" class="nav-link">Executive Summary</a>
+            <a href="index.html#surface-comparison" class="nav-link">Surface Comparison</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>Analysis</h3>
+            <a href="surface-analysis.html" class="nav-link">Browser vs API Differences</a>
+            <a href="surface-analysis.html#why-differ" class="nav-link">Why Responses Differ</a>
+            <a href="surface-analysis.html#closest" class="nav-link">Which Is Closest to API?</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>By Surface</h3>
+            <a href="index.html#perplexity" class="nav-link">Perplexity (43%)</a>
+            <a href="index.html#gemini" class="nav-link">Gemini (29%)</a>
+            <a href="index.html#meta-ai" class="nav-link">Meta AI (23%)</a>
+            <a href="index.html#google" class="nav-link">Google AIO (22%)</a>
+            <a href="index.html#chatgpt" class="nav-link">ChatGPT (40%)</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>Optimization</h3>
+            <a href="visibility-techniques.html" class="nav-link active">Visibility Techniques</a>
+            <a href="product-analysis.html" class="nav-link">Product Category Analysis</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>About</h3>
+            <a href="methodology.html" class="nav-link">Methodology</a>
+            <a href="https://github.com/edforman-75/glu-knowledge/blob/main/07_BRAND_HUB/docs/HOW_AI_CHATBOTS_WORK.md" target="_blank" class="nav-link">How AI Chatbots Work</a>
+        </div>
+    </nav>
+
+    <main class="main">
+        <section class="section">
+            <div class="page-hero">
+                <div class="breadcrumb"><a href="index.html">Report</a> / Visibility Techniques</div>
+                <h2>Techniques for Improving AI Visibility</h2>
+                <p>How to help AI systems understand and recommend your brand</p>
+            </div>
+
+            <h3>Why This Matters</h3>
+            <p>AI systems like ChatGPT, Gemini, and Perplexity pull information from multiple sources to generate recommendations. The more clearly and consistently your brand information is presented across the web, the more likely AI systems are to include your brand in relevant responses.</p>
+        </section>
+
+        <section class="section">
+            <h2>1. Structured Data (JSON-LD)</h2>
+
+            <div class="surface-card">
+                <h4>What It Is</h4>
+                <p>JSON-LD (JavaScript Object Notation for Linked Data) is a way to add machine-readable metadata to your website. It helps AI systems and search engines understand exactly what your pages are about.</p>
+            </div>
+
+            <h3>Key Schema Types for HUFT</h3>
+            <ul>
+                <li><strong>Organization:</strong> Business name, logo, contact info, social profiles</li>
+                <li><strong>LocalBusiness:</strong> Store locations, hours, addresses</li>
+                <li><strong>Product:</strong> Product details, pricing, availability, reviews</li>
+                <li><strong>FAQPage:</strong> Common questions and answers (see below)</li>
+                <li><strong>HowTo:</strong> Pet care guides, grooming instructions</li>
+                <li><strong>Review/AggregateRating:</strong> Customer reviews and ratings</li>
+            </ul>
+
+            <div class="info-box insight">
+                <h4>Impact on AI Visibility</h4>
+                <p>Perplexity and Google AIO specifically pull from structured data when generating responses. Properly implemented JSON-LD increases the chance of being cited as a source.</p>
+            </div>
+
+            <h3>Example: Product Schema</h3>
+            <div class="verbatim">
+                <blockquote>
+<pre>{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "HUFT Premium Dog Food - Chicken & Rice",
+  "brand": {
+    "@type": "Brand",
+    "name": "Heads Up For Tails"
+  },
+  "category": "Pet Supplies > Dog Food",
+  "offers": {
+    "@type": "Offer",
+    "availability": "https://schema.org/InStock",
+    "priceCurrency": "INR"
+  }
+}</pre>
+                </blockquote>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>2. FAQ Content</h2>
+
+            <div class="surface-card">
+                <h4>What It Is</h4>
+                <p>FAQ pages that directly answer common questions in a clear, structured format. When combined with FAQPage schema, these become highly visible to AI systems.</p>
+            </div>
+
+            <h3>Why FAQs Matter for AI</h3>
+            <ul>
+                <li><strong>Direct answers:</strong> AI systems prefer content that directly answers questions</li>
+                <li><strong>Natural language:</strong> FAQs are written in the same style as user queries</li>
+                <li><strong>Structured format:</strong> Easy for AI to extract and cite</li>
+                <li><strong>Comprehensive coverage:</strong> Cover many query variations in one place</li>
+            </ul>
+
+            <h3>FAQ Topics HUFT Should Cover</h3>
+            <ul>
+                <li>"What is the best dog food for Indian breeds?"</li>
+                <li>"Where can I buy pet supplies in [city]?"</li>
+                <li>"What grooming products do I need for my puppy?"</li>
+                <li>"Is HUFT food suitable for dogs with allergies?"</li>
+                <li>"How does HUFT compare to [competitor]?"</li>
+                <li>"What are preservative-free treat options for dogs?"</li>
+            </ul>
+
+            <div class="info-box insight">
+                <h4>The ChatGPT Gap</h4>
+                <p>Our tests show ChatGPT mentions HUFT 40% of the time, but misses generic food and grooming queries. Creating FAQ content specifically addressing "best dog food in India" and "best grooming products in India" could close this gap.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>3. Trust Signals</h2>
+
+            <div class="surface-card">
+                <h4>What They Are</h4>
+                <p>Indicators that help AI systems determine your brand is authoritative and trustworthy. AI systems use trust signals to decide which brands to recommend.</p>
+            </div>
+
+            <h3>Types of Trust Signals</h3>
+
+            <h4>Expert Credentials</h4>
+            <ul>
+                <li>Veterinarian endorsements or partnerships</li>
+                <li>Pet nutritionist involvement in product development</li>
+                <li>Industry certifications and awards</li>
+                <li>Professional affiliations (pet industry associations)</li>
+            </ul>
+
+            <h4>Social Proof</h4>
+            <ul>
+                <li>Customer reviews on multiple platforms</li>
+                <li>User-generated content (photos, testimonials)</li>
+                <li>Media mentions and press coverage</li>
+                <li>Influencer partnerships with pet experts</li>
+            </ul>
+
+            <h4>Business Legitimacy</h4>
+            <ul>
+                <li>Physical store locations (Google Business profiles)</li>
+                <li>Clear contact information and customer service</li>
+                <li>Transparent sourcing and manufacturing information</li>
+                <li>Published return and quality guarantee policies</li>
+            </ul>
+
+            <div class="info-box">
+                <h4>Why Trust Matters More for AI</h4>
+                <p>AI systems are designed to avoid recommending low-quality or unreliable products. Strong trust signals help your brand pass the AI's implicit quality filter.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>4. Content Optimization</h2>
+
+            <h3>Write for Questions, Not Keywords</h3>
+            <p>Traditional SEO focused on keywords. AI optimization requires answering the actual questions users ask.</p>
+
+            <div class="comparison-table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Traditional SEO</th>
+                            <th>AI Optimization</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>"dog food India premium"</td>
+                            <td>"What is the best premium dog food available in India?"</td>
+                        </tr>
+                        <tr>
+                            <td>"pet store Gurgaon"</td>
+                            <td>"Where can I find a good pet store in Gurgaon?"</td>
+                        </tr>
+                        <tr>
+                            <td>"puppy supplies checklist"</td>
+                            <td>"I just got a puppy in India - what supplies do I need?"</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <h3>Content Structure for AI</h3>
+            <ul>
+                <li><strong>Clear headings:</strong> Use H2/H3 tags that match common questions</li>
+                <li><strong>Direct answers:</strong> First sentence should directly answer the question</li>
+                <li><strong>Supporting detail:</strong> Follow with evidence, specifications, comparisons</li>
+                <li><strong>Entity mentions:</strong> Clearly state brand name, product names, locations</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>5. Entity Building</h2>
+
+            <div class="surface-card">
+                <h4>What It Is</h4>
+                <p>Creating a consistent, recognizable brand identity across the web that AI systems can confidently associate with specific topics and categories.</p>
+            </div>
+
+            <h3>HUFT's Entity Associations</h3>
+            <p>Our testing shows AI systems already associate HUFT with:</p>
+            <ul>
+                <li>Premium pet products in India</li>
+                <li>Pet retail stores (physical locations)</li>
+                <li>Alternative to global brands (Royal Canin, Pedigree)</li>
+                <li>Sara's Treats sub-brand (emerging on Meta AI)</li>
+            </ul>
+
+            <h3>Entity Building Opportunities</h3>
+            <ul>
+                <li><strong>Wikipedia presence:</strong> A Wikipedia article signals importance to AI</li>
+                <li><strong>Knowledge panel:</strong> Google Knowledge Panel improves entity recognition</li>
+                <li><strong>Wikidata entry:</strong> Structured entity data used by multiple AI systems</li>
+                <li><strong>Consistent NAP:</strong> Name, Address, Phone across all directories</li>
+            </ul>
+
+            <div class="info-box insight">
+                <h4>The Sara's Treats Breakthrough</h4>
+                <p>Meta AI mentioning Sara's Treats shows sub-brand entity building is possible. Similar efforts for other HUFT sub-brands could expand visibility across more product categories.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>6. Technical SEO for AI</h2>
+
+            <h3>Crawlability</h3>
+            <ul>
+                <li>Ensure all important pages are crawlable (check robots.txt)</li>
+                <li>Submit XML sitemap to search engines</li>
+                <li>Fix broken links and redirect chains</li>
+                <li>Maintain fast page load speeds</li>
+            </ul>
+
+            <h3>Mobile Optimization</h3>
+            <ul>
+                <li>Mobile-first indexing affects AI training data</li>
+                <li>Responsive design for all content</li>
+                <li>Touch-friendly navigation</li>
+            </ul>
+
+            <h3>Content Freshness</h3>
+            <ul>
+                <li>Regular content updates signal an active, authoritative site</li>
+                <li>Update product information promptly</li>
+                <li>Publish news, blog posts, and guides regularly</li>
+                <li>Remove or update outdated content</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Priority Actions for HUFT</h2>
+
+            <div class="finding positive">
+                <h4>High Priority: FAQ Content for Generic Queries</h4>
+                <p>Create comprehensive FAQ pages addressing "best dog food in India," "best grooming products," and "best pet accessories." These are the query types where HUFT visibility is weakest.</p>
+            </div>
+
+            <div class="finding positive">
+                <h4>High Priority: JSON-LD Implementation</h4>
+                <p>Add structured data (Product, LocalBusiness, FAQPage schema) to all key pages. This directly improves Perplexity and Google AIO visibility.</p>
+            </div>
+
+            <div class="finding neutral">
+                <h4>Medium Priority: Trust Signal Enhancement</h4>
+                <p>Add veterinarian endorsements, certifications, and expert credentials to product pages. This helps AI systems confidently recommend HUFT products.</p>
+            </div>
+
+            <div class="finding neutral">
+                <h4>Medium Priority: Sara's Treats Expansion</h4>
+                <p>Build on the Meta AI breakthrough by creating more dedicated Sara's Treats content and structured data.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Further Reading</h2>
+
+            <a href="https://github.com/edforman-75/glu-knowledge/blob/main/07_BRAND_HUB/docs/HOW_AI_RECOMMENDS_PRODUCTS.md" target="_blank" class="resource-card">
+                <span class="arrow">&rarr;</span>
+                <h4>How AI Recommends Products</h4>
+                <p>Understanding the decision-making process behind AI product recommendations.</p>
+            </a>
+
+            <a href="product-analysis.html" class="resource-card">
+                <span class="arrow">&rarr;</span>
+                <h4>Product Category Analysis</h4>
+                <p>See which product categories have the highest and lowest HUFT visibility.</p>
+            </a>
+
+            <a href="methodology.html" class="resource-card">
+                <span class="arrow">&rarr;</span>
+                <h4>Our Methodology</h4>
+                <p>How we tested AI surfaces and measured brand visibility.</p>
+            </a>
+        </section>
+
+        <footer class="footer">
+            <p><a href="index.html">&larr; Back to Report Overview</a></p>
+            <p>Report generated by <a href="https://github.com/edforman-75/glu-knowledge" target="_blank">Glu AI Visibility Monitoring</a> | January 13, 2026</p>
+        </footer>
+    </main>
+</body>
+</html>

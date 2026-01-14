@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Methodology | HUFT AI Visibility Report</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-header">
+            <h1><a href="index.html">HUFT AI Visibility</a></h1>
+            <p>January 13, 2026</p>
+        </div>
+
+        <div class="nav-section">
+            <h3>Overview</h3>
+            <a href="index.html" class="nav-link">Executive Summary</a>
+            <a href="index.html#surface-comparison" class="nav-link">Surface Comparison</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>Analysis</h3>
+            <a href="surface-analysis.html" class="nav-link">Browser vs API Differences</a>
+            <a href="surface-analysis.html#why-differ" class="nav-link">Why Responses Differ</a>
+            <a href="surface-analysis.html#closest" class="nav-link">Which Is Closest to API?</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>By Surface</h3>
+            <a href="index.html#perplexity" class="nav-link">Perplexity (43%)</a>
+            <a href="index.html#gemini" class="nav-link">Gemini (29%)</a>
+            <a href="index.html#meta-ai" class="nav-link">Meta AI (23%)</a>
+            <a href="index.html#google" class="nav-link">Google AIO (22%)</a>
+            <a href="index.html#chatgpt" class="nav-link">ChatGPT (34%)</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>Optimization</h3>
+            <a href="visibility-techniques.html" class="nav-link">Visibility Techniques</a>
+            <a href="product-analysis.html" class="nav-link">Product Category Analysis</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>About</h3>
+            <a href="methodology.html" class="nav-link active">Methodology</a>
+            <a href="https://github.com/edforman-75/glu-knowledge/blob/main/07_BRAND_HUB/docs/HOW_AI_CHATBOTS_WORK.md" target="_blank" class="nav-link">How AI Chatbots Work</a>
+        </div>
+    </nav>
+
+    <main class="main">
+        <section class="section">
+            <div class="page-hero">
+                <div class="breadcrumb"><a href="index.html">Report</a> / Methodology</div>
+                <h2>How We Measured AI Visibility</h2>
+                <p>Our approach to testing consumer AI surfaces</p>
+            </div>
+
+            <h3>Overview</h3>
+            <p>This report measures how often HUFT (Heads Up For Tails) appears in AI-generated responses to common pet product queries. We tested consumer-facing AI surfaces the way actual customers use them.</p>
+        </section>
+
+        <section class="section">
+            <h2>Surfaces Tested</h2>
+
+            <p>We tested <strong>4 consumer AI surfaces</strong> (browser) plus <strong>3 API endpoints</strong> for a total of 7 distinct testing channels:</p>
+
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th>Surface</th>
+                        <th>Type</th>
+                        <th>Queries Tested</th>
+                        <th>Success Rate</th>
+                        <th>HUFT Mentions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>ChatGPT</strong></td>
+                        <td>Browser (chatgpt.com)</td>
+                        <td>62</td>
+                        <td>98%</td>
+                        <td>34%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Perplexity</strong></td>
+                        <td>Browser (perplexity.ai)</td>
+                        <td>59</td>
+                        <td>98%</td>
+                        <td>43%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Gemini</strong></td>
+                        <td>Browser (gemini.google.com)</td>
+                        <td>59</td>
+                        <td>98%</td>
+                        <td>29%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Google AI Overviews</strong></td>
+                        <td>Browser (google.com)</td>
+                        <td>59</td>
+                        <td>98%</td>
+                        <td>22%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Gemini API</strong></td>
+                        <td>API (2.0 Flash)</td>
+                        <td>59</td>
+                        <td>100%</td>
+                        <td>68%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Perplexity API</strong></td>
+                        <td>API (Sonar)</td>
+                        <td>59</td>
+                        <td>100%</td>
+                        <td>42%</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Llama 3.3</strong></td>
+                        <td>API (Together.ai)</td>
+                        <td>59</td>
+                        <td>100%</td>
+                        <td>20%</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <p><strong>Total queries executed:</strong> 416 across all surfaces</p>
+
+            <div class="info-box insight">
+                <h4>Key Finding: API vs Browser Differences</h4>
+                <p><strong>Gemini API (68%) far outperforms Gemini Browser (29%)</strong> for HUFT visibility. This suggests the browser interface applies additional filtering or context that affects brand mentions.</p>
+                <p>Perplexity shows consistent results between API (42%) and Browser (43%), indicating their interfaces are more closely aligned.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>What We Measured</h2>
+
+            <div class="surface-card">
+                <h4>HUFT Mention Rate</h4>
+                <p>The percentage of successful queries where HUFT or "Heads Up For Tails" appeared in the AI response. This is the primary metric for brand visibility.</p>
+            </div>
+
+            <h3>Detection Criteria</h3>
+            <p>A query was counted as a "HUFT mention" if the response contained either:</p>
+            <ul>
+                <li>"HUFT" (case-insensitive)</li>
+                <li>"Heads Up For Tails" (case-insensitive)</li>
+            </ul>
+
+            <h3>Query Categories</h3>
+            <p>We tested queries across multiple categories to understand visibility patterns:</p>
+            <ul>
+                <li><strong>Dog Food:</strong> General, premium, specialty diets</li>
+                <li><strong>Cat Products:</strong> Food, litter, supplies</li>
+                <li><strong>Accessories:</strong> Collars, beds, leashes</li>
+                <li><strong>Grooming:</strong> Products, services</li>
+                <li><strong>Shopping:</strong> Online stores, physical locations</li>
+                <li><strong>Brand:</strong> Direct HUFT questions</li>
+                <li><strong>Comparisons:</strong> HUFT vs competitors</li>
+                <li><strong>Use Cases:</strong> New puppy, specific needs</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Our Approach</h2>
+
+            <div class="surface-card">
+                <h4>Consumer-Perspective Testing</h4>
+                <p>We tested AI surfaces through web browsers - the same way actual consumers use them. This captures the real-world experience including web search integration, personalization, and interface-specific behaviors.</p>
+            </div>
+
+            <h3>Why Browser Testing Matters</h3>
+            <p>API testing and browser testing often produce different results because:</p>
+            <ul>
+                <li>Browser interfaces add web search capabilities</li>
+                <li>System prompts and configurations differ</li>
+                <li>Personalization and context affect responses</li>
+                <li>Post-processing and formatting vary</li>
+            </ul>
+            <p>For a detailed explanation, see <a href="surface-analysis.html">Browser vs API Analysis</a>.</p>
+        </section>
+
+        <section class="section">
+            <h2>Limitations</h2>
+
+            <div class="info-box warning">
+                <h4>Geographic Consideration</h4>
+                <p>Tests were conducted from a non-India IP address. AI responses may differ when accessed from within India, as some surfaces use geographic context to customize responses.</p>
+                <p><strong>Future improvement:</strong> Testing from an India-based IP address would provide more accurate results for what Indian consumers actually see. This is recommended for subsequent reports.</p>
+            </div>
+
+            <h3>Other Limitations</h3>
+            <ul>
+                <li><strong>Point-in-time snapshot:</strong> AI responses change over time as models are updated and web content evolves</li>
+                <li><strong>Query sampling:</strong> We tested representative queries but cannot cover all possible variations</li>
+                <li><strong>Language:</strong> All queries were in English; Hindi or regional language queries may yield different results</li>
+                <li><strong>Personalization:</strong> Logged-in user experiences may differ from anonymous testing</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Methodology Notes</h2>
+
+            <h3>Why We Don't Share Implementation Details</h3>
+            <p>The specific techniques for accessing and testing AI surfaces are kept confidential for several reasons:</p>
+            <ul>
+                <li>Surface interfaces change frequently; specific implementation details become outdated quickly</li>
+                <li>Detection methods could be used to game AI systems rather than improve genuine visibility</li>
+                <li>Our methodology represents ongoing research and development investment</li>
+            </ul>
+
+            <h3>What We Do Share</h3>
+            <ul>
+                <li><strong>Surfaces tested:</strong> Which AI systems we evaluated</li>
+                <li><strong>Query types:</strong> Categories and examples of questions asked</li>
+                <li><strong>Metrics:</strong> How we calculated visibility scores</li>
+                <li><strong>Results:</strong> Full visibility data by surface and category</li>
+                <li><strong>Recommendations:</strong> Actionable steps to improve visibility</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Recommended Improvements for Future Reports</h2>
+
+            <div class="finding neutral">
+                <h4>1. India-Based IP Testing</h4>
+                <p>Conduct tests from servers located in India to capture geo-targeted responses. This would ensure the results reflect what Indian consumers actually see.</p>
+            </div>
+
+            <div class="finding neutral">
+                <h4>2. Multi-Language Testing</h4>
+                <p>Add Hindi and regional language queries to understand visibility in non-English contexts.</p>
+            </div>
+
+            <div class="finding neutral">
+                <h4>3. Logged-In Testing</h4>
+                <p>Test with authenticated accounts to understand personalization effects.</p>
+            </div>
+
+            <div class="finding neutral">
+                <h4>4. Temporal Tracking</h4>
+                <p>Run tests periodically to track visibility changes over time and measure the impact of optimization efforts.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Report Information</h2>
+
+            <table class="comparison-table">
+                <tbody>
+                    <tr>
+                        <td><strong>Report Date</strong></td>
+                        <td>January 13, 2026</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Brand Tested</strong></td>
+                        <td>HUFT (Heads Up For Tails)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Market Focus</strong></td>
+                        <td>India</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Total Surfaces</strong></td>
+                        <td>7 (4 browser + 3 API)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Total Queries</strong></td>
+                        <td>416</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Overall Success Rate</strong></td>
+                        <td>98%</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section class="section">
+            <h2>Further Reading</h2>
+
+            <a href="https://github.com/edforman-75/glu-knowledge/blob/main/07_BRAND_HUB/docs/HOW_AI_CHATBOTS_WORK.md" target="_blank" class="resource-card">
+                <span class="arrow">&rarr;</span>
+                <h4>How AI Chatbots Work</h4>
+                <p>Plain-English explanation of what happens between your question and the AI's answer.</p>
+            </a>
+
+            <a href="https://github.com/edforman-75/glu-knowledge/blob/main/07_BRAND_HUB/docs/WHY_WEB_AND_API_DIFFER.md" target="_blank" class="resource-card">
+                <span class="arrow">&rarr;</span>
+                <h4>Why Web and API Responses Differ</h4>
+                <p>Technical explanation of browser vs API response differences.</p>
+            </a>
+
+            <a href="surface-analysis.html" class="resource-card">
+                <span class="arrow">&rarr;</span>
+                <h4>Browser vs API Analysis</h4>
+                <p>Detailed analysis of how browser interfaces process queries differently than APIs.</p>
+            </a>
+        </section>
+
+        <footer class="footer">
+            <p><a href="index.html">&larr; Back to Report Overview</a></p>
+            <p>Report generated by <a href="https://github.com/edforman-75/glu-knowledge" target="_blank">Glu AI Visibility Monitoring</a> | January 13, 2026</p>
+        </footer>
+    </main>
+</body>
+</html>
