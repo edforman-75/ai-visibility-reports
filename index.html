@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Visibility Reports | Glu</title>
+    <title>AI Visibility Studies | Glu</title>
     <style>
         * {
             margin: 0;
@@ -18,7 +18,7 @@
             padding: 2rem;
         }
         .container {
-            max-width: 800px;
+            max-width: 900px;
             margin: 0 auto;
         }
         h1 {
@@ -33,11 +33,18 @@
             color: #737373;
             margin-bottom: 3rem;
         }
-        .reports {
+        h2 {
+            font-size: 1.25rem;
+            color: #a3a3a3;
+            margin: 2rem 0 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #262626;
+        }
+        .studies {
             display: grid;
             gap: 1.5rem;
         }
-        .report-card {
+        .study-card {
             background: #171717;
             border: 1px solid #262626;
             border-radius: 12px;
@@ -46,21 +53,21 @@
             color: inherit;
             transition: all 0.2s;
         }
-        .report-card:hover {
+        .study-card:hover {
             border-color: #3b82f6;
             transform: translateY(-2px);
         }
-        .report-card h2 {
+        .study-card h3 {
             font-size: 1.5rem;
             margin-bottom: 0.5rem;
             color: #f5f5f5;
         }
-        .report-card .date {
+        .study-card .date {
             font-size: 0.875rem;
             color: #737373;
             margin-bottom: 1rem;
         }
-        .report-card p {
+        .study-card p {
             color: #a3a3a3;
             line-height: 1.6;
         }
@@ -84,6 +91,58 @@
             color: #737373;
             text-transform: uppercase;
         }
+        .links {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1.5rem;
+            flex-wrap: wrap;
+        }
+        .link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: #262626;
+            border-radius: 6px;
+            color: #a3a3a3;
+            text-decoration: none;
+            font-size: 0.875rem;
+            transition: all 0.2s;
+        }
+        .link:hover {
+            background: #3b82f6;
+            color: white;
+        }
+        .link-primary {
+            background: #3b82f6;
+            color: white;
+        }
+        .resources {
+            display: grid;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        .resource-card {
+            display: block;
+            background: #171717;
+            border: 1px solid #262626;
+            border-radius: 8px;
+            padding: 1.25rem;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.2s;
+        }
+        .resource-card:hover {
+            border-color: #3b82f6;
+        }
+        .resource-card h4 {
+            color: #f5f5f5;
+            margin-bottom: 0.25rem;
+        }
+        .resource-card p {
+            color: #737373;
+            font-size: 0.875rem;
+        }
         footer {
             margin-top: 4rem;
             padding-top: 2rem;
@@ -100,12 +159,13 @@
 </head>
 <body>
     <div class="container">
-        <h1>AI Visibility Reports</h1>
-        <p class="subtitle">Consumer AI surface monitoring by Glu</p>
+        <h1>AI Visibility Studies</h1>
+        <p class="subtitle">Consumer AI surface monitoring and analysis by Glu</p>
 
-        <div class="reports">
-            <a href="huft/" class="report-card">
-                <h2>HUFT (Heads Up For Tails)</h2>
+        <h2>Studies</h2>
+        <div class="studies">
+            <div class="study-card">
+                <h3>HUFT (Heads Up For Tails)</h3>
                 <div class="date">January 13, 2026</div>
                 <p>AI visibility analysis for India's leading pet products brand. Tests across ChatGPT, Gemini, Perplexity, Google AI Overviews, and API endpoints.</p>
                 <div class="metrics">
@@ -122,10 +182,14 @@
                         <div class="label">Best Visibility</div>
                     </div>
                 </div>
-            </a>
+                <div class="links">
+                    <a href="huft/report/" class="link link-primary">View Report</a>
+                    <a href="huft/data/" class="link">Raw Data (JSON)</a>
+                </div>
+            </div>
 
-            <a href="deckers/" class="report-card">
-                <h2>Deckers Brands</h2>
+            <div class="study-card">
+                <h3>Deckers Brands</h3>
                 <div class="date">January 13, 2026</div>
                 <p>Multi-brand AI visibility analysis covering HOKA, UGG, Teva, and Sanuk. Comprehensive testing across major consumer AI surfaces.</p>
                 <div class="metrics">
@@ -142,11 +206,32 @@
                         <div class="label">Queries</div>
                     </div>
                 </div>
+                <div class="links">
+                    <a href="deckers/report/" class="link link-primary">View Report</a>
+                    <a href="deckers/data/" class="link">Raw Data (JSON)</a>
+                </div>
+            </div>
+        </div>
+
+        <h2>Documentation</h2>
+        <div class="resources">
+            <a href="docs/WORKFLOW-AI-VISIBILITY-STUDY.md" class="resource-card">
+                <h4>Workflow Guide</h4>
+                <p>Detailed methodology for executing AI visibility studies</p>
+            </a>
+            <a href="docs/README.md" class="resource-card">
+                <h4>Consumer Monitoring README</h4>
+                <p>Overview of the monitoring system and setup</p>
+            </a>
+            <a href="scripts/" class="resource-card">
+                <h4>Test Scripts</h4>
+                <p>TypeScript scripts used to execute the studies</p>
             </a>
         </div>
 
         <footer>
             <p>Generated by <a href="https://github.com/kyanos-ai">Glu AI Visibility Monitoring</a></p>
+            <p style="margin-top: 0.5rem;"><a href="https://github.com/edforman-75/ai-visibility-reports">View on GitHub</a></p>
         </footer>
     </div>
 </body>

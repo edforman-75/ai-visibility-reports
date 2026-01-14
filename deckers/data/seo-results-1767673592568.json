@@ -1,0 +1,3013 @@
+[
+  {
+    "engine": "google",
+    "query": "Tom Malinowski",
+    "queryId": "who_is",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th congressional ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski for Congress",
+        "link": "https://www.malinowskifornj.com/",
+        "snippet": "Tom Malinowski is a Democrat running for Congress in NJ's 11th Congressional District & former Asst. Secretary of State.",
+        "domain": "www.malinowskifornj.com"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski",
+        "link": "https://www.congress.gov/member/tom-malinowski/M001203",
+        "snippet": "Tom Malinowski, the Representative from New Jersey - in Congress from 2019 through 2023.",
+        "domain": "www.congress.gov"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski (@malinowskifornj) · New Jersey, USA",
+        "link": "https://www.instagram.com/malinowskifornj/?hl=en",
+        "snippet": "3K+ followers · 218 following · 72 posts · @malinowskifornj: “Diplomat, father and husband, former Congressman proudly standing up for New Jersey.”",
+        "domain": "www.instagram.com"
+      },
+      {
+        "position": 5,
+        "title": "MALINOWSKI, TOM - Candidate overview",
+        "link": "https://www.fec.gov/data/candidate/H8NJ07223/",
+        "snippet": "Explore current and historic federal campaign finance data on the new fec.gov. Look at totals and trends, and see how candidates and committees raise and ...",
+        "domain": "www.fec.gov"
+      },
+      {
+        "position": 6,
+        "title": "Congressman Tom Malinowski",
+        "link": "https://docs.house.gov/meetings/AP/AP04/20220517/114743/HHRG-117-AP04-Bio-M001203-20220517.pdf",
+        "snippet": "Congressman Tom Malinowski (D-NJ) was born in Communist Poland during the height of the Cold War. When he was six, he and his mother fled to the United.",
+        "domain": "docs.house.gov"
+      },
+      {
+        "position": 7,
+        "title": "Seton Hall Welcomes Visiting Scholar Tom Malinowski, ...",
+        "link": "https://www.shu.edu/diplomacy/news/seton-hall-welcomes-visiting-scholar-tom-malinowski.html",
+        "snippet": "Seton Hall School of Diplomacy and International Relations is honored to introduce visiting scholar Tom Malinowski, a former Congressman and ...",
+        "domain": "www.shu.edu"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski - State.gov",
+        "link": "https://2009-2017.state.gov/r/pa/ei/biog/224368.htm",
+        "snippet": "Tom Malinowski was sworn in as Assistant Secretary of State for Democracy, Human Rights and Labor on April 3, 2014.",
+        "domain": "2009-2017.state.gov"
+      }
+    ],
+    "knowledgePanel": {
+      "title": "Tom Malinowski",
+      "type": "Former United States Representative",
+      "entity_type": "people",
+      "kgmid": "/g/11cmhw_v1s",
+      "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11cmhw_v1s&hl=en-US&q=Tom+Malinowski",
+      "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11cmhw_v1s&num=10&q=Tom+Malinowski",
+      "header_images": [
+        {
+          "image": "https://serpapi.com/searches/695c8eafd08cfe68838e83bf/images/c5890b2ef8ec832b83201a862980512068bc8a9338773aac0c8d10293e24395bf7fb0dbc280288b9.webp",
+          "source": "https://www.ncapaonline.org/rep-tom-malinowski/"
+        },
+        {
+          "image": "https://serpapi.com/searches/695c8eafd08cfe68838e83bf/images/c5890b2ef8ec832b83201a862980512068bc8a9338773aac1aaf55fd4de66340792a90d09e798aad.webp",
+          "source": "https://thehill.com/homenews/house/554739-rep-malinowski-traded-as-much-as-1m-in-medical-tech-stocks-that-had-stake-in/"
+        },
+        {
+          "image": "https://serpapi.com/searches/695c8eafd08cfe68838e83bf/images/c5890b2ef8ec832b83201a862980512068bc8a9338773aac006870acec8176b473976c107d54b963.webp",
+          "source": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTBAxrXjsY3kkQKCT82DhcmjCPxuGoZWDIunlVN7xcjaJ4J2VmWAeO94IDIbMgnA3LLjfJ0W852qAlYxBg"
+        }
+      ],
+      "description": "Tomasz Pobóg \"Tom\" Malinowski is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th congressional district from 2019 to 2023. A Democrat, he served as Assistant Secretary of State for Democracy, Human Rights, and Labor in the Obama administration.",
+      "source": {
+        "name": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski"
+      },
+      "born": "1965 (age 60 years), Słupsk, Poland",
+      "born_links": [
+        {
+          "text": "Słupsk, Poland",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=S%C5%82upsk&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMlwiV_ebszBB_av7C1-RraQvboyeTX4RVLg9diqCJwWIjjcVT3KHm9w2JL_2u69Vt3_8-RJ3ZYFoSrXXHCItdgDSKxDlgrPswvR6R4zbMhFKf3LOpc9MbsfTFXd1vidsQQKZn34rp_I5NUpenbpUsKQuKJ6m&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQmxN6BAguEAI"
+        }
+      ],
+      "previous_offices": "Representative, NJ 7th District (2019–2023)",
+      "previous_offices_links": [
+        {
+          "text": "NJ 7th District",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=New+Jersey%27s+7th+Congressional+District&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Exd96yg8tnWiIEBfOS3tLu-5D9FrVVg1lMJyaqrkcXJefX8LpcxkME1LfQlQg_CQ6Pfu_4e1GXgft42gaVGxJwLhsqKAXXWI8A3BIN70WOzvoxGYcrOse8mgXMhKY8iRb6mp4LlmXwpU-SkrEY2sL10_FudfTsq5_mF8Uz74a59jSoci2bPT-Aez5Umm8QpNQ3QFLpA8IAgZ-q3uALxVI9djuJ4Q3u_pEeq738ogw2wMoKr0Te3_Whp-gSJ9Qhl6o1mV5mlIMrB-VSYKMiIiehFXcqs&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQmxN6BAgwEAI"
+        },
+        {
+          "text": "See more",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=tom+malinowski+previous+offices&stick=H4sIAAAAAAAAAD3KMQ6AIAwAwMnERQc_ILMOhJXPGEJAG6AlFOE_vlQn18uN8zLJUypl09WPpnjbg9XypOYKJodVZopQwYJBnYtrQDeLTPwZ4TOslZJIJgJS5wDiL-Q9WMcv_mz88WAAAAA&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQ44YBegQIMBAD"
+        }
+      ],
+      "education": "St Antony's College (1991), Princeton High School (1983), University of California, Berkeley",
+      "education_links": [
+        {
+          "text": "St Antony's College",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=St+Antony%27s+College&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMiiulPDBXMyJs_Fg96I6QAzJAg4f_FTfQXWj-fO8CSUqdGOwGeIb341iH0AMd9w6i8XMUUQ_8sM5PZcrV02NACX0a7XuNBOFcJ7IN5IMxv-B6SZs8GKGK9mqVdx0-frQ_-Z7ivHNiXh_lG7i8Fz_xqBwlXbTCNDFKFOX83GgfWY777BFNashM5mERhRDBZ6coTgkcLDTFQzvbYxhlTaang0RBMIvX1jnYl8IA0xyvKefll6f4w%3D%3D&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQmxN6BAgyEAI"
+        },
+        {
+          "text": "Princeton High School",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=Princeton+High+School&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35I-6m0AsdSFQEQXaxgT082DKdprd3nFwu_VCy4PLOiM8iaUmFIJgI_Nky3i-uwVS1r1yfpkRr0TSVEVOBRhgx_JHT4ZD5lkFK8tWvbN5OynJHqYmbKyQCy4-3mpzyheTFJBrdWGDawqcNv7Rza_H6b4aoAeSv-xrxUlnVpHIoL76DygW6UsGX3xmNMlOzGua4b-K0bNWMhAoouzehfDwGN1UM9-rMM-z1Uq0h2yEyH8te2HFAOS6Xk9p8vHciwUpL6Z4r6I%3D&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQmxN6BAgyEAM"
+        },
+        {
+          "text": "University of California, Berkeley",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=University+of+California,+Berkeley&si=AMgyJEtRPX4ld4pdQeltMBlsXK6YnLg9be4xryEBJwXFHLOO-K6OVyIY8ef3W78dBzKPkpxJewFbyfOf6IAsY5NkrY9L97byxOZxP4esydp8L7l3LrqzBh5dGJV9nbNmVPklrvogKJr0GCSaRo8jBk184kjY2LLVJHj4S8nP4rKcChnxCUGGa-fV7hARqHy3aQA9cbrQV26_pkxF_7KnxxoOeKAAk2iF55qXfxdBLk_wFjFGv4MsdG4z0LZj-calvd2mWVk6DvNg5_PX8-M36Z76_Z-J5WNtK-7y63X8CKHIyUJZ8xwOv6F1PGS4p2VzRTthXyTigbX_&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQmxN6BAgyEAQ"
+        }
+      ],
+      "party": "Democratic Party",
+      "party_links": [
+        {
+          "text": "Democratic Party",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=Democratic+Party&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35B6oqjpOY3hnpfQANDCo6UlQcCADNO1grOixsGNE4jTBcguNY6chuyhRUogtWAklCpkTghw2QKcMjlo1FaFLo4tN7IZSbO51020-_aniUhG51dXabwddzJPMPiUg2oa52l4Skj1vusak_sgAv5Kk85bjpWjLal2gAb8Hyp02QlVd2PL0lg%3D%3D&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQmxN6BAgzEAI"
+        }
+      ],
+      "candidate_for": "2026 US House New Jersey District 11 general special election",
+      "candidate_for_links": [
+        {
+          "text": "2026 US House New Jersey District 11 general special election",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=2026+US+House+New+Jersey+District+11+general+special+election&si=AMgyJEs9DArPE9xmb5yVYVjpG4jqWDEKSIpCRSjmm88XZWnGNVAAAJORToNF9qkJ7pFbLF2U8jWOIehe5kips1mZgSA3KR90QeU2n-c-9k54Y5bkzYPvE3kxbImBtkPzMxjKMqFfcbhJBW6nqhLMcJEb5iihi4gAoNrpW_F0-oVI9s7HlPX09P7wSPBJX7km22Ccj2KYnROuLrDSuX-5LcJnfq30SEV9gF1h5rsIB16S-G389gfN59UKbp_3WW4u_5kkxWPxgzzMvK3oO7ABPjWs-RKGFTU-Qg%3D%3D&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQmxN6BAgvEAI"
+        }
+      ],
+      "previous_campaigns": "2022 United States House of Representatives elections in New Jersey",
+      "previous_campaigns_links": [
+        {
+          "text": "2022 United States House of Representatives elections in New Jersey",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=2022+United+States+House+of+Representatives+elections+in+New+Jersey&si=AMgyJEs9DArPE9xmb5yVYVjpG4jqWDEKSIpCRSjmm88XZWnGNTybFDQmzshSKlU2NzyLs0voqhpMsqMqoggIH40ASgBdpxCmeyMM9SmhCIRxvZoF3WAsXdl-E6_6VKlS26Ul36nfJabF_WvJT5-KtFBrT_6dyoeQEWd9TyosbhsVEE1VuJrOPtKH8dkNdEmWREsxM4D5lm0SL-N5LlSzO_ukYRePb-6HjzWGrXZbUZ3pKw16M_YqEdlIHpWbo3MQAxzPR3dN3rcPG171PtY4OoAbN1QZ8NHp0-n2mOwfqQdxdLfrBMXGRLg%3D&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQmxN6BAgxEAI"
+        },
+        {
+          "text": "See more",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=tom+malinowski+previous+campaigns&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEzOzSiPLzMs1tLLTrbST0tNLCktSo0vqSxI1S_Iz8ksyUzOTMyzKihKLcvMLy2OT07MLUjMTM8rXsSqWJKfq5CbmJOZl19enJ2pAFOjAFcDAJkt72xlAAAA&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQ44YBegQIMRAD"
+        }
+      ],
+      "web_results": [
+        {
+          "title": "After delivering a historic grassroots win for the people of Parsippany, I’m happy to congratulate Mayor Pulkit Desai, Councilwoman Diya Patel, and Councilman Matt Kavanagh on officially being sworn in tonight! Parsippany is in good hands with this team in charge.",
+          "source": "Facebook",
+          "account_handle": "Tom Malinowski",
+          "source_image": "https://serpapi.com/searches/695c8eafd08cfe68838e83bf/images/c5890b2ef8ec832b83201a86298051207df0e6e9fd0686c194429609459a74291181cfb7592d511c60a9d58ded7f9270.png",
+          "date": "2 days ago",
+          "link": "https://www.facebook.com/tpmalinowski/posts/after-delivering-a-historic-grassroots-win-for-the-people-of-parsippany-im-happy/1288204573116799/"
+        },
+        {
+          "title": "Age",
+          "snippet": "60 years Sep 23, 1965",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=tom+malinowski+age&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEzOzSiPLzMs1hLNTrbSL0jNL8hJBVJFxfl5VonpqYtYhUrycxVyE3My8_LLi7MzFYCCAC-gAYs9AAAA&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQ18AJegQIGBAB"
+        },
+        {
+          "title": "Previous offices",
+          "snippet": "Representative, NJ 7th District",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=tom+malinowski+previous+offices&stick=H4sIAAAAAAAAAD3KMQ6AIAwAwMnERQc_ILMOhJXPGEJAG6AlFOE_vlQn18uN8zLJUypl09WPpnjbg9XypOYKJodVZopQwYJBnYtrQDeLTPwZ4TOslZJIJgJS5wDiL-Q9WMcv_mz88WAAAAA&sa=X&ved=2ahUKEwivpeqBifaRAxXNKUQIHTrdIukQ18AJegQIHBAB"
+        },
+        {
+          "thumbnail": "https://serpapi.com/searches/695c8eafd08cfe68838e83bf/images/c5890b2ef8ec832b83201a86298051207df0e6e9fd0686c1500c49d6ce9663ae9fe55c62550948f0.jpeg",
+          "title": "Tom Malinowski (@Malinowski) / Posts / X - Twitter",
+          "source": "X",
+          "link": "https://x.com/Malinowski"
+        }
+      ],
+      "profiles": [
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/malinowskifornj",
+          "image": "https://serpapi.com/searches/695c8eafd08cfe68838e83bf/images/c5890b2ef8ec832b83201a86298051208baca0d00513aae065a78013db8033777687077ebaf04b73.png"
+        },
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/malinowskifornj/",
+          "image": "https://serpapi.com/searches/695c8eafd08cfe68838e83bf/images/c5890b2ef8ec832b83201a86298051208baca0d00513aae031f92eeb44605ffd7cea7af5439acb02.png"
+        },
+        {
+          "name": "YouTube",
+          "link": "https://www.youtube.com/channel/UCPBK9PROw46Gv1CPrdNwJnQ",
+          "image": "https://serpapi.com/searches/695c8eafd08cfe68838e83bf/images/c5890b2ef8ec832b83201a86298051208baca0d00513aae0d7630369b4b542428e3a670a87929661.png"
+        },
+        {
+          "name": "X (Twitter)",
+          "link": "https://twitter.com/Malinowski",
+          "image": "https://serpapi.com/searches/695c8eafd08cfe68838e83bf/images/c5890b2ef8ec832b83201a86298051208baca0d00513aae0702d603e58e7af43db6d1791209ecfbf.png"
+        }
+      ]
+    },
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 1916
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski",
+    "queryId": "who_is",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski served in the U.S. House of Representatives …",
+        "link": "https://www.congress.gov/119/meeting/house/118216/witnesses/HHRG-119-FA07-Bio-MalinowskiT-20250508.pdf",
+        "snippet": "Tom Malinowski served in the U.S. House of Representatives from 2019 to 2023, representing New Jersey’s 7th Congressional district. He was born in Poland during the Cold …",
+        "domain": "www.congress.gov"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski Is Running for Congress as the Grownup in the Room",
+        "link": "https://villagegreennj.com/election/the-grownup-in-the-room-tom-malinowski/",
+        "snippet": "Tom Malinowski wants you to know that, among the crowded field of candidates in the Democratic primary to fill Mikie Sherrill’s Congressional seat (currently numbering 12), only he …",
+        "domain": "villagegreennj.com"
+      },
+      {
+        "position": 3,
+        "title": "Washington Post, the New York Times, the Atlantic, Foreign …",
+        "link": "https://docs.house.gov/meetings/FA/FA17/20240604/117339/HMTG-118-FA17-Bio-MalinowskiT-20240604.pdf",
+        "snippet": "Washington Post, the New York Times, the Atlantic, Foreign Policy, Foreign Affairs Tom Malinowski served two terms in the U.S. House of Represen.",
+        "domain": "docs.house.gov"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski for Congress",
+        "link": "https://www.malinowskifornj.com/",
+        "snippet": "Tom Malinowski is a former diplomat, human rights activist, and member of Congress who represented New Jersey between 2019 and 2023. During his …",
+        "domain": "www.malinowskifornj.com"
+      },
+      {
+        "position": 5,
+        "title": "Tom Malinowski gets Morris County NJ Democrats endorsement",
+        "link": "https://www.northjersey.com/story/news/politics/elections/2025/12/15/tom-malinowski-morris-county-nj-democrats-endorsement/87783693007/",
+        "snippet": "Former Rep. Tom Malinowski has captured the endorsement of the Morris County Democratic Committee.",
+        "domain": "www.northjersey.com"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski’s comeback campaign earns endorsement from …",
+        "link": "https://newjerseyglobe.com/congress/tom-malinowskis-comeback-campaign-earns-endorsement-from-andy-kim/",
+        "snippet": "Last year, when most of the state’s political establishment was all-in for Tammy Murphy for U.S. Senate, a lonely dissent came from former Rep. Tom Malinowski, who instead …",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski - Ballotpedia",
+        "link": "https://ballotpedia.org/Tom_Malinowski",
+        "snippet": "Malinowski was a senior director on the National Security Council during the Clinton administration, a chief advocate for Human Rights Watch, and an …",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 8,
+        "title": "Rep. Tom Malinowski [D-NJ7, 2019-2022], former Representative …",
+        "link": "https://www.govtrack.us/congress/members/tom_malinowski/412798",
+        "snippet": "Malinowski was the representative for New Jersey ’s 7 th congressional district and was a Democrat. He served from 2019 to 2022.",
+        "domain": "www.govtrack.us"
+      },
+      {
+        "position": 9,
+        "title": "Democrats return to democracy messaging in NJ special election",
+        "link": "https://www.politico.com/news/2026/01/02/democrats-return-to-democracy-messaging-in-nj-special-election-00704771",
+        "snippet": "Ahead of the February special election for New Jersey’s 11th District, former Rep. Tom Malinowski recently hosted a town hall with Maryland Rep. Jamie Raskin about “ defending our …",
+        "domain": "www.politico.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 963
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski political party",
+    "queryId": "party",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th congressional ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski",
+        "link": "https://ballotpedia.org/Tom_Malinowski",
+        "snippet": "The candidate list in this election may not be complete. Special Democratic primary for U.S. House New Jersey District 11. The following candidates are running ...",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 3,
+        "title": "MALINOWSKI, Tom | US House of Representatives",
+        "link": "https://history.house.gov/People/Detail/25769805190?current_search_qs=%3FPreviousSearch%3DSearch%252cLastName%252c%252c%252c%252c%252cFalse%252cFalse%252cFalse%252c%252cCongress%26CurrentPage%3D944%26SortOrder%3DCongress%26ResultType%3DList%26Command%3D947",
+        "snippet": "Concise Biography. MALINOWSKI, Tom, A Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, ...",
+        "domain": "history.house.gov"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski makes it official: He's running to succeed ...",
+        "link": "https://newjerseyglobe.com/congress/tom-malinowski-makes-it-official-hes-running-to-succeed-mikie-sherrill/",
+        "snippet": "-elect Mikie Sherrill soon to depart her seat in the 11th congressional district – one seat over from the 7th district Malinowski used to ...",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 5,
+        "title": "MALINOWSKI, TOM - Candidate overview",
+        "link": "https://www.fec.gov/data/candidate/H8NJ07223/",
+        "snippet": "Explore current and historic federal campaign finance data on the new fec.gov. Look at totals and trends, and see how candidates and committees raise and ...",
+        "domain": "www.fec.gov"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski prevails in vote for Morris Dems' ...",
+        "link": "https://www.northjersey.com/story/news/politics/elections/2025/12/15/tom-malinowski-morris-county-nj-democrats-endorsement/87783693007/",
+        "snippet": "Hoping for a return to the U.S. Congress as the replacement for Gov.-elect Mikie Sherrill, Tom Malinowski has captured a coveted endorsement ...",
+        "domain": "www.northjersey.com"
+      },
+      {
+        "position": 7,
+        "title": "Rep. Tom Malinowski's 2020 Report Card",
+        "link": "https://www.govtrack.us/congress/members/tom_malinowski/412798/report-card/2020",
+        "snippet": "Year-end 2020 legislative statistics for Rep. Malinowski [D-NJ7, 2019-2022], the Representative from New Jersey.",
+        "domain": "www.govtrack.us"
+      },
+      {
+        "position": 8,
+        "title": "Malinowski gets endorsement of Morris Dems for Mikie seat",
+        "link": "https://morristowngreen.com/2025/12/15/no-crooks-no-cowards-no-kings-malinowski-gets-endorsement-of-morris-dems-for-mikie-seat/",
+        "snippet": "Tom Malinowski won the Morris County Democratic Committee's endorsement in the race for New Jersey's 11th Congressional District, emerging from ...",
+        "domain": "morristowngreen.com"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski for House (D-NJ-07)",
+        "link": "https://livableworld.org/meet-the-candidates/house-candidates/tom-malinowski-for-house-d-nj-07/",
+        "snippet": "This year, the Republican Party has enlisted a strong candidate to oppose him. Malinowski, born in Communist Poland at the height of the Cold War, fled to ...",
+        "domain": "livableworld.org"
+      },
+      {
+        "position": 10,
+        "title": "POLITICO Pro: Malinowski jumps into race for Sherrill's seat",
+        "link": "https://subscriber.politicopro.com/article/2025/11/malinowski-jumps-into-race-for-sherrills-seat-00640114",
+        "snippet": "Former Democratic Rep. Tom Malinowski made his bid for Gov.-elect Mikie Sherrill's congressional seat official on Thursday. He joins a ...",
+        "domain": "subscriber.politicopro.com"
+      }
+    ],
+    "knowledgePanel": {
+      "title": "Democratic Party",
+      "type": "Political party",
+      "entity_type": "government, civics_groups, kp3_verticals",
+      "kgmid": "/m/0d075m",
+      "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0d075m&hl=en-US&q=Democratic+Party",
+      "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0d075m&num=10&q=Democratic+Party",
+      "description": "The Democratic Party is a liberal political party in the United States. Sitting on the center to center-left of the political spectrum, it is the world's oldest active political party, having been founded in 1828. Its main rival is the Republican Party, and since the 1850s both have dominated American politics.",
+      "source": {
+        "name": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+      },
+      "subsidiaries": "California Democratic Party, New Hampshire Democratic Party",
+      "subsidiaries_links": [
+        {
+          "text": "California Democratic Party",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=California+Democratic+Party&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35PIf3s49GGTleytT4BPC_odt2Qvd6iEowCHdwjJtrvJOAWrqBrTuZwW-zzYAya0eKZv6s3iHWUMYbSF4FU9IVpF_Ee8Um64E62WhWjMvSDRIPkmOOkeF4JAz9qYcE9XCjhOlU1oO-VflwaRqu6iCJQwhUdx8Lzy7iQ_lOWv5hNftxFJf6XqQsrqLbV1SNBB451MLzSGE-E_6GP6ZZRz9rFaMAge1V6GCZsc_-Aqz5_ibP9aLj0jDVR8LX4e9ScUk4ozIZmM%3D&sa=X&ved=2ahUKEwi6pKGDifaRAxVP6ckDHQ5WCxkQmxN6BAguEAI"
+        },
+        {
+          "text": "New Hampshire Democratic Party",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=New+Hampshire+Democratic+Party&si=AMgyJEtRPX4ld4pdQeltMBlsXK6YnLg9be4xryEBJwXFHLOO-OGUSS38549HPfazJlpI6HgUfSLi1w4LzMwUE79Z2Q8OahDcam5ZH6dua3kReXaSL8UTMw5hW-ITMJLqDTNfYG6qP-vfCIrugv_Lu7694bOEz5CQjc0jIZGyQUCvFn_imZHP8MZK2oNnYmIikhXgheGO0v-gynWh1HQ1xANo6qnDBv4sF0EgC6P8Ge6bzMFeTSByos-XoCM79BSixw7WDPgZ7iz-um8tBTrrE5gl2WWj_VzGHFJivrkG1V2IWzGg8ydr1fA0ELT_a5f_KQYpNRyLdKzi&sa=X&ved=2ahUKEwi6pKGDifaRAxVP6ckDHQ5WCxkQmxN6BAguEAM"
+        }
+      ],
+      "country": "United States",
+      "country_links": [
+        {
+          "text": "United States",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=United+States&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35GQQEyQ0ZAQ_I-vMLflYjf7NNGIYG2UlgQoMIVuezZBzq6xu14bHPCkJ14mBxGnsHOeE13dPREOyExylXa9ORLA1si8wJlB0FV5n0-MFuoTKOJ-t0m_7NjV2uD1LbWz06YUTF95I9MToWyvpClCJl33FYliv&sa=X&ved=2ahUKEwi6pKGDifaRAxVP6ckDHQ5WCxkQmxN6BAgtEAI"
+        }
+      ],
+      "leadership": "Ken Martin (Party chair)",
+      "leadership_links": [
+        {
+          "text": "Ken Martin",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=Ken+Martin&si=AMgyJEtRPX4ld4pdQeltMBlsXK6YnLg9be4xryEBJwXFHLOO-Iunb_Rx20G7ava0wUlANuNzmYf30C8n8wBaj9FSXfj5Mm_WLllIkTOjELHhjeEOkzNowcTQcQ-u7Q8KjIknUBOFs1T2AKex6jXaCmogF_fb_oUCRMM61isTsGjhMBuXviedS3572aapKMMD7Q3g82gyEj97&sa=X&ved=2ahUKEwi6pKGDifaRAxVP6ckDHQ5WCxkQmxN6BAgqEAI"
+        }
+      ],
+      "area_served": "United States",
+      "area_served_links": [
+        {
+          "text": "United States",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=United+States&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35GQQEyQ0ZAQ_I-vMLflYjf7NNGIYG2UlgQoMIVuezZBzq6xu14bHPCkJ14mBxGnsHOeE13dPREOyExylXa9ORLA1si8wJlB0FV5n0-MFuoTKOJ-t0m_7NjV2uD1LbWz06YUTF95I9MToWyvpClCJl33FYliv&sa=X&ved=2ahUKEwi6pKGDifaRAxVP6ckDHQ5WCxkQmxN6BAgoEAI"
+        }
+      ],
+      "founded": "1828",
+      "founders": "Andrew Jackson, Martin Van Buren",
+      "founders_links": [
+        {
+          "text": "Andrew Jackson",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=Andrew+Jackson&si=AMgyJEsDiSRjWbqzYFj-WWva_AB38rmr0hlaV8lJ7y-WQYnYX8VmuTG6sjXGpnRl_euj7tcWNj8t8YK-gUWhdMeePKDG0Cdk4tj6GYNGeeuz_i1Dei6owmQeRgh_6rX_ZiHHDHqN0abHgo5Dq1PAPI3zySdzaU9g43SJTD4k-xYLBshBRdXCdnbTdCnWkaEB1TN8Jms1ikfR3ERdUYxSvY20vz8otJtzXNDyFxwMiNZDA3Mhiv6ZFoiXgoExA2jP3bVUdALeDGSc&sa=X&ved=2ahUKEwi6pKGDifaRAxVP6ckDHQ5WCxkQmxN6BAgrEAI"
+        },
+        {
+          "text": "Martin Van Buren",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=Martin+Van+Buren&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMvDPQMq_7hAMBLZ9i6GbvSKN8fFVoREvtJqjBLqN9TLhPy5_zw_3MCeWESj5Jox41LzN74SEd_093U0zhQWkeXsdnsXTQ-v_dN3sD7rJj6p03UIH7hfkL4-c8W5Cjz6bISKwKvcK9KcYtTR7w3DhEH8j4DQtzzAwFDOm3VSDeg-eNmiYeFq2kwLzFTJ60A38P1Ml_dbm3nl5borYC8D31YGzWj1WzCbQAIGz8eGBdMtpHDvlVA%3D%3D&sa=X&ved=2ahUKEwi6pKGDifaRAxVP6ckDHQ5WCxkQmxN6BAgrEAM"
+        }
+      ],
+      "headquarters": "Washington, D.C.",
+      "headquarters_links": [
+        {
+          "text": "Washington, D.C.",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=Washington,+DC&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMpGacIyOg292H1tZVbNJuWqIaDyfFY4p-inGl5nDCyx3GM8_b20ATjsSbvkMMJwivrU7ckV7OpL2Scw9X7UDBLGMxq_bs7W0HYRHkEzJ0Xgg4on93fNIexuC4kB5QJ8Cg9zp-tYzwWqsirCW2rbN5XN0i6AN&sa=X&ved=2ahUKEwi6pKGDifaRAxVP6ckDHQ5WCxkQmxN6BAgpEAI"
+        }
+      ],
+      "profiles": [
+        {
+          "name": "X (Twitter)",
+          "link": "https://twitter.com/TheDemocrats",
+          "image": "https://serpapi.com/searches/695c8eb2f9c5e9255ad8dd7a/images/a6a476590713f23ede077c46cbec55ecca48bb9c17ead284e94c160aa360847a0dd727108f934335.png"
+        },
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/thedemocrats",
+          "image": "https://serpapi.com/searches/695c8eb2f9c5e9255ad8dd7a/images/a6a476590713f23ede077c46cbec55ecca48bb9c17ead2845acf9db6a565e68ca57e2ed40995aafa.png"
+        },
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/democrats",
+          "image": "https://serpapi.com/searches/695c8eb2f9c5e9255ad8dd7a/images/a6a476590713f23ede077c46cbec55ecca48bb9c17ead28461a619d84f96b861f525b2f004491075.png"
+        },
+        {
+          "name": "YouTube",
+          "link": "https://www.youtube.com/user/DemocraticVideo",
+          "image": "https://serpapi.com/searches/695c8eb2f9c5e9255ad8dd7a/images/a6a476590713f23ede077c46cbec55ecca48bb9c17ead284bee75d4372a85554cca384cb732e667d.png"
+        }
+      ]
+    },
+    "featuredSnippet": "Democratic Party",
+    "peopleAlsoAsk": [],
+    "latencyMs": 1688
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski political party",
+    "queryId": "party",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th congressional district from 2019 to 2023. A Democrat, he served as Assistant Secretary of State for …Malinowski was born in Słupsk, Poland, and lived in Brwinów until leaving the country at the age of six with his mother, Joanna, who married journalist and a political operator Blair Clark. He was raised in Princeton, New Jersey, and …",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski - Ballotpedia",
+        "link": "https://ballotpedia.org/Tom_Malinowski",
+        "snippet": "Tom Malinowski (Democratic Party) is running in a special election to the U.S. House to represent New Jersey's 11th Congressional District. He is …",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski served in the U.S. House of ... - Congress.gov",
+        "link": "https://www.congress.gov/119/meeting/house/118216/witnesses/HHRG-119-FA07-Bio-MalinowskiT-20250508.pdf",
+        "snippet": "Tom Malinowski served in the U.S. House of Representatives from 2019 to 2023, representing New Jersey’s 7th Congressional district. He was born in Poland during the Cold …",
+        "domain": "www.congress.gov"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski Is Running for Congress as the Grownup in the …",
+        "link": "https://villagegreennj.com/election/the-grownup-in-the-room-tom-malinowski/",
+        "snippet": "Tom Malinowski wants you to know that, among the crowded field of candidates in the Democratic primary to fill Mikie Sherrill’s Congressional seat (currently numbering 12), only …",
+        "domain": "villagegreennj.com"
+      },
+      {
+        "position": 5,
+        "title": "Morris County Democrats vote to endorse Malinowski",
+        "link": "https://newjerseyglobe.com/congress/morris-dems-vote-to-endorse-malinowski/",
+        "snippet": "Former Rep. Tom Malinowski speaks at the 2025 Morris County Democratic convention for the 11th congressional district. (Photo: Morris County Democrats via YouTube). …",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 6,
+        "title": "Washington Post, the New York Times, the Atlantic, Foreign …",
+        "link": "https://docs.house.gov/meetings/FA/FA17/20240604/117339/HMTG-118-FA17-Bio-MalinowskiT-20240604.pdf",
+        "snippet": "Washington Post, the New York Times, the Atlantic, Foreign Policy, Foreign Affairs Tom Malinowski served two terms in the U.S. House of Represen.",
+        "domain": "docs.house.gov"
+      },
+      {
+        "position": 7,
+        "title": "Arguments heard in Malinowski ‘fusion voting’ case …",
+        "link": "https://www.njspotlightnews.org/2024/12/appeals-court-judges-hear-malinowski-fusion-voting-case-arguments/",
+        "snippet": "That year, Malinowski was running for the first time in a redrawn district with more registered Republicans than Democrats.",
+        "domain": "www.njspotlightnews.org"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski Explained",
+        "link": "https://everything.explained.today/Tom_Malinowski/",
+        "snippet": "Malinowski was reelected, defeating New Jersey Senate Republican leader Tom Kean Jr. by 1.2%. Due to the very close margin, the election remained unresolved for weeks.",
+        "domain": "everything.explained.today"
+      },
+      {
+        "position": 9,
+        "title": "Democrats return to democracy messaging in NJ special election",
+        "link": "https://www.politico.com/news/2026/01/02/democrats-return-to-democracy-messaging-in-nj-special-election-00704771",
+        "snippet": "Ahead of the February special election for New Jersey’s 11th District, former Rep. Tom Malinowski recently hosted a town hall with Maryland Rep. Jamie Raskin about “ …",
+        "domain": "www.politico.com"
+      },
+      {
+        "position": 10,
+        "title": "Tom Malinowski - Politician Compare",
+        "link": "https://www.politiciancompare.com/politicians/tommalinowski/",
+        "snippet": "Tom Malinowski is a Member of the US House of Representatives serving New Jersey's 7th district. He holds degrees from the University of California, Berkeley, where he studied political …",
+        "domain": "www.politiciancompare.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": "On June 23, 2024, Malinowski was elected as chair of the Hunterdon County Democratic Party. [6] He resigned as chair on November 6, 2025. [7] In November 2025, he announced his campaign for the 2026 special election in New Jersey's 11th congressional district.",
+    "peopleAlsoAsk": [],
+    "latencyMs": 1904
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski age",
+    "queryId": "age",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th congressional ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "MALINOWSKI, Tom",
+        "link": "https://bioguide.congress.gov/search/bio/M001203",
+        "snippet": "MALINOWSKI, Tom, a Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, Princeton, NJ, 1983.",
+        "domain": "bioguide.congress.gov"
+      },
+      {
+        "position": 3,
+        "title": "MALINOWSKI, Tom | US House of Representatives",
+        "link": "https://history.house.gov/People/Detail/25769805190?current_search_qs=%3FPreviousSearch%3DSearch%252cLastName%252c%252c%252c%252c%252cFalse%252cFalse%252cFalse%252c%252cCongress%26CurrentPage%3D944%26SortOrder%3DCongress%26ResultType%3DList%26Command%3D947",
+        "snippet": "Concise Biography. MALINOWSKI, Tom, A Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, ...",
+        "domain": "history.house.gov"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski - Age, Bio, Family",
+        "link": "https://www.famousbirthdays.com/people/tom-malinowski.html",
+        "snippet": "About. American politician and diplomat who served as the U.S. Representative from New Jersey's 7th congressional district from 2019 to 2023.",
+        "domain": "www.famousbirthdays.com"
+      },
+      {
+        "position": 5,
+        "title": "Tom Malinowski",
+        "link": "https://www.imdb.com/name/nm9682166/",
+        "snippet": "Tom Malinowski. Self: PBS News Hour. Tom Malinowski was born on 23 September 1965 in Slupsk, Poland.",
+        "domain": "www.imdb.com"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski - Breaking News, Photos and Videos",
+        "link": "https://thehill.com/people/tom-malinowski/",
+        "snippet": "University of California, Berkeley, B.A.. Residence. Rocky Hill, NJ. Political Affiliation. Democratic. Marital Status. Single. Country of Citizenship. United ...",
+        "domain": "thehill.com"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski",
+        "link": "https://ballotpedia.org/Tom_Malinowski",
+        "snippet": "The general election will occur on April 16, 2026. General election candidates will be added here following the primary. The candidate list in this election may ...",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 8,
+        "title": "116th Congress",
+        "link": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/pdf/CDIR-2020-07-22-NJ-H-8.pdf",
+        "snippet": "TOM MALINOWSKI, Democrat, of Rocky Hill, NJ; born in Slupsk, Poland, September 23,. 1965; education: B.A., University of California, Berkeley, CA, 1987 ...",
+        "domain": "www.govinfo.gov"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski",
+        "link": "https://grokipedia.com/page/Tom_Malinowski",
+        "snippet": "Thomas \"Tom\" Malinowski (born September 23, 1965) is a Polish-American politician and former diplomat who served as the U.S. Representative for New Jersey's ...",
+        "domain": "grokipedia.com"
+      }
+    ],
+    "knowledgePanel": {
+      "title": "Tom Malinowski",
+      "type": "Former United States Representative",
+      "entity_type": "people",
+      "born": "1965 (age 60 years), Słupsk, Poland",
+      "born_links": [
+        {
+          "text": "Słupsk, Poland",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=S%C5%82upsk&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMlwiV_ebszBB_av7C1-RraQvboyeTX4RVLg9diqCJwWIjjcVT3KHm9w2JL_2u69Vt3_8-RJ3ZYFoSrXXHCItdgDSKxDlgrPswvR6R4zbMhFKf3LOpc9MbsfTFXd1vidsQQKZn34rp_I5NUpenbpUsKQuKJ6m&sa=X&ved=2ahUKEwjR9JOFifaRAxU-48kDHXPWAB0QmxN6BAgVEAI"
+        }
+      ],
+      "previous_offices": "Representative, NJ 7th District (2019–2023)",
+      "previous_offices_links": [
+        {
+          "text": "NJ 7th District",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=New+Jersey%27s+7th+Congressional+District&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Exd96yg8tnWiIEBfOS3tLu-5D9FrVVg1lMJyaqrkcXJefX8LpcxkME1LfQlQg_CQ6Pfu_4e1GXgft42gaVGxJwLhsqKAXXWI8A3BIN70WOzvoxGYcrOse8mgXMhKY8iRb6mp4LlmXwpU-SkrEY2sL10_FudfTsq5_mF8Uz74a59jSoci2bPT-Aez5Umm8QpNQ3QFLpA8IAgZ-q3uALxVI9djuJ4Q3u_pEeq738ogw2wMoKr0Te3_Whp-gSJ9Qhl6o1mV5mlIMrB-VSYKMiIiehFXcqs&sa=X&ved=2ahUKEwjR9JOFifaRAxU-48kDHXPWAB0QmxN6BAgYEAI"
+        },
+        {
+          "text": "See more",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=tom+malinowski+previous+offices&stick=H4sIAAAAAAAAAD3KMQ6AIAwAwMnERQc_ILMOhJXPGEJAG6AlFOE_vlQn18uN8zLJUypl09WPpnjbg9XypOYKJodVZopQwYJBnYtrQDeLTPwZ4TOslZJIJgJS5wDiL-Q9WMcv_mz88WAAAAA&sa=X&ved=2ahUKEwjR9JOFifaRAxU-48kDHXPWAB0Q44YBegQIGBAD"
+        }
+      ],
+      "education": "St Antony's College (1991), Princeton High School (1983), University of California, Berkeley",
+      "education_links": [
+        {
+          "text": "St Antony's College",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=St+Antony%27s+College&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMiiulPDBXMyJs_Fg96I6QAzJAg4f_FTfQXWj-fO8CSUqdGOwGeIb341iH0AMd9w6i8XMUUQ_8sM5PZcrV02NACX0a7XuNBOFcJ7IN5IMxv-B6SZs8GKGK9mqVdx0-frQ_-Z7ivHNiXh_lG7i8Fz_xqBwlXbTCNDFKFOX83GgfWY777BFNashM5mERhRDBZ6coTgkcLDTFQzvbYxhlTaang0RBMIvX1jnYl8IA0xyvKefll6f4w%3D%3D&sa=X&ved=2ahUKEwjR9JOFifaRAxU-48kDHXPWAB0QmxN6BAgbEAI"
+        },
+        {
+          "text": "Princeton High School",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=Princeton+High+School&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35I-6m0AsdSFQEQXaxgT082DKdprd3nFwu_VCy4PLOiM8iaUmFIJgI_Nky3i-uwVS1r1yfpkRr0TSVEVOBRhgx_JHT4ZD5lkFK8tWvbN5OynJHqYmbKyQCy4-3mpzyheTFJBrdWGDawqcNv7Rza_H6b4aoAeSv-xrxUlnVpHIoL76DygW6UsGX3xmNMlOzGua4b-K0bNWMhAoouzehfDwGN1UM9-rMM-z1Uq0h2yEyH8te2HFAOS6Xk9p8vHciwUpL6Z4r6I%3D&sa=X&ved=2ahUKEwjR9JOFifaRAxU-48kDHXPWAB0QmxN6BAgbEAM"
+        },
+        {
+          "text": "University of California, Berkeley",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=University+of+California,+Berkeley&si=AMgyJEtRPX4ld4pdQeltMBlsXK6YnLg9be4xryEBJwXFHLOO-K6OVyIY8ef3W78dBzKPkpxJewFbyfOf6IAsY5NkrY9L97byxOZxP4esydp8L7l3LrqzBh5dGJV9nbNmVPklrvogKJr0GCSaRo8jBk184kjY2LLVJHj4S8nP4rKcChnxCUGGa-fV7hARqHy3aQA9cbrQV26_pkxF_7KnxxoOeKAAk2iF55qXfxdBLk_wFjFGv4MsdG4z0LZj-calvd2mWVk6DvNg5_PX8-M36Z76_Z-J5WNtK-7y63X8CKHIyUJZ8xwOv6F1PGS4p2VzRTthXyTigbX_&sa=X&ved=2ahUKEwjR9JOFifaRAxU-48kDHXPWAB0QmxN6BAgbEAQ"
+        }
+      ],
+      "party": "Democratic Party",
+      "party_links": [
+        {
+          "text": "Democratic Party",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=Democratic+Party&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35B6oqjpOY3hnpfQANDCo6UlQcCADNO1grOixsGNE4jTBcguNY6chuyhRUogtWAklCpkTghw2QKcMjlo1FaFLo4tN7IZSbO51020-_aniUhG51dXabwddzJPMPiUg2oa52l4Skj1vusak_sgAv5Kk85bjpWjLal2gAb8Hyp02QlVd2PL0lg%3D%3D&sa=X&ved=2ahUKEwjR9JOFifaRAxU-48kDHXPWAB0QmxN6BAgaEAI"
+        }
+      ],
+      "candidate_for": "2026 US House New Jersey District 11 general special election",
+      "candidate_for_links": [
+        {
+          "text": "2026 US House New Jersey District 11 general special election",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=2026+US+House+New+Jersey+District+11+general+special+election&si=AMgyJEs9DArPE9xmb5yVYVjpG4jqWDEKSIpCRSjmm88XZWnGNVAAAJORToNF9qkJ7pFbLF2U8jWOIehe5kips1mZgSA3KR90QeU2n-c-9k54Y5bkzYPvE3kxbImBtkPzMxjKMqFfcbhJBW6nqhLMcJEb5iihi4gAoNrpW_F0-oVI9s7HlPX09P7wSPBJX7km22Ccj2KYnROuLrDSuX-5LcJnfq30SEV9gF1h5rsIB16S-G389gfN59UKbp_3WW4u_5kkxWPxgzzMvK3oO7ABPjWs-RKGFTU-Qg%3D%3D&sa=X&ved=2ahUKEwjR9JOFifaRAxU-48kDHXPWAB0QmxN6BAgcEAI"
+        }
+      ],
+      "previous_campaigns": "2022 United States House of Representatives elections in New Jersey",
+      "previous_campaigns_links": [
+        {
+          "text": "2022 United States House of Representatives elections in New Jersey",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=2022+United+States+House+of+Representatives+elections+in+New+Jersey&si=AMgyJEs9DArPE9xmb5yVYVjpG4jqWDEKSIpCRSjmm88XZWnGNTybFDQmzshSKlU2NzyLs0voqhpMsqMqoggIH40ASgBdpxCmeyMM9SmhCIRxvZoF3WAsXdl-E6_6VKlS26Ul36nfJabF_WvJT5-KtFBrT_6dyoeQEWd9TyosbhsVEE1VuJrOPtKH8dkNdEmWREsxM4D5lm0SL-N5LlSzO_ukYRePb-6HjzWGrXZbUZ3pKw16M_YqEdlIHpWbo3MQAxzPR3dN3rcPG171PtY4OoAbN1QZ8NHp0-n2mOwfqQdxdLfrBMXGRLg%3D&sa=X&ved=2ahUKEwjR9JOFifaRAxU-48kDHXPWAB0QmxN6BAgdEAI"
+        },
+        {
+          "text": "See more",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=tom+malinowski+previous+campaigns&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEzOzSiPLzMs1tLLTrbST0tNLCktSo0vqSxI1S_Iz8ksyUzOTMyzKihKLcvMLy2OT07MLUjMTM8rXsSqWJKfq5CbmJOZl19enJ2pAFOjAFcDAJkt72xlAAAA&sa=X&ved=2ahUKEwjR9JOFifaRAxU-48kDHXPWAB0Q44YBegQIHRAD"
+        }
+      ],
+      "profiles": [
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/malinowskifornj",
+          "image": "https://serpapi.com/searches/695c8eb600a197aefa247ec7/images/b2d116bd0b4d7f513c1fb5e4148dffca3f90641697f39b20685eb0756f261cbc05d46ecda933746c.png"
+        },
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/malinowskifornj/",
+          "image": "https://serpapi.com/searches/695c8eb600a197aefa247ec7/images/b2d116bd0b4d7f513c1fb5e4148dffca3f90641697f39b20707500c555fa8a071449b1163c4676be.png"
+        },
+        {
+          "name": "YouTube",
+          "link": "https://www.youtube.com/channel/UCPBK9PROw46Gv1CPrdNwJnQ",
+          "image": "https://serpapi.com/searches/695c8eb600a197aefa247ec7/images/b2d116bd0b4d7f513c1fb5e4148dffca3f90641697f39b2074d2aec8aca0c288920d4b17ae0220ed.png"
+        },
+        {
+          "name": "X (Twitter)",
+          "link": "https://twitter.com/Malinowski",
+          "image": "https://serpapi.com/searches/695c8eb600a197aefa247ec7/images/b2d116bd0b4d7f513c1fb5e4148dffca3f90641697f39b205731b0e789b06d1107e8900b61c8bb18.png"
+        }
+      ]
+    },
+    "featuredSnippet": "60 years",
+    "peopleAlsoAsk": [],
+    "latencyMs": 1430
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski age",
+    "queryId": "age",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Malinowski was born in Słupsk, Poland, and lived in Brwinów until leaving the country at the age of six with his mother, Joanna, who married journalist and a political operator Blair Clark.",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski - Age, Bio, Family | Famous Birthdays",
+        "link": "https://www.famousbirthdays.com/people/tom-malinowski.html",
+        "snippet": "Tom Malinowski Politician Birthday September 23, 1965 Birth Sign Libra Birthplace Slupsk, Poland Age 60 years old",
+        "domain": "www.famousbirthdays.com"
+      },
+      {
+        "position": 3,
+        "title": "MALINOWSKI, Tom | US House of Representatives: History, Art …",
+        "link": "https://history.house.gov/People/Listing/M/MALINOWSKI,-Tom-(M001203)/",
+        "snippet": "MALINOWSKI, Tom, A Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, Princeton, N.J., 1983; B.A., University of …",
+        "domain": "history.house.gov"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski - Ballotpedia",
+        "link": "https://ballotpedia.org/Tom_Malinowski",
+        "snippet": "Malinowski immigrated from Poland to the U.S. when he was six years old. He served as the assistant secretary of state for democracy, human rights, and labor from 2014 to 2017, during …",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 5,
+        "title": "Tom Malinowski served in the U.S. House of …",
+        "link": "https://www.congress.gov/119/meeting/house/118216/witnesses/HHRG-119-FA07-Bio-MalinowskiT-20250508.pdf",
+        "snippet": "Tom Malinowski served in the U.S. House of Representatives from 2019 to 2023, representing New Jersey’s 7th Congressional district. He was born in Poland during the Cold …",
+        "domain": "www.congress.gov"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski - grokipedia.com",
+        "link": "https://grokipedia.com/page/Tom_Malinowski",
+        "snippet": "Thomas Malinowski was born on September 23, 1965, in Słupsk, Poland, under communist rule during the Cold War.",
+        "domain": "grokipedia.com"
+      },
+      {
+        "position": 7,
+        "title": "Facts For All - Vote Smart",
+        "link": "https://justfacts.votesmart.org/candidate/biography/179645/tom-malinowski",
+        "snippet": "Who is rating Malinowski ? Vote Smart provides free, unbiased, in-depth information about current officials, candidates, issues, legislation, and voting. Non-partisan and nonprofit since 1988.",
+        "domain": "justfacts.votesmart.org"
+      },
+      {
+        "position": 8,
+        "title": "MALINOWSKI Tomasz - biography, news, photos, date of birth, …",
+        "link": "https://globalny.biz/index.php/person/id/3160",
+        "snippet": "MALINOWSKI Tomasz. Politician. Date of Birth: 23 September 1965. Age: 60. Zodiac sign Virgo",
+        "domain": "globalny.biz"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski - Wikiwand",
+        "link": "https://www.wikiwand.com/en/articles/Tom_Malinowski",
+        "snippet": "Malinowski was born in Słupsk, Poland, and lived in Brwinów until leaving the country at the age of six with his mother, Joanna, who married journalist and a political operator Blair Clark.",
+        "domain": "www.wikiwand.com"
+      },
+      {
+        "position": 10,
+        "title": "Tom Malinowski - Alchetron, The Free Social Encyclopedia",
+        "link": "https://alchetron.com/Tom-Malinowski",
+        "snippet": "Tomasz P. Malinowski (born 1965) is a U.S. diplomat who served as Assistant Secretary of State for Democracy, Human Rights, and Labor from 2014 to 2017. Malinowski …",
+        "domain": "alchetron.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 1527
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski birthplace Poland",
+    "queryId": "birthplace",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th congressional ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "Seton Hall Welcomes Visiting Scholar Tom Malinowski, ...",
+        "link": "https://www.shu.edu/diplomacy/news/seton-hall-welcomes-visiting-scholar-tom-malinowski.html",
+        "snippet": "Seton Hall School of Diplomacy and International Relations is honored to introduce visiting scholar Tom Malinowski, a former Congressman and ...",
+        "domain": "www.shu.edu"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski",
+        "link": "https://grokipedia.com/page/Tom_Malinowski",
+        "snippet": "Thomas \"Tom\" Malinowski (born September 23, 1965) is a Polish-American politician and former diplomat who served as the U.S. Representative for New Jersey's ...",
+        "domain": "grokipedia.com"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski - Age, Bio, Family",
+        "link": "https://www.famousbirthdays.com/people/tom-malinowski.html",
+        "snippet": "About. American politician and diplomat who served as the U.S. Representative from New Jersey's 7th congressional district from 2019 to 2023.",
+        "domain": "www.famousbirthdays.com"
+      },
+      {
+        "position": 5,
+        "title": "Place of birth Matching \"slupsk, poland\" (Sorted by ...",
+        "link": "https://www.imdb.com/search/name/?birth_place=Slupsk%2C%20Poland&ref_=nm_pdt_bth_loc",
+        "snippet": "Magdalena Poplawska is a Polish actress known for her work in both theater and cinema. She graduated from the National Academy of Theatre Arts in Krakow in 2004 ...",
+        "domain": "www.imdb.com"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski for House (D-NJ-07)",
+        "link": "https://livableworld.org/meet-the-candidates/house-candidates/tom-malinowski-for-house-d-nj-07-2/",
+        "snippet": "In 2018, Malinowski upset an incumbent Republican Congressman by 52-47% with the endorsement of Council for a Livable World. In 2020, the Republican Party ...",
+        "domain": "livableworld.org"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski | American Politics Wiki | Fandom",
+        "link": "https://americanpolitics.fandom.com/wiki/Tom_Malinowski",
+        "snippet": "Malinowski (born September 23, 1965) is a Polish-born American politician and diplomat who was the U.S. Representative from New Jersey's 7th congressional ...",
+        "domain": "americanpolitics.fandom.com"
+      },
+      {
+        "position": 8,
+        "title": "Thomasz Malinowski (1889–1973) • FamilySearch",
+        "link": "https://ancestors.familysearch.org/en/LC7D-59M/thomas-j-malinowski-1889-1973",
+        "snippet": "He married Bronslova Bernice Uniak on 28 February 1916, in Kansas City, Wyandotte, Kansas, United States. They were the parents of at least 3 sons and 1 ...",
+        "domain": "ancestors.familysearch.org"
+      },
+      {
+        "position": 9,
+        "title": "My Conversation with Tom Malinowski - Three Women as ...",
+        "link": "https://www.insidernj.com/my-conversation-tom-malinowski-three-women-political-personal-pedigrees/",
+        "snippet": "On a Wednesday, I received a phone call from the Tom Malinowski for Congress reelection campaign, requesting that I meet with the ...",
+        "domain": "www.insidernj.com"
+      },
+      {
+        "position": 10,
+        "title": "Vote Smart - Facts For All",
+        "link": "https://justfacts.votesmart.org/candidate/biography/179645/tom-malinowski",
+        "snippet": "Thomas 'Tom' Malinowski, Gender: Male, Family: 1, Child: Emily, Birth Date: 09/23/1965, Birth Place: Slupsk, Poland, Home City: Rocky Hill, NJ.",
+        "domain": "justfacts.votesmart.org"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [
+      "Where did Tom Malinowski grow up?",
+      "What is Tom Malinowski doing now?"
+    ],
+    "latencyMs": 2959
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski birthplace Poland",
+    "queryId": "birthplace",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Malinowski was born in Słupsk, Poland, and lived in Brwinów until leaving the country at the age of six with his mother, Joanna, who married journalist and a political operator Blair Clark. He was raised in Princeton, New Jersey, and graduated from Princeton …Early careerMalinowski worked as a special assistant to U.S. Senator Daniel Patrick Moynihan in 1988. He worked for the Institute for Human Sciences in Vienna, Austria, and later, as a research assistant for the Ford …",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "MALINOWSKI, Tom | US House of Representatives: History, Art",
+        "link": "https://history.house.gov/People/Listing/M/MALINOWSKI,-Tom-(M001203)/",
+        "snippet": "MALINOWSKI, Tom, A Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, Princeton, N.J., 1983; B.A., University of California, Berkeley, …",
+        "domain": "history.house.gov"
+      },
+      {
+        "position": 3,
+        "title": "MALINOWSKI, Tom",
+        "link": "https://bioguideretro.congress.gov/Home/MemberDetails?memIndex=M001203",
+        "snippet": "MALINOWSKI, TOM, A Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, Princeton, N.J., 1983; B.A., University of California, Berkeley, …",
+        "domain": "bioguideretro.congress.gov"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski - Age, Bio, Family | Famous Birthdays",
+        "link": "https://www.famousbirthdays.com/people/tom-malinowski.html",
+        "snippet": "He was born in Słupsk, Poland, and resided in Brwinów until he and his parents …",
+        "domain": "www.famousbirthdays.com"
+      },
+      {
+        "position": 5,
+        "title": "Tom Malinowski - grokipedia.com",
+        "link": "https://grokipedia.com/page/Tom_Malinowski",
+        "snippet": "Born in Słupsk, Poland, during the Cold War era under communist rule, Malinowski immigrated to the United States with his mother at age six, settling in New Jersey.",
+        "domain": "grokipedia.com"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski - Wikiwand",
+        "link": "https://www.wikiwand.com/en/articles/Tom_Malinowski",
+        "snippet": "Malinowski was born in Słupsk, Poland, and lived in Brwinów until leaving the country at the age of six with his mother, Joanna, who married journalist and a political operator Blair Clark.",
+        "domain": "www.wikiwand.com"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski - Biography - IMDb",
+        "link": "https://www.imdb.com/name/nm9682166/bio/",
+        "snippet": "Tom Malinowski was born on 23 September 1965 in Slupsk, Poland.",
+        "domain": "www.imdb.com"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski – Former U.S. Representative (NJ) | Legislative History ...",
+        "link": "https://legilist.com/legislator/M001203",
+        "snippet": "Explore the legislative history of Tom Malinowski, including bills, committees, and voting records during their time representing NJ.",
+        "domain": "legilist.com"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski | Historica Wiki | Fandom",
+        "link": "https://historica.fandom.com/wiki/Tom_Malinowski",
+        "snippet": "Tom Malinowski was born in Slupsk, Poland in 1965, and his family immigrated to the United States when he was six. He was raised in Princeton, New Jersey, and he …",
+        "domain": "historica.fandom.com"
+      },
+      {
+        "position": 10,
+        "title": "Facts For All - Vote Smart",
+        "link": "https://justfacts.votesmart.org/candidate/biography/179645/tom-malinowski",
+        "snippet": "Who is rating Malinowski ? Vote Smart provides free, unbiased, in-depth information about current officials, candidates, issues, legislation, and voting. Non-partisan and nonprofit since 1988.",
+        "domain": "justfacts.votesmart.org"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": "Malinowski was born in Słupsk, Poland, and lived in Brwinów until leaving the country at the age of six with his mother, Joanna, who married journalist and a political operator Blair Clark.",
+    "peopleAlsoAsk": [],
+    "latencyMs": 1626
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski education college",
+    "queryId": "education",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th congressional ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "MALINOWSKI, Tom | US House of Representatives",
+        "link": "https://history.house.gov/People/Detail/25769805190?current_search_qs=%3FPreviousSearch%3DSearch%252cLastName%252c%252c%252c%252c%252cFalse%252cFalse%252cFalse%252c%252cCongress%26CurrentPage%3D944%26SortOrder%3DCongress%26ResultType%3DList%26Command%3D947",
+        "snippet": "Concise Biography. MALINOWSKI, Tom, A Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, ...",
+        "domain": "history.house.gov"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski - State.gov",
+        "link": "https://2009-2017.state.gov/r/pa/ei/biog/224368.htm",
+        "snippet": "Tom Malinowski was sworn in as Assistant Secretary of State for Democracy, Human Rights and Labor on April 3, 2014.",
+        "domain": "2009-2017.state.gov"
+      },
+      {
+        "position": 4,
+        "title": "Former Rep. Tom Malinowski - D New Jersey, 7th, Defeated",
+        "link": "https://www.legistorm.com/person/bio/118453/Tomasz_P_Malinowski.html",
+        "snippet": "Malinowski, Tomasz P. A Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, Princeton, N.J., ...",
+        "domain": "www.legistorm.com"
+      },
+      {
+        "position": 5,
+        "title": "Seton Hall Welcomes Visiting Scholar Tom Malinowski, ...",
+        "link": "https://www.shu.edu/diplomacy/news/seton-hall-welcomes-visiting-scholar-tom-malinowski.html",
+        "snippet": "Seton Hall School of Diplomacy and International Relations is honored to introduce visiting scholar Tom Malinowski, a former Congressman and ...",
+        "domain": "www.shu.edu"
+      },
+      {
+        "position": 6,
+        "title": "116th Congress",
+        "link": "https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/pdf/CDIR-2020-07-22-NJ-H-8.pdf",
+        "snippet": "TOM MALINOWSKI, Democrat, of Rocky Hill, NJ; born in Slupsk, Poland, September 23,. 1965; education: B.A., University of California, Berkeley, CA, 1987 ...",
+        "domain": "www.govinfo.gov"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski",
+        "link": "https://jstreetpac.org/candidate/tom-malinowski/",
+        "snippet": "Former Representative Tom Malinowski is running for New Jersey's 11th Congressional District, vacated by Mikie Sherrill following her election as Governor ...",
+        "domain": "jstreetpac.org"
+      },
+      {
+        "position": 8,
+        "title": "Dean's Leadership Series - The 119th Congress Panels",
+        "link": "https://spia.princeton.edu/events/deans-leadership-series-119th-congress-panels",
+        "snippet": "Two former members of Congress—one Democrat and one Republican—reflect on how the institution evolved during their tenures ...",
+        "domain": "spia.princeton.edu"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski, Representative for New Jersey",
+        "link": "https://www.presidentialprayerteam.org/2021/12/04/tom-malinowski-representative-for-new-jersey/",
+        "snippet": "Education – B.A., University of California, Berkeley; M.Phil., St. Anthony's College, Oxford; Military Service – None; Profession – Politician ...",
+        "domain": "www.presidentialprayerteam.org"
+      },
+      {
+        "position": 10,
+        "title": "President Obama Announces More Key Administration Posts",
+        "link": "https://obamawhitehouse.archives.gov/the-press-office/2014/07/30/president-obama-announces-more-key-administration-posts",
+        "snippet": "WASHINGTON, DC – Today, President Barack Obama announced his intent to nominate the following individuals to key Administration posts:.",
+        "domain": "obamawhitehouse.archives.gov"
+      }
+    ],
+    "knowledgePanel": {
+      "breadcrumbs": [
+        {
+          "title": "Tom Malinowski",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=tom+malinowski&stick=H4sIAAAAAAAAAONgVuLVT9c3NEzOzSiPLzMsfsRowS3w8sc9YSn9SWtOXmPU5OIKzsgvd80rySypFJLmYoOyBKX4uVB18ixi5SvJz1XITczJzMsvL87OBAD3J0kyXQAAAA&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQ1i96BAgJEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=tom+malinowski&stick=H4sIAAAAAAAAAONgVuLVT9c3NEzOzSiPLzMsfsRowS3w8sc9YSn9SWtOXmPU5OIKzsgvd80rySypFJLmYoOyBKX4uVB18ixi5SvJz1XITczJzMsvL87OBAD3J0kyXQAAAA"
+        },
+        {
+          "title": "Education"
+        }
+      ],
+      "title": "Tom Malinowski",
+      "type": "Former United States Representative",
+      "entity_type": "people",
+      "kgmid": "/g/11cmhw_v1s",
+      "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11cmhw_v1s&hl=en-US&q=Tom+Malinowski",
+      "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fg%2F11cmhw_v1s&num=10&q=Tom+Malinowski",
+      "born": "1965 (age 60 years), Słupsk, Poland",
+      "born_links": [
+        {
+          "text": "Słupsk, Poland",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=S%C5%82upsk&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMlwiV_ebszBB_av7C1-RraQvboyeTX4RVLg9diqCJwWIjjcVT3KHm9w2JL_2u69Vt3_8-RJ3ZYFoSrXXHCItdgDSKxDlgrPswvR6R4zbMhFKf3LOpc9MbsfTFXd1vidsQQKZn34rp_I5NUpenbpUsKQuKJ6m&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQmxN6BAgrEAI"
+        }
+      ],
+      "previous_offices": "Representative, NJ 7th District (2019–2023)",
+      "previous_offices_links": [
+        {
+          "text": "NJ 7th District",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=New+Jersey%27s+7th+Congressional+District&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35Exd96yg8tnWiIEBfOS3tLu-5D9FrVVg1lMJyaqrkcXJefX8LpcxkME1LfQlQg_CQ6Pfu_4e1GXgft42gaVGxJwLhsqKAXXWI8A3BIN70WOzvoxGYcrOse8mgXMhKY8iRb6mp4LlmXwpU-SkrEY2sL10_FudfTsq5_mF8Uz74a59jSoci2bPT-Aez5Umm8QpNQ3QFLpA8IAgZ-q3uALxVI9djuJ4Q3u_pEeq738ogw2wMoKr0Te3_Whp-gSJ9Qhl6o1mV5mlIMrB-VSYKMiIiehFXcqs&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQmxN6BAgyEAI"
+        },
+        {
+          "text": "See more",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=tom+malinowski+previous+offices&stick=H4sIAAAAAAAAAD3KMQ6AIAwAwMnERQc_ILMOhJXPGEJAG6AlFOE_vlQn18uN8zLJUypl09WPpnjbg9XypOYKJodVZopQwYJBnYtrQDeLTPwZ4TOslZJIJgJS5wDiL-Q9WMcv_mz88WAAAAA&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQ44YBegQIMhAD"
+        }
+      ],
+      "education": [
+        {
+          "name": "St Antony's College",
+          "extensions": [
+            "1991"
+          ],
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=St+Antony%27s+College&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOzSiPLzMsVuLQz9U3qMy1zNKSzk620i9IzS_ISQVSRcX5eVapKaXJiSWZ-XmPGH25BV7-uCcs5TJpzclrjHZc-FQLSXOxueaVZJZUCglK8XOh2ljFxMHAs4hVOLhEwTGvJD-vUr1YwTk_Jyc1PXUCGyMA2C0F6KEAAAA&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQri56BAgJEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=St+Antony%27s+College&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOzSiPLzMsVuLQz9U3qMy1zNKSzk620i9IzS_ISQVSRcX5eVapKaXJiSWZ-XmPGH25BV7-uCcs5TJpzclrjHZc-FQLSXOxueaVZJZUCglK8XOh2ljFxMHAs4hVOLhEwTGvJD-vUr1YwTk_Jyc1PXUCGyMA2C0F6KEAAAA",
+          "image": "https://serpapi.com/searches/695c8ebee22fed52816ac144/images/69fe90f0296f491e1c1fdaa6f83e414e5234fc2815ab52c25d2cc919b5bae5c93cdb9cfdb0fc78a9.jpeg"
+        },
+        {
+          "name": "Princeton High School",
+          "extensions": [
+            "1983"
+          ],
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=Princeton+High+School&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOzSiPLzMsVuLUz9U3SEnKMi_Rks5OttIvSM0vyEkFUkXF-XlWqSmlyYklmfl5jxh9uQVe_rgnLOUyac3Ja4x2XPhUC0lzsbnmlWSWVAoJSvFzoVpZxcTBwLOIVTSgKDMvObUkP0_BIzM9QyE4OSM_P2cCGyMAutge3aQAAAA&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQri56BAgJEAs",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=Princeton+High+School&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOzSiPLzMsVuLUz9U3SEnKMi_Rks5OttIvSM0vyEkFUkXF-XlWqSmlyYklmfl5jxh9uQVe_rgnLOUyac3Ja4x2XPhUC0lzsbnmlWSWVAoJSvFzoVpZxcTBwLOIVTSgKDMvObUkP0_BIzM9QyE4OSM_P2cCGyMAutge3aQAAAA",
+          "image": "https://serpapi.com/searches/695c8ebee22fed52816ac144/images/69fe90f0296f491e1c1fdaa6f83e414e5234fc2815ab52c2cce9a3c84bc5e559b5dc1c820c459cd0.jpeg"
+        },
+        {
+          "name": "University of California, Berkeley",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=University+of+California,+Berkeley&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOzSiPLzMsVuLSz9U3MKpKMTEz0JLOTrbSL0jNL8hJBVJFxfl5VqkppcmJJZn5eY8YfbkFXv64JyzlMmnNyWuMdlz4VAtJc7G55pVkllQKCUrxc6HaWcXEwcCziFUpNC-zDKgPqEghP03BOTEnMy2_KC8zUUfBKbUoOzUntXICGyMAMv9krrIAAAA&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQri56BAgJEA8",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&num=10&q=University+of+California%2C+Berkeley&stick=H4sIAAAAAAAAAONgFuLVT9c3NEzOzSiPLzMsVuLSz9U3MKpKMTEz0JLOTrbSL0jNL8hJBVJFxfl5VqkppcmJJZn5eY8YfbkFXv64JyzlMmnNyWuMdlz4VAtJc7G55pVkllQKCUrxc6HaWcXEwcCziFUpNC-zDKgPqEghP03BOTEnMy2_KC8zUUfBKbUoOzUntXICGyMAMv9krrIAAAA",
+          "image": "https://serpapi.com/searches/695c8ebee22fed52816ac144/images/69fe90f0296f491e1c1fdaa6f83e414e5234fc2815ab52c258825939a4d2a85fad26bfaab9e3c024.jpeg"
+        }
+      ],
+      "education_links": [
+        {
+          "text": "St Antony's College",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=St+Antony%27s+College&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMiiulPDBXMyJs_Fg96I6QAzJAg4f_FTfQXWj-fO8CSUqdGOwGeIb341iH0AMd9w6i8XMUUQ_8sM5PZcrV02NACX0a7XuNBOFcJ7IN5IMxv-B6SZs8GKGK9mqVdx0-frQ_-Z7ivHNiXh_lG7i8Fz_xqBwlXbTCNDFKFOX83GgfWY777BFNashM5mERhRDBZ6coTgkcLDTFQzvbYxhlTaang0RBMIvX1jnYl8IA0xyvKefll6f4w%3D%3D&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQmxN6BAgxEAI"
+        },
+        {
+          "text": "Princeton High School",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=Princeton+High+School&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35I-6m0AsdSFQEQXaxgT082DKdprd3nFwu_VCy4PLOiM8iaUmFIJgI_Nky3i-uwVS1r1yfpkRr0TSVEVOBRhgx_JHT4ZD5lkFK8tWvbN5OynJHqYmbKyQCy4-3mpzyheTFJBrdWGDawqcNv7Rza_H6b4aoAeSv-xrxUlnVpHIoL76DygW6UsGX3xmNMlOzGua4b-K0bNWMhAoouzehfDwGN1UM9-rMM-z1Uq0h2yEyH8te2HFAOS6Xk9p8vHciwUpL6Z4r6I%3D&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQmxN6BAgxEAM"
+        },
+        {
+          "text": "University of California, Berkeley",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=University+of+California,+Berkeley&si=AMgyJEtRPX4ld4pdQeltMBlsXK6YnLg9be4xryEBJwXFHLOO-K6OVyIY8ef3W78dBzKPkpxJewFbyfOf6IAsY5NkrY9L97byxOZxP4esydp8L7l3LrqzBh5dGJV9nbNmVPklrvogKJr0GCSaRo8jBk184kjY2LLVJHj4S8nP4rKcChnxCUGGa-fV7hARqHy3aQA9cbrQV26_pkxF_7KnxxoOeKAAk2iF55qXfxdBLk_wFjFGv4MsdG4z0LZj-calvd2mWVk6DvNg5_PX8-M36Z76_Z-J5WNtK-7y63X8CKHIyUJZ8xwOv6F1PGS4p2VzRTthXyTigbX_&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQmxN6BAgxEAQ"
+        }
+      ],
+      "party": "Democratic Party",
+      "party_links": [
+        {
+          "text": "Democratic Party",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=Democratic+Party&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35B6oqjpOY3hnpfQANDCo6UlQcCADNO1grOixsGNE4jTBcguNY6chuyhRUogtWAklCpkTghw2QKcMjlo1FaFLo4tN7IZSbO51020-_aniUhG51dXabwddzJPMPiUg2oa52l4Skj1vusak_sgAv5Kk85bjpWjLal2gAb8Hyp02QlVd2PL0lg%3D%3D&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQmxN6BAgvEAI"
+        }
+      ],
+      "candidate_for": "2026 US House New Jersey District 11 general special election",
+      "candidate_for_links": [
+        {
+          "text": "2026 US House New Jersey District 11 general special election",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=2026+US+House+New+Jersey+District+11+general+special+election&si=AMgyJEs9DArPE9xmb5yVYVjpG4jqWDEKSIpCRSjmm88XZWnGNVAAAJORToNF9qkJ7pFbLF2U8jWOIehe5kips1mZgSA3KR90QeU2n-c-9k54Y5bkzYPvE3kxbImBtkPzMxjKMqFfcbhJBW6nqhLMcJEb5iihi4gAoNrpW_F0-oVI9s7HlPX09P7wSPBJX7km22Ccj2KYnROuLrDSuX-5LcJnfq30SEV9gF1h5rsIB16S-G389gfN59UKbp_3WW4u_5kkxWPxgzzMvK3oO7ABPjWs-RKGFTU-Qg%3D%3D&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQmxN6BAguEAI"
+        }
+      ],
+      "previous_campaigns": "2022 United States House of Representatives elections in New Jersey",
+      "previous_campaigns_links": [
+        {
+          "text": "2022 United States House of Representatives elections in New Jersey",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=2022+United+States+House+of+Representatives+elections+in+New+Jersey&si=AMgyJEs9DArPE9xmb5yVYVjpG4jqWDEKSIpCRSjmm88XZWnGNTybFDQmzshSKlU2NzyLs0voqhpMsqMqoggIH40ASgBdpxCmeyMM9SmhCIRxvZoF3WAsXdl-E6_6VKlS26Ul36nfJabF_WvJT5-KtFBrT_6dyoeQEWd9TyosbhsVEE1VuJrOPtKH8dkNdEmWREsxM4D5lm0SL-N5LlSzO_ukYRePb-6HjzWGrXZbUZ3pKw16M_YqEdlIHpWbo3MQAxzPR3dN3rcPG171PtY4OoAbN1QZ8NHp0-n2mOwfqQdxdLfrBMXGRLg%3D&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQmxN6BAgzEAI"
+        },
+        {
+          "text": "See more",
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=tom+malinowski+previous+campaigns&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEzOzSiPLzMs1tLLTrbST0tNLCktSo0vqSxI1S_Iz8ksyUzOTMyzKihKLcvMLy2OT07MLUjMTM8rXsSqWJKfq5CbmJOZl19enJ2pAFOjAFcDAJkt72xlAAAA&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQ44YBegQIMxAD"
+        }
+      ],
+      "education_link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&gl=us&hl=en&q=tom+malinowski&stick=H4sIAAAAAAAAAONgVuLVT9c3NEzOzSiPLzMsfsRowS3w8sc9YSn9SWtOXmPU5OIKzsgvd80rySypFJLmYoOyBKX4uVB18ixi5SvJz1XITczJzMsvL87OBAD3J0kyXQAAAA&sa=X&ved=2ahUKEwjkmtOJifaRAxUvkYkEHX__A0gQ1i96BAgJEAM",
+      "education_stick": "H4sIAAAAAAAAAONgVuLVT9c3NEzOzSiPLzMsfsRowS3w8sc9YSn9SWtOXmPU5OIKzsgvd80rySypFJLmYoOyBKX4uVB18ixi5SvJz1XITczJzMsvL87OBAD3J0kyXQAAAA",
+      "profiles": [
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/malinowskifornj",
+          "image": "https://serpapi.com/searches/695c8ebee22fed52816ac144/images/69fe90f0296f491e1c1fdaa6f83e414e4de05b072b08f12f4d7ba66741fab99e6da23ec5d97af0d9.png"
+        },
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/malinowskifornj/",
+          "image": "https://serpapi.com/searches/695c8ebee22fed52816ac144/images/69fe90f0296f491e1c1fdaa6f83e414e4de05b072b08f12f0364c292fbb857831392337c0d6978a5.png"
+        },
+        {
+          "name": "YouTube",
+          "link": "https://www.youtube.com/channel/UCPBK9PROw46Gv1CPrdNwJnQ",
+          "image": "https://serpapi.com/searches/695c8ebee22fed52816ac144/images/69fe90f0296f491e1c1fdaa6f83e414e4de05b072b08f12ff782cea25a08ada25b60ef8e4fdea61b.png"
+        },
+        {
+          "name": "X (Twitter)",
+          "link": "https://twitter.com/Malinowski",
+          "image": "https://serpapi.com/searches/695c8ebee22fed52816ac144/images/69fe90f0296f491e1c1fdaa6f83e414e4de05b072b08f12fc974bee2fb478528fe2079f47f2470f0.png"
+        }
+      ]
+    },
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 2125
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski education college",
+    "queryId": "education",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski - Breaking News, Photos and Videos",
+        "link": "https://thehill.com/people/tom-malinowski/",
+        "snippet": "Tom Malinowski Biographical Data, Tom Malinowski Occupation Congressman, 2019 Education St. Anthony's College, Oxford, M.Phil University of California, Berkeley, …",
+        "domain": "thehill.com"
+      },
+      {
+        "position": 2,
+        "title": "MALINOWSKI, Tom",
+        "link": "https://bioguideretro.congress.gov/Home/MemberDetails?memIndex=M001203",
+        "snippet": "MALINOWSKI, TOM, A Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, Princeton, N.J., 1983; B.A., University of California, Berkeley, …",
+        "domain": "bioguideretro.congress.gov"
+      },
+      {
+        "position": 3,
+        "title": "Seton Hall Welcomes Visiting Scholar Tom Malinowski, Distinguished ...",
+        "link": "https://www.shu.edu/diplomacy/news/seton-hall-welcomes-visiting-scholar-tom-malinowski.html",
+        "snippet": "He earned his B.A. in Political Science from the University of California, Berkeley, in 1987 and he is a graduate of the University of Oxford, where he earned a Master of Philosophy in Politics in …",
+        "domain": "www.shu.edu"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski’s policy on Free College for All - isidewith.com",
+        "link": "https://www.isidewith.com/candidates/tom-malinowski/policies/education/free-college-for-all",
+        "snippet": "Tom Malinowski has shown support for making college more affordable, though he has not explicitly advocated for completely free tuition at four-year colleges and universities. He has, however, …",
+        "domain": "www.isidewith.com"
+      },
+      {
+        "position": 5,
+        "title": "Tom Malinowski - grokipedia.com",
+        "link": "https://grokipedia.com/page/Tom_Malinowski",
+        "snippet": "Born in Słupsk, Poland, during the Cold War era under communist rule, Malinowski immigrated to the United States with his mother at age six, settling in New Jersey. He graduated from Princeton High …",
+        "domain": "grokipedia.com"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski on Education",
+        "link": "https://www.ontheissues.org/NJ/Tom_Malinowski_Education.htm",
+        "snippet": "\"By focusing on equity and inclusion, we move towards a public education system that is more just and will benefit every student, regardless of sex, ethnicity, ability, or their zip code.\"",
+        "domain": "www.ontheissues.org"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski : Early life and education, Career, U.S. House of ...",
+        "link": "https://fr.edu.vn/en/Tom_Malinowski",
+        "snippet": "Malinowski received a Bachelor of Arts in political science from the University of California, Berkeley, in 1987, where he won a Harry S. Truman Scholarship in 1985, [7] and a Master of Philosophy from St …",
+        "domain": "fr.edu.vn"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski - Alchetron, The Free Social Encyclopedia",
+        "link": "https://alchetron.com/Tom-Malinowski",
+        "snippet": "Malinowski received a bachelor of arts in political science from the University of California, Berkeley in 1987 and a master of philosophy from Oxford …",
+        "domain": "alchetron.com"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski - Wikiwand",
+        "link": "https://www.wikiwand.com/en/articles/Tom_Malinowski",
+        "snippet": "Malinowski received a bachelor of arts in political science from the University of California, Berkeley, in 1987, where he won a Harry S. Truman Scholarship in 1985, [9] and in 1991, a master of philosophy …",
+        "domain": "www.wikiwand.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 945
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski career background",
+    "queryId": "career",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th congressional ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski - State.gov",
+        "link": "https://2009-2017.state.gov/r/pa/ei/biog/224368.htm",
+        "snippet": "Tom Malinowski was sworn in as Assistant Secretary of State for Democracy, Human Rights and Labor on April 3, 2014.",
+        "domain": "2009-2017.state.gov"
+      },
+      {
+        "position": 3,
+        "title": "MALINOWSKI, Tom",
+        "link": "https://bioguide.congress.gov/search/bio/M001203",
+        "snippet": "MALINOWSKI, Tom, a Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, Princeton, NJ, 1983.",
+        "domain": "bioguide.congress.gov"
+      },
+      {
+        "position": 4,
+        "title": "Congressman Tom Malinowski",
+        "link": "https://docs.house.gov/meetings/AP/AP04/20220517/114743/HHRG-117-AP04-Bio-M001203-20220517.pdf",
+        "snippet": "Congressman Tom Malinowski (D-NJ) was born in Communist Poland during the height of the Cold War. When he was six, he and his mother fled to the United.",
+        "domain": "docs.house.gov"
+      },
+      {
+        "position": 5,
+        "title": "Seton Hall Welcomes Visiting Scholar Tom Malinowski, ...",
+        "link": "https://www.shu.edu/diplomacy/news/seton-hall-welcomes-visiting-scholar-tom-malinowski.html",
+        "snippet": "Seton Hall School of Diplomacy and International Relations is honored to introduce visiting scholar Tom Malinowski, a former Congressman and ...",
+        "domain": "www.shu.edu"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski",
+        "link": "https://jstreetpac.org/candidate/tom-malinowski/",
+        "snippet": "Former Representative Tom Malinowski is running for New Jersey's 11th Congressional District, vacated by Mikie Sherrill following her election as Governor ...",
+        "domain": "jstreetpac.org"
+      },
+      {
+        "position": 7,
+        "title": "Former Rep. Tom Malinowski - D New Jersey, 7th, Defeated",
+        "link": "https://www.legistorm.com/person/bio/118453/Tomasz_P_Malinowski.html",
+        "snippet": "Malinowski, Tomasz P. A Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, Princeton, N.J., ...",
+        "domain": "www.legistorm.com"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski",
+        "link": "https://www.c-span.org/person/tom-malinowski/1008908/",
+        "snippet": "Tom Malinowski. X @repmalinowski. Tomasz \"Tom\" Pobóg Malinowski is an American politician and former diplomat who served as the U.S. representative from New ...",
+        "domain": "www.c-span.org"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski for House (D-NJ-07)",
+        "link": "https://livableworld.org/meet-the-candidates/house-candidates/tom-malinowski-for-house-d-nj-07-2/",
+        "snippet": "In 2018, Malinowski upset an incumbent Republican Congressman by 52-47% with the endorsement of Council for a Livable World. In 2020, the Republican Party ...",
+        "domain": "livableworld.org"
+      },
+      {
+        "position": 10,
+        "title": "Tom Malinowski",
+        "link": "https://ballotpedia.org/Tom_Malinowski",
+        "snippet": "The general election will occur on April 16, 2026. General election candidates will be added here following the primary. The candidate list in this election may ...",
+        "domain": "ballotpedia.org"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 2300
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski career background",
+    "queryId": "career",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Malinowski was born in Słupsk, Poland, and lived in Brwinów until leaving the country at the age of six with his mother, Joanna, who married journalist and a political operator Blair Clark. He was raised in Princeton, New Jersey, and graduated from Princeton …Early careerMalinowski worked as a special assistant to U.S. Senator Daniel Patrick Moynihan in 1988. He worked for the Institute for Human Sciences in Vienna, Austria, and later, as a research assistant for the Ford …",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "Washington Post, the New York Times, the Atlantic, Foreign Policy ...",
+        "link": "https://docs.house.gov/meetings/FA/FA17/20240604/117339/HMTG-118-FA17-Bio-MalinowskiT-20240604.pdf",
+        "snippet": "during the Cold War, and emigrated to the United States when he was six year old. From 1994 to 2001, he served as a speechwriter for Secretaries of State Warren Christopher and …",
+        "domain": "docs.house.gov"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski - Alchetron, The Free Social …",
+        "link": "https://alchetron.com/Tom-Malinowski",
+        "snippet": "Malinowski began his government career as a Special Assistant for Senator Daniel Patrick Moynihan in 1988. After obtaining his M.Phil at …",
+        "domain": "alchetron.com"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski : Early life and education, Career, U.S. House of ...",
+        "link": "https://fr.edu.vn/en/Tom_Malinowski",
+        "snippet": "Tomasz \"Tom\" P. Malinowski (/ˌmælɪˈnaʊskiː/; born September 23, 1965) [1] is an American politician and diplomat who was the U.S. representative from New Jersey's 7th congressional …",
+        "domain": "fr.edu.vn"
+      },
+      {
+        "position": 5,
+        "title": "Tom Malinowski – Life, Career, and “Quotable” Insights",
+        "link": "https://importantquote.com/authors/tom-malinowski",
+        "snippet": "Explore the life, career, and key statements of Tom Malinowski — from his early years in Poland to serving in U.S. Congress and diplomacy. Learn about his principles, influence, and legacy.",
+        "domain": "importantquote.com"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski served in the U.S. House of Representatives from …",
+        "link": "https://docs.house.gov/meetings/FA/FA07/20250508/118216/HHRG-119-FA07-Bio-MalinowskiT-20250508.pdf",
+        "snippet": "He was born in Poland during the Cold War, and emigrated to the United States when he was six year old. From 1994 to 2001, he was a speechwriter for Secretaries of State Warren …",
+        "domain": "docs.house.gov"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski - Wikiwand",
+        "link": "https://www.wikiwand.com/en/articles/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski (/ ˌmælɪˈnaʊskiː /; born September 23, 1965) [1] is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th …",
+        "domain": "www.wikiwand.com"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski – Feminist Majority PAC",
+        "link": "https://feministmajoritypac.org/candidates/tom-malinowski/",
+        "snippet": "For 12 years, he was the Washington Director for the Human Rights Watch, where he campaigned for democratic reform and women’s rights recognition. Most recently, he was the Assistant …",
+        "domain": "feministmajoritypac.org"
+      },
+      {
+        "position": 9,
+        "title": "AllGov - Officials",
+        "link": "http://www.allgov.com/officials/malinowski-tom?officialid=29922",
+        "snippet": "Commencing his public service career, Malinowski served as a speechwriter and member of the Policy Planning Staff at the State Department from 1994 to 1998, working directly under …",
+        "domain": "www.allgov.com"
+      },
+      {
+        "position": 10,
+        "title": "Tom Malinowski - Politician Compare",
+        "link": "https://www.politiciancompare.com/politicians/tommalinowski/",
+        "snippet": "Tom Malinowski is a Member of the US House of Representatives serving New Jersey's 7th district. He holds degrees from the University of California, Berkeley, where he studied political science, …",
+        "domain": "www.politiciancompare.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": "Tom Malinowski is a Member of the US House of Representatives serving New Jersey's 7th district. He holds degrees from the University of California, Berkeley, where he studied political science, and the University of Oxford, where received a Master of Philosophy and was a Rhodes …",
+    "peopleAlsoAsk": [],
+    "latencyMs": 820
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski State Department",
+    "queryId": "state_dept",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski - State.gov",
+        "link": "https://2009-2017.state.gov/r/pa/ei/biog/224368.htm",
+        "snippet": "Tom Malinowski was sworn in as Assistant Secretary of State for Democracy, Human Rights and Labor on April 3, 2014.",
+        "domain": "2009-2017.state.gov"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th congressional ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 3,
+        "title": "MALINOWSKI, Tom",
+        "link": "https://bioguide.congress.gov/search/bio/M001203",
+        "snippet": "MALINOWSKI, Tom, a Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, Princeton, NJ, 1983.",
+        "domain": "bioguide.congress.gov"
+      },
+      {
+        "position": 4,
+        "title": "Tomasz P. Malinowski - People - Department History",
+        "link": "https://history.state.gov/departmenthistory/people/malinowski-tomasz-p",
+        "snippet": "Tomasz P. Malinowski (1965–) NOTE TO READERS Updates to the Principal Officers and Chiefs of Mission database are currently suspended.",
+        "domain": "history.state.gov"
+      },
+      {
+        "position": 5,
+        "title": "MALINOWSKI, Tom | US House of Representatives",
+        "link": "https://history.house.gov/People/Detail/25769805190?current_search_qs=%3FPreviousSearch%3DSearch%252cLastName%252c%252c%252c%252c%252cFalse%252cFalse%252cFalse%252c%252cCongress%26CurrentPage%3D944%26SortOrder%3DCongress%26ResultType%3DList%26Command%3D947",
+        "snippet": "Concise Biography. MALINOWSKI, Tom, A Representative from New Jersey; born in Slupsk, Poland, September 23, 1965; graduated from Princeton High School, ...",
+        "domain": "history.house.gov"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski",
+        "link": "https://www.washingtoninstitute.org/experts/tom-malinowski",
+        "snippet": "Tom Malinowski serves as Assistant Secretary for Democracy, Human Rights, and Labor in the U.S. State Department.",
+        "domain": "www.washingtoninstitute.org"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski for Congress",
+        "link": "https://www.malinowskifornj.com/",
+        "snippet": "Tom Malinowski is a Democrat running for Congress in NJ's 11th Congressional District & former Asst. Secretary of State.",
+        "domain": "www.malinowskifornj.com"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski (@malinowskifornj) · New Jersey, USA",
+        "link": "https://www.instagram.com/malinowskifornj/?hl=en",
+        "snippet": "3K+ followers · 218 following · 72 posts · @malinowskifornj: “Diplomat, father and husband, former Congressman proudly standing up for New Jersey.”",
+        "domain": "www.instagram.com"
+      },
+      {
+        "position": 9,
+        "title": "MALINOWSKI, TOM - Candidate overview",
+        "link": "https://www.fec.gov/data/candidate/H8NJ07223/",
+        "snippet": "Explore current and historic federal campaign finance data on the new fec.gov. Look at totals and trends, and see how candidates and committees raise and ...",
+        "domain": "www.fec.gov"
+      },
+      {
+        "position": 10,
+        "title": "Tom Malinowski",
+        "link": "https://www.congress.gov/member/tom-malinowski/M001203",
+        "snippet": "Tom Malinowski, the Representative from New Jersey - in Congress from 2019 through 2023.",
+        "domain": "www.congress.gov"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [
+      "What is Tom Malinowski doing now?",
+      "Where does Tom Malinowski live now?"
+    ],
+    "latencyMs": 1071
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski State Department",
+    "queryId": "state_dept",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tomasz P. Malinowski - People - Department History - Office of the ...",
+        "link": "https://history.state.gov/departmenthistory/people/malinowski-tomasz-p",
+        "snippet": "Tomasz P. Malinowski (1965–) Non-career appointee State of Residence: District of Columbia Assistant Secretary of State for Democracy, Human Rights, and Labor Appointed: April 3, …",
+        "domain": "history.state.gov"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski - Wikiwand",
+        "link": "https://www.wikiwand.com/en/articles/Tom_Malinowski",
+        "snippet": "From 1994 to 1998, Malinowski was a speechwriter for U.S. Secretaries of State Warren Christopher and Madeleine Albright as well as a member of the Policy Planning Staff at the Department of State. [11]",
+        "domain": "www.wikiwand.com"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski served in the U.S. House of ... - Congress.gov",
+        "link": "https://www.congress.gov/119/meeting/house/118216/witnesses/HHRG-119-FA07-Bio-MalinowskiT-20250508.pdf",
+        "snippet": "Between 2014 and 2017, he served as President Obama’s Assistant Secretary of State for Democracy, Human Rights, and Labor, leading America’s global efforts to promote human rights. …",
+        "domain": "www.congress.gov"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski - Berkley Center for Religion, Peace and World Affairs",
+        "link": "https://berkleycenter.georgetown.edu/people/tom-malinowski",
+        "snippet": "Tom Malinowski currently serves as the assistant secretary of state for democracy, human rights, and labor. Previously, he was the Washington director for Human Rights Watch, an independent …",
+        "domain": "berkleycenter.georgetown.edu"
+      },
+      {
+        "position": 5,
+        "title": "AllGov - Officials",
+        "link": "http://www.allgov.com/officials/malinowski-tom?officialid=29922",
+        "snippet": "Commencing his public service career, Malinowski served as a speechwriter and member of the Policy Planning Staff at the State Department from 1994 to 1998, working directly under Secretaries of State …",
+        "domain": "www.allgov.com"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski - KeyWiki",
+        "link": "https://keywiki.org/Tom_Malinowski",
+        "snippet": "He is a former State Department official who now sits on the House Foreign Affairs Committee where he has advocated against the Muslim Ban and in favor of diplomatic efforts to resolve challenges with Iran.",
+        "domain": "keywiki.org"
+      },
+      {
+        "position": 7,
+        "title": "Malinowski, Tom - U.S. Department of State",
+        "link": "https://2009-2017.state.gov/r/pa/ei/biog/224368.htm",
+        "snippet": "From 1994 to 1998 he was a speechwriter for Secretaries of State Warren Christopher and Madeleine Albright, and member of the Policy Planning …",
+        "domain": "2009-2017.state.gov"
+      },
+      {
+        "position": 8,
+        "title": "Washington Post, the New York Times, the Atlantic, Foreign …",
+        "link": "https://docs.house.gov/meetings/FA/FA17/20240604/117339/HMTG-118-FA17-Bio-MalinowskiT-20240604.pdf",
+        "snippet": "Between 2014 and 2017, he served as President Obama’s Assistant Secretary of State for Democracy, Human Rights, and Labor, leading America’s global efforts to promote human rights.",
+        "domain": "docs.house.gov"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski was US Assistant Secretary of State Tom …",
+        "link": "https://www.congress.gov/115/meeting/house/106108/witnesses/HHRG-115-FA13-Bio-MalinowskiT-20170613.pdf",
+        "snippet": "Tom Malinowski was US Assistant Secretary of State ure that our foreign policy reflected our values. Prior to that he was Washington irector for Human Rights Watch from 2001 to 2013. …",
+        "domain": "www.congress.gov"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 1209
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski Human Rights Watch",
+    "queryId": "hrw",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski - State.gov",
+        "link": "https://2009-2017.state.gov/r/pa/ei/biog/224368.htm",
+        "snippet": "Tom Malinowski was sworn in as Assistant Secretary of State for Democracy, Human Rights and Labor on April 3, 2014.",
+        "domain": "2009-2017.state.gov"
+      },
+      {
+        "position": 2,
+        "title": "Testimony of Tom Malinowski",
+        "link": "https://www.hrw.org/news/2013/02/28/testimony-tom-malinowski",
+        "snippet": "Police violence is being investigated by a government commission chaired by Aung San Suu Kyi. Opponents of the military are coming home from ...",
+        "domain": "www.hrw.org"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski",
+        "link": "https://docs.house.gov/meetings/FA/FA07/20250508/118216/HHRG-119-FA07-Bio-MalinowskiT-20250508.pdf",
+        "snippet": "From 1994 to 2001, he was a speechwriter for Secretaries of State Warren Christopher and Madeleine Albright, and a Senior Director on President Clinton's ...",
+        "domain": "docs.house.gov"
+      },
+      {
+        "position": 4,
+        "title": "Testimony of Tom Malinowski before the Tom Lantos ...",
+        "link": "https://www.hrw.org/news/2012/08/01/testimony-tom-malinowski-tom-lantos-human-rights-comission-implementation-bahrain",
+        "snippet": "King Hamad had appointed the Bahrain Independent Commission of Inquiry (BICI), chaired by the esteemed international jurist Cherif Bassiouni, to ...",
+        "domain": "www.hrw.org"
+      },
+      {
+        "position": 5,
+        "title": "How a Defender of Palestinian Rights Lost His Way",
+        "link": "https://jewishcurrents.org/how-a-defender-of-palestinian-rights-lost-his-way",
+        "snippet": "As the Washington director of Human Rights Watch, Tom Malinowski fought for justice in Israel-Palestine. All that changed once he got to ...",
+        "domain": "jewishcurrents.org"
+      },
+      {
+        "position": 6,
+        "title": "Testimony of Tom Malinowski",
+        "link": "https://www.hrw.org/sites/default/files/related_material/Testimony%20of%20Tom%20Malinowski%20-%20SFRC%20-%20Russia%20-%20December%202011.pdf",
+        "snippet": "Testimony of Tom Malinowski. Washington Director, Human Rights Watch: Senate Foreign Relations Committee. Subcommittee on European Affairs.",
+        "domain": "www.hrw.org"
+      },
+      {
+        "position": 7,
+        "title": "Rep. Tom Malinowski — FP Action Network",
+        "link": "https://www.fpactionnetwork.org/tom-malinowski-2022",
+        "snippet": "representative TOM MALINOWSKI. NJ-07, U.S. House of Representatives. Tom Malinowski served as an Assistant Secretary of State under President Obama, ...",
+        "domain": "www.fpactionnetwork.org"
+      },
+      {
+        "position": 8,
+        "title": "Former U.S. Congressman Tom Malinowski Joins ...",
+        "link": "https://www.mccaininstitute.org/resources/in-the-news/former-u-s-congressman-tom-malinowski-joins-mccain-institute-as-john-s-mccain-senior-fellow/",
+        "snippet": "McCain Senior Fellow. Rep. Malinowski most recently represented New Jersey's 7th Congressional District for two terms (2019-2023). He previously ...",
+        "domain": "www.mccaininstitute.org"
+      },
+      {
+        "position": 9,
+        "title": "US Rep. Tom Malinowski: The evolution of big tech and ...",
+        "link": "https://www.atlanticcouncil.org/news/transcripts/us-rep-tom-malinowski-the-evolution-of-big-tech-and-social-media-places-strain-on-democracies-worldwide/",
+        "snippet": "Malinowski talked about online content regulation, competition with authoritarian countries, free speech and human rights online, and more.",
+        "domain": "www.atlanticcouncil.org"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": "From 2001 to 2013, Malinowski was the Washington director for Human Rights Watch. In this position, he advocated for the end of torture techniques and black sites used by the U.S. government during the war on terror. He campaigned for democratic reforms in Myanmar and financial sanctions on its leadership.",
+    "peopleAlsoAsk": [
+      "Who is the current CEO of Human Rights Watch?",
+      "Who funds Human Rights Watch?",
+      "Who is the Human Rights Watch?",
+      "Where is Human Rights Watch located?"
+    ],
+    "latencyMs": 1630
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski Human Rights Watch",
+    "queryId": "hrw",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Washington Post, the New York Times, the Atlantic, …",
+        "link": "https://docs.house.gov/meetings/FA/FA17/20240604/117339/HMTG-118-FA17-Bio-MalinowskiT-20240604.pdf",
+        "snippet": "From 2001 until 2013, he was Washington Director for Human Rights Watch, where worked to secure American support for people struggling for democracy around the world, and …",
+        "domain": "docs.house.gov"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski (/ ˌmælɪˈnaʊskiː /; born September 23, 1965) [1] is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th …",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski - Big Think",
+        "link": "https://bigthink.com/people/tommalinowski/",
+        "snippet": "Tom Malinowski, Washington advocacy director for Human Rights Watch and an expert in United States foreign policy, is responsible for the organization's overall advocacy efforts with the US...",
+        "domain": "bigthink.com"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski - justsecurity.org",
+        "link": "https://www.justsecurity.org/author/malinowskitom/",
+        "snippet": "Tom Malinowski (@malinowski) served as the Assistant Secretary of State for Democracy, Human Rights and Labor. from 2014 to 2017. Previously, from 2001, he was …",
+        "domain": "www.justsecurity.org"
+      },
+      {
+        "position": 5,
+        "title": "Tom Malinowski - Wikiwand",
+        "link": "https://www.wikiwand.com/en/articles/Tom_Malinowski",
+        "snippet": "The National Republican Congressional Committee then aired ads falsely accusing him of lobbying to protect sexual predators when he worked for Human Rights Watch.",
+        "domain": "www.wikiwand.com"
+      },
+      {
+        "position": 6,
+        "title": "Jen Rubin in Conversation with Former Representative Tom …",
+        "link": "https://contrarian.substack.com/p/jen-rubin-in-conversation-with-former",
+        "snippet": "Before that, he worked with the National Security Council to help end some of the 20th Century’s bloodiest humanitarian crises, and as the chief advocate for Human Rights …",
+        "domain": "contrarian.substack.com"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski - Speakerpedia, Discover & Follow a World of …",
+        "link": "https://speakerpedia.com/speakers/tom-malinowski",
+        "snippet": "Tom Malinowski, Washington advocacy director for Human Rights Watch and an expert in United States foreign policy, is responsible for the organization's overall advocacy efforts with the US …",
+        "domain": "speakerpedia.com"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski served in the U.S. House of ... - Congress.gov",
+        "link": "https://www.congress.gov/119/meeting/house/118216/witnesses/HHRG-119-FA07-Bio-MalinowskiT-20250508.pdf",
+        "snippet": "From 2001 until 2013, he was Washington Director for Human Rights Watch, where worked to secure American support for people struggling for democracy around the world, and …",
+        "domain": "www.congress.gov"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski was US Assistant Secretary of State Tom …",
+        "link": "https://www.congress.gov/115/meeting/house/106108/witnesses/HHRG-115-FA13-Bio-MalinowskiT-20170613.pdf",
+        "snippet": "Tom Malinowski was US Assistant Secretary of State ure that our foreign policy reflected our values. Prior to that he was Washington irector for Human Rights Watch from 2001 …",
+        "domain": "www.congress.gov"
+      },
+      {
+        "position": 10,
+        "title": "Tom Malinowski - Wikiwand",
+        "link": "https://www.wikiwand.com/en/articles/Tomasz_Malinowski",
+        "snippet": "The National Republican Congressional Committee then aired ads falsely accusing him of lobbying to protect sexual predators when he worked for Human Rights Watch.",
+        "domain": "www.wikiwand.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 7671
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski 2026 election",
+    "queryId": "running_for",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Democrats return to democracy messaging in NJ special ...",
+        "link": "https://www.politico.com/news/2026/01/02/democrats-return-to-democracy-messaging-in-nj-special-election-00704771",
+        "snippet": "In one of the first major races of 2026, some candidates are focusing on an issue that has proven to motivate their base but has not been as ...",
+        "domain": "www.politico.com"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski",
+        "link": "https://ballotpedia.org/Tom_Malinowski",
+        "snippet": "The candidate list in this election may not be complete. Special Democratic primary for U.S. House New Jersey District 11. The following candidates are running ...",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski",
+        "link": "https://jstreetpac.org/candidate/tom-malinowski/",
+        "snippet": "Former Representative Tom Malinowski is running for New Jersey's 11th Congressional District, vacated by Mikie Sherrill following her election as Governor ...",
+        "domain": "jstreetpac.org"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski Is Running for Congress as the Grownup in ...",
+        "link": "https://villagegreennj.com/election/the-grownup-in-the-room-tom-malinowski/",
+        "snippet": "With Mikie Sherrill resigning her Congressional seat to become NJ Governor, South Orange and Maplewood will help decide the crowded ...",
+        "domain": "villagegreennj.com"
+      },
+      {
+        "position": 5,
+        "title": "2026 New Jersey's 11th congressional district special ...",
+        "link": "https://en.wikipedia.org/wiki/2026_New_Jersey%27s_11th_congressional_district_special_election",
+        "snippet": "The 2026 New Jersey's 11th congressional district special election will be held on April 16, 2026, to fill the vacant seat in New Jersey's 11th ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 6,
+        "title": "POLITICO Pro: Malinowski jumps into race for Sherrill's seat",
+        "link": "https://subscriber.politicopro.com/article/2025/11/malinowski-jumps-into-race-for-sherrills-seat-00640114",
+        "snippet": "Former Democratic Rep. Tom Malinowski made his bid for Gov.-elect Mikie Sherrill's congressional seat official on Thursday.",
+        "domain": "subscriber.politicopro.com"
+      },
+      {
+        "position": 7,
+        "title": "Meet the Candidates - NJ Congressional District Special ...",
+        "link": "https://www.aclu-nj.org/event/meet-the-candidates-nj-congressional-district-special-primary-election/",
+        "snippet": "Featured candidates include: Josh Bartlett; Zach Beecher; JL Cauvin; Cammie Croft; Dean Dafis; Brendan Gill; Jeff Grayzel; Joe Hathaway; Anna Lee Williams ...",
+        "domain": "www.aclu-nj.org"
+      },
+      {
+        "position": 8,
+        "title": "Malinowski gets endorsement of Morris Dems for Mikie seat",
+        "link": "https://morristowngreen.com/2025/12/15/no-crooks-no-cowards-no-kings-malinowski-gets-endorsement-of-morris-dems-for-mikie-seat/",
+        "snippet": "By Kristen Neymarc. Tom Malinowski won the Morris County Democratic Committee's endorsement in the race for New Jersey's 11th Congressional ...",
+        "domain": "morristowngreen.com"
+      },
+      {
+        "position": 9,
+        "title": "They Left Congress. Now They Want Back In.",
+        "link": "https://www.notus.org/2026-election/former-house-members-running-return",
+        "snippet": "Thus far, more former Democratic Congress members are aiming for a return compared to their Republican counterparts. In New Jersey, former Rep.",
+        "domain": "www.notus.org"
+      },
+      {
+        "position": 10,
+        "title": "Former Congressman Tom Malinowski Announces ...",
+        "link": "https://www.insidernj.com/former-congressman-tom-malinowski-announces-campaign-for-new-jerseys-11th-district/",
+        "snippet": "Malinowski served two terms in the House representing CD-7 a bit to the west. Now, he's running in CD-11 where a special election will be held - ...",
+        "domain": "www.insidernj.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 3751
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski 2026 election",
+    "queryId": "running_for",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski Is Running for Congress as the Grownup in the Room",
+        "link": "https://villagegreennj.com/election/the-grownup-in-the-room-tom-malinowski/",
+        "snippet": "The Levers of Power — and Tariffs Regarding that power, Malinowski described how a Democratic minority in Congress could be effective — although he fully believes that the House will be …",
+        "domain": "villagegreennj.com"
+      },
+      {
+        "position": 2,
+        "title": "These former members of Congress are seeking comebacks in 2026",
+        "link": "https://rollcall.com/2025/12/29/former-members-comebacks-midterm-elections/",
+        "snippet": "Here’s a look at the former members of Congress who have launched comeback bids in the 2026 midterm elections.",
+        "domain": "rollcall.com"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski - Ballotpedia",
+        "link": "https://ballotpedia.org/Tom_Malinowski",
+        "snippet": "",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 4,
+        "title": "'No crooks, no cowards, no kings': Malinowski gets endorsement of ...",
+        "link": "https://morristowngreen.com/2025/12/15/no-crooks-no-cowards-no-kings-malinowski-gets-endorsement-of-morris-dems-for-mikie-seat/",
+        "snippet": "Tom Malinowski won the Morris County Democratic Committee’s endorsement in the race for New Jersey’s 11th Congressional District, emerging from a 12-candidate field after nine rounds of...",
+        "domain": "morristowngreen.com"
+      },
+      {
+        "position": 5,
+        "title": "Former Congressman Tom Malinowski Announces …",
+        "link": "https://www.insidernj.com/former-congressman-tom-malinowski-announces-campaign-for-new-jerseys-11th-district/",
+        "snippet": "Millburn, NJ — Today, Former Congressman Tom Malinowski launched his campaign for the special election in New Jersey’s 11th Congressional District.",
+        "domain": "www.insidernj.com"
+      },
+      {
+        "position": 6,
+        "title": "Senator Kim Stumps with Tom Malinowski for NJ-11 Congressional Seat",
+        "link": "https://parsippanyfocus.com/2025/12/09/senator-kim-stumps-with-tom-malinowski-for-nj-11-congressional-seat/",
+        "snippet": "Malinowski is one of several Democrats running in the February 2026 primary to replace her. Senator Kim and Malinowski became friends during their time serving at the U.S. State Department.",
+        "domain": "parsippanyfocus.com"
+      },
+      {
+        "position": 7,
+        "title": "NJ 2026 midterm Congress election candidates who are running",
+        "link": "https://www.northjersey.com/story/news/politics/elections/2025/11/28/nj-2026-midterm-congress-election-candidates-running/87471642007/",
+        "snippet": "Several big names have already thrown their hats into the race. Former Democratic Rep. Tom Malinowski declared his intention to run almost as soon as Sherrill won the governorship.",
+        "domain": "www.northjersey.com"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski for Congress",
+        "link": "https://www.malinowskifornj.com/",
+        "snippet": "Tom Malinowski is a former diplomat, human rights activist, and member of Congress who represented New Jersey between 2019 and 2023. During his four years in the …",
+        "domain": "www.malinowskifornj.com"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski launches New Jersey Congress bid …",
+        "link": "https://www.foxnews.com/politics/former-house-democrat-targets-trump-bid-political-comeback?msockid=3ce6feb3cfb0648005f4e86ace6465c6",
+        "snippet": "Former Democratic Rep. Tom Malinowski of New Jersey is launching a political comeback, as he declared his candidacy in the 2026 special election for …",
+        "domain": "www.foxnews.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 4508
+  },
+  {
+    "engine": "google",
+    "query": "NJ-11 special election 2026 candidates",
+    "queryId": "nj11_race",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "New Jersey's 11th Congressional District special election, ...",
+        "link": "https://ballotpedia.org/New_Jersey%27s_11th_Congressional_District_special_election,_2026",
+        "snippet": "The general election will occur on April 16, 2026. General election candidates will be added here following the primary. Democratic primary election. Special ...",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 2,
+        "title": "CD 11 Special Election Voter Guide",
+        "link": "https://www.nj11thforchange.org/special_election",
+        "snippet": "The eyes of the nation are on NJ's 11th district. As Mikie Sherrill assumes her role as Governor of New Jersey, her congressional seat will be open and we ...",
+        "domain": "www.nj11thforchange.org"
+      },
+      {
+        "position": 3,
+        "title": "12/10/2025 Page 1 of 4 Official List Candidates for House ...",
+        "link": "https://nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-special-primary-candidates-us-house-11cd.pdf",
+        "snippet": "PASSAIC. PASSAIC COUNTY REGULAR. REPUBLICAN ORGANIZATION, INC. For SPECIAL PRIMARY ELECTION 02/05/2026 Election. Page 4. Candidate Totals for ...",
+        "domain": "nj.gov"
+      },
+      {
+        "position": 4,
+        "title": "Candidates for NJ's 11th Congressional District to Meet ...",
+        "link": "https://montclairlocal.news/2026/01/candidates-for-njs-11th-congressional-district-to-meet-voters-at-caldwell-university/",
+        "snippet": "special primary election candidates flyer. The forum is ADA accessible. More information about voter registration, early voting and vote-by ...",
+        "domain": "montclairlocal.news"
+      },
+      {
+        "position": 5,
+        "title": "2026 New Jersey's 11th congressional district special ...",
+        "link": "https://en.wikipedia.org/wiki/2026_New_Jersey%27s_11th_congressional_district_special_election",
+        "snippet": "The 2026 New Jersey's 11th congressional district special election will be held on April 16, 2026, to fill the vacant seat in New Jersey's 11th ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 6,
+        "title": "More than a dozen candidates file for NJ-11 special election",
+        "link": "https://subscriber.politicopro.com/article/2025/12/more-than-a-dozen-candidates-file-for-nj-11-special-election-00672170",
+        "snippet": "-elect Mikie Sherrill in NJ-11. Democratic candidates include Passaic County Commissioner John Bartlett; Army veteran Zach Beecher; lawyer and ...",
+        "domain": "subscriber.politicopro.com"
+      },
+      {
+        "position": 7,
+        "title": "Election Clerk Candidate Workbook",
+        "link": "https://www.morriscountyclerk.org/files/sharedassets/clerk/v/5/elections/past-results/2026-special-primary-candidates.pdf",
+        "snippet": "Candidates for. County of Morris,. Special Primary Election, February 5, 2026. District/Municipality Contest Title. Term (Years) Vote For Ward/District. First ...",
+        "domain": "www.morriscountyclerk.org"
+      },
+      {
+        "position": 8,
+        "title": "02/05/2026 Email Add",
+        "link": "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-unofficial-special-primary-candidates-us-house-11cd-emails.pdf",
+        "snippet": "Candidates for U.S. House of Representatives for the 11th CD for Special Primary Election - 02/05/2026. Email Addresses. District. Candidate(s). Party. Email ...",
+        "domain": "www.nj.gov"
+      },
+      {
+        "position": 9,
+        "title": "Democrats return to democracy messaging in NJ special ...",
+        "link": "https://www.politico.com/news/2026/01/02/democrats-return-to-democracy-messaging-in-nj-special-election-00704771",
+        "snippet": "In one of the first major races of 2026, some candidates are focusing on an issue that has proven to motivate their base but has not been as ...",
+        "domain": "www.politico.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 1302
+  },
+  {
+    "engine": "bing",
+    "query": "NJ-11 special election 2026 candidates",
+    "queryId": "nj11_race",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Candidates for House of Representatives For SPECIAL PRIMARY …",
+        "link": "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-special-primary-candidates-us-house-11cd.pdf",
+        "snippet": "For SPECIAL PRIMARY ELECTION 02/05/2026 Election. 12/10/2025 Official List Page 2 of 4 Candidates for House of Representatives Name Address Party County Slogan Eleventh Congressional District: ESSEX …",
+        "domain": "www.nj.gov"
+      },
+      {
+        "position": 2,
+        "title": "New Jersey's 11th Congressional District special election, 2026",
+        "link": "https://ballotpedia.org/New_Jersey%27s_11th_Congressional_District_special_election,_2026",
+        "snippet": "Special Democratic primary for U.S. House New Jersey District 11 The following candidates are running in the special Democratic primary for U.S. House New Jersey District 11 on February 5, 2026.",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 3,
+        "title": "2026 New Jersey's 11th congressional district special election",
+        "link": "https://en.wikipedia.org/wiki/2026_New_Jersey%27s_11th_congressional_district_special_election",
+        "snippet": "",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 4,
+        "title": "Thirteen Democrats, one Republican file to make NJ-11 …",
+        "link": "https://newjerseyglobe.com/congress/fourteen-democrats-one-republican-file-to-make-nj-11-special-election-ballot/",
+        "snippet": "The field for the special election in New Jersey’s 11th congressional district, vacant since Gov.-elect Mikie Sherrill resigned from the House last month, …",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 5,
+        "title": "SOMA Action Releases Voter Guide, Candidate Evaluations for NJ-11 …",
+        "link": "https://villagegreennj.com/election/soma-action-releases-voter-guide-candidate-evaluations-for-the-2026-democratic-special-election-primary/",
+        "snippet": "SOMA Action Releases Voter Guide, Candidate Evaluations for NJ-11 2026 Democratic Special Election Primary The progressive grassroots group interviewed all 12 Democratic primary …",
+        "domain": "villagegreennj.com"
+      },
+      {
+        "position": 6,
+        "title": "Who's running for Mikie Sherrill's seat? NJ-11 special election is set",
+        "link": "https://www.usatoday.com/story/news/politics/elections/2025/11/22/whos-running-for-mikie-sherrills-seat-nj-special-election-is-set/87418981007/",
+        "snippet": "Outgoing New Jersey Gov. Phil Murphy has scheduled special party primaries for Feb. 5 to determine the Republican and Democratic contenders to fill the seat. Contenders must file petitions...",
+        "domain": "www.usatoday.com"
+      },
+      {
+        "position": 7,
+        "title": "Meet the Candidates - NJ Congressional District Special Primary Election",
+        "link": "https://www.aclu-nj.org/event/meet-the-candidates-nj-congressional-district-special-primary-election/",
+        "snippet": "Join the League of Women Voters New Jersey and co-sponsor ACLU-NJ to meet the candidates running for congressional district NJ-11 on January 15, 2026 at Caldwell University.",
+        "domain": "www.aclu-nj.org"
+      },
+      {
+        "position": 8,
+        "title": "13 Democrats file for NJ-11 special - True North News",
+        "link": "https://news.jwest.org/stories/20251202-d8de90ce.html",
+        "snippet": "After Gov.-elect Mikie Sherrill resigned her U.S. House seat on Nov. 20, outgoing Gov. Phil Murphy issued a writ of election Nov. 21 setting a Feb. 5, 2026 special primary and an April 16, 2026 …",
+        "domain": "news.jwest.org"
+      },
+      {
+        "position": 9,
+        "title": "CD11 Special Election - NJ 11th For Change",
+        "link": "https://www.nj11thforchange.org/special_election",
+        "snippet": "We invited all declared candidates vying for the Democratic nomination for the 11th to join us. Each candidate was allotted equal time to introduce themselves and their platform to help you, the citizens of …",
+        "domain": "www.nj11thforchange.org"
+      },
+      {
+        "position": 10,
+        "title": "MCDC Announces CD11 Special Election Candidate Screening Results",
+        "link": "https://www.insidernj.com/mcdc-announces-cd11-special-election-candidate-screening-results/",
+        "snippet": "The MCDC CD11 Special Election Candidate Screening Committee has completed its evaluation of candidates seeking the Democratic nomination for New Jersey’s 11th Congressional District.",
+        "domain": "www.insidernj.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 2712
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski opponents NJ-11",
+    "queryId": "opponents",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Malinowski's internal polling gives him early edge in ...",
+        "link": "https://newjerseyglobe.com/congress/malinowskis-internal-polling-gives-him-early-edge-in-packed-nj-11-primary/",
+        "snippet": "DISCLAIMER: Polls can be a helpful tool for understanding elections, but they are an imperfect one, as demonstrated by New Jersey's three ...",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 2,
+        "title": "2026 New Jersey's 11th congressional district special ...",
+        "link": "https://en.wikipedia.org/wiki/2026_New_Jersey%27s_11th_congressional_district_special_election",
+        "snippet": "The 2026 New Jersey's 11th congressional district special election will be held on April 16, 2026, to fill the vacant seat in New Jersey's 11th ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 3,
+        "title": "CD-11 Candidates Scramble for Support",
+        "link": "https://www.insidernj.com/cd-11-candidates-scramble-for-support/",
+        "snippet": "That was the challenge Saturday morning for the dozen Dems seeking to replace Mikie Sherrill in Congress. The primary in CD-11, which covers ...",
+        "domain": "www.insidernj.com"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski prevails in vote for Morris Dems' ...",
+        "link": "https://www.northjersey.com/story/news/politics/elections/2025/12/15/tom-malinowski-morris-county-nj-democrats-endorsement/87783693007/",
+        "snippet": "Hoping for a return to the U.S. Congress as the replacement for Gov.-elect Mikie Sherrill, Tom Malinowski has captured a coveted endorsement ...",
+        "domain": "www.northjersey.com"
+      },
+      {
+        "position": 5,
+        "title": "Democrats jockey to replace Gov.-elect Mikie Sherrill in ...",
+        "link": "https://newjerseymonitor.com/2025/11/10/mikie-sherrill-special-election/",
+        "snippet": "The race to represent the 11th Congressional District includes a former congressman, an ex-Obama administration staffer, two county ...",
+        "domain": "newjerseymonitor.com"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski",
+        "link": "https://jstreetpac.org/candidate/tom-malinowski/",
+        "snippet": "Former Representative Tom Malinowski is running for New Jersey's 11th Congressional District, vacated by Mikie Sherrill following her election as Governor ...",
+        "domain": "jstreetpac.org"
+      },
+      {
+        "position": 7,
+        "title": "Experience, residency and urgency dominate NJ-11 ...",
+        "link": "https://morristowngreen.com/2025/12/22/experience-residency-and-urgency-dominate-nj-11-democratic-candidates-forum/",
+        "snippet": "By Kathy Shwiff. Twelve Democrats competing in the Feb. 5, 2026, special primary election to fill the District 11 seat in Congress made their ...",
+        "domain": "morristowngreen.com"
+      },
+      {
+        "position": 8,
+        "title": "More than a dozen candidates file for NJ-11 special election",
+        "link": "https://subscriber.politicopro.com/article/2025/12/more-than-a-dozen-candidates-file-for-nj-11-special-election-00672170",
+        "snippet": "-elect Mikie Sherrill in NJ-11. Democratic candidates include Passaic County Commissioner John Bartlett; Army veteran Zach Beecher; lawyer and ...",
+        "domain": "subscriber.politicopro.com"
+      },
+      {
+        "position": 9,
+        "title": "Senator Kim Stumps with Tom Malinowski for NJ-11 ...",
+        "link": "https://parsippanyfocus.com/2025/12/09/senator-kim-stumps-with-tom-malinowski-for-nj-11-congressional-seat/",
+        "snippet": "PARSIPPANY — New Jersey Senator Andy Kim joined residents at the Parsippany PAL on Saturday evening for a public “Democracy Discussion,” ...",
+        "domain": "parsippanyfocus.com"
+      },
+      {
+        "position": 10,
+        "title": "Tom Malinowski makes it official: He's running to succeed ...",
+        "link": "https://newjerseyglobe.com/congress/tom-malinowski-makes-it-official-hes-running-to-succeed-mikie-sherrill/",
+        "snippet": "-elect Mikie Sherrill soon to depart her seat in the 11th congressional district – one seat over from the 7th district Malinowski used to ...",
+        "domain": "newjerseyglobe.com"
+      }
+    ],
+    "knowledgePanel": {
+      "see_results_about": [
+        {
+          "name": "Tom Malinowski",
+          "extensions": [
+            "Former United States Representative"
+          ],
+          "link": "https://www.google.com/search?sca_esv=ef33947b847c7ba4&hl=en&gl=us&q=Tom+Malinowski&si=AMgyJEsz3pmZkGi0ONh7Vfq4hFc2IQk6k73PRgYWxKLafryiAyAUDo8Y_5NYI2Ye0zAfpR5hCasuuk71JMa2spzeIkk18gbSSjhAgEut0DJ0R2uTiu9RkdH9enIYEVYyp9vVKTKLL6TBmXfGkPAAtua4Y2VCUH04ortaCmi4kjgI2aWSW41XkoC7z6mqT1w03w6nvoBhLN2rbh_WiOPMefOFzTpTUOPaTFj3OlEOho-spevhRVs0Hxk%3D&sa=X&ved=2ahUKEwiV1NCZifaRAxXmnCYFHU-NLywQ6RN6BAgOEAE",
+          "image": "https://serpapi.com/searches/695c8edf3882c5f2ad856a3b/images/c2c0db51db72a456b8e10252a0de65da4a06a30b2ac0a3b1e3b9be46c85cb5ced03b681cfceda2d20729b4812657078a.jpeg"
+        }
+      ]
+    },
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 2502
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski opponents NJ-11",
+    "queryId": "opponents",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "2026 New Jersey's 11th congressional district special …",
+        "link": "https://en.wikipedia.org/wiki/2026_New_Jersey%27s_11th_congressional_district_special_election",
+        "snippet": "The 2026 New Jersey's 11th congressional district special election will be held on April 16, 2026, to fill the vacant seat in New Jersey's 11th congressional district.",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski Is Running for Congress as the Grownup in the Room",
+        "link": "https://villagegreennj.com/election/the-grownup-in-the-room-tom-malinowski/",
+        "snippet": "Former Congressman Tom Malinowski wants to bring his expertise and gravitas back to Congress in NJ-11 -- saying they are urgently needed to rebuild democracy.",
+        "domain": "villagegreennj.com"
+      },
+      {
+        "position": 3,
+        "title": "Malinowski’s internal polling gives him early edge in packed NJ-11 ...",
+        "link": "https://newjerseyglobe.com/congress/malinowskis-internal-polling-gives-him-early-edge-in-packed-nj-11-primary/",
+        "snippet": "In the 13-candidate Democratic primary for Gov.-elect Mikie Sherrill’s House seat, former Rep. Tom Malinowski likely starts out with the highest profile of anyone, and he’s got new …",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 4,
+        "title": "Democrats return to democracy messaging in NJ special election",
+        "link": "https://www.politico.com/news/2026/01/02/democrats-return-to-democracy-messaging-in-nj-special-election-00704771",
+        "snippet": "Ahead of the February special election for New Jersey’s 11th District, former Rep. Tom Malinowski recently hosted a town hall with Maryland Rep. Jamie Raskin about “ defending our …",
+        "domain": "www.politico.com"
+      },
+      {
+        "position": 5,
+        "title": "Tom Malinowski gets Morris County NJ Democrats endorsement",
+        "link": "https://www.northjersey.com/story/news/politics/elections/2025/12/15/tom-malinowski-morris-county-nj-democrats-endorsement/87783693007/",
+        "snippet": "Hoping for a return to the U.S. Congress as the replacement for Gov.-elect Mikie Sherrill, Tom Malinowski has captured a coveted endorsement from the Morris County …",
+        "domain": "www.northjersey.com"
+      },
+      {
+        "position": 6,
+        "title": "The Intensifying Currents of the CD-11 Democratic Primary - Insider …",
+        "link": "https://www.insidernj.com/the-intensifying-currents-of-the-cd-11-democratic-primary/",
+        "snippet": "So says Tom Malinowski in his first ad - now on his Facebook page - of the truncated CD-11 campaign. It's not hard to grasp Malinowski's strategy. He's the guy with …",
+        "domain": "www.insidernj.com"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski for Congress",
+        "link": "https://www.malinowskifornj.com/",
+        "snippet": "Now, he is running for New Jersey’s 11th district to make sure NJ families keep more of what they earn by cutting costs, and to stand up to the Trump administration’s lawlessness and corruption. …",
+        "domain": "www.malinowskifornj.com"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski launches bid for NJ-11 seat - True North News",
+        "link": "https://news.jwest.org/stories/20251106-70a6e75b.html",
+        "snippet": "Former Democratic Rep. Tom Malinowski announced Thursday he will run in the coming special election for New Jersey’s 11th Congressional District, which will be vacated when …",
+        "domain": "news.jwest.org"
+      },
+      {
+        "position": 9,
+        "title": "Malinowski’s first NJ-11 ad pitches him as an anti-Trump warrior",
+        "link": "https://newjerseyglobe.com/congress/malinowskis-first-nj-11-ad-pitches-him-as-an-anti-trump-warrior/",
+        "snippet": "Former Rep. Tom Malinowski’s first ad in the special election for New Jersey’s 11th district hits on a familiar theme for the former congressman: he’s fought Donald Trump before …",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 10,
+        "title": "Malinowski seeks Congressional seat in the 11th District",
+        "link": "https://www.newjerseyhills.com/bernardsville_news/news/malinowski-seeks-congressional-seat-in-the-11th-district/article_efe1ab1f-d658-40f6-9d7f-51afffc20234.html",
+        "snippet": "Former Democrat Congressman Tom Malinowski launched his campaign for the special election in New Jersey’s 11th Congressional District, his campaign announced on …",
+        "domain": "www.newjerseyhills.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": "The poll also tested five of Malinowski’s opponents: Essex County Commissioner Brendan Gill (D-Montclair) has 40% name ID, Passaic County Commissioner John Bartlett (D-Wayne) has 23%, Bernie Sanders 2020 national political director Analilia Mejia and Morris Township …",
+    "peopleAlsoAsk": [],
+    "latencyMs": 1206
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski foreign policy",
+    "queryId": "policy_foreign",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski",
+        "link": "https://foreignpolicy.com/author/tom-malinowski/",
+        "snippet": "Tom Malinowski is a senior fellow at the McCain Institute and the former Congressman from New Jersey's 7th district. He served as U.S. assistant secretary ...",
+        "domain": "foreignpolicy.com"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski - State.gov",
+        "link": "https://2009-2017.state.gov/r/pa/ei/biog/224368.htm",
+        "snippet": "Tom Malinowski was sworn in as Assistant Secretary of State for Democracy, Human Rights and Labor on April 3, 2014.",
+        "domain": "2009-2017.state.gov"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski served two terms in the U.S. House of ...",
+        "link": "https://www.congress.gov/118/meeting/house/117339/witnesses/HMTG-118-FA17-Bio-MalinowskiT-20240604.pdf",
+        "snippet": "He was Vice Chairman of the. House Foreign Affairs Committee and a member of the Transportation and Infrastructure and Homeland Security Committees, focusing on ...",
+        "domain": "www.congress.gov"
+      },
+      {
+        "position": 4,
+        "title": "Statement of Tom Malinowski",
+        "link": "https://docs.house.gov/meetings/FA/FA07/20250508/118216/HHRG-119-FA07-Wstate-MalinowskiT-20250508.pdf",
+        "snippet": "Statement of Tom Malinowski. House Foreign Affairs Subcommittee on the Western Hemisphere. May 8, 2025. Chairwoman Salazar, Ranking Member ...",
+        "domain": "docs.house.gov"
+      },
+      {
+        "position": 5,
+        "title": "Tom Malinowski",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th congressional ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 6,
+        "title": "Seton Hall visiting scholar seeks return to Congress in NJ- ...",
+        "link": "https://www.thesetonian.com/article/2025/11/shu-scholar-running-for-congress",
+        "snippet": "Teaching ethics and foreign policy at Seton Hall this semester, Tom Malinowski steps into the election to replace governor-elect Mikie Sherrill.",
+        "domain": "www.thesetonian.com"
+      },
+      {
+        "position": 7,
+        "title": "Democracy Talks: Tom Malinowski",
+        "link": "https://www.youtube.com/watch?v=BJS2N_GeD-0",
+        "snippet": "Tom Malinowski served as U.S. assistant secretary of state for democracy, human rights, and labor from April 2014 – January 2017.",
+        "domain": "www.youtube.com"
+      },
+      {
+        "position": 8,
+        "title": "Seton Hall Welcomes Visiting Scholar Tom Malinowski, ...",
+        "link": "https://www.shu.edu/diplomacy/news/seton-hall-welcomes-visiting-scholar-tom-malinowski.html",
+        "snippet": "Seton Hall School of Diplomacy and International Relations is honored to introduce visiting scholar Tom Malinowski, a former Congressman and ...",
+        "domain": "www.shu.edu"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski for Congress",
+        "link": "https://www.malinowskifornj.com/",
+        "snippet": "Tom Malinowski is a Democrat running for Congress in NJ's 11th Congressional District & former Asst. Secretary of State.",
+        "domain": "www.malinowskifornj.com"
+      },
+      {
+        "position": 10,
+        "title": "Rep. Tom Malinowski — FP Action Network",
+        "link": "https://www.fpactionnetwork.org/tom-malinowski-2022",
+        "snippet": "representative TOM MALINOWSKI. NJ-07, U.S. House of Representatives. Tom Malinowski served as an Assistant Secretary of State under President Obama, ...",
+        "domain": "www.fpactionnetwork.org"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [
+      "What is Tom Malinowski doing now?",
+      "What is Tulsi Gabbard's foreign policy?",
+      "Does the president dictate foreign policy?",
+      "Where does Tom Malinowski live now?"
+    ],
+    "latencyMs": 1308
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski foreign policy",
+    "queryId": "policy_foreign",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Washington Post, the New York Times, the Atlantic, Foreign …",
+        "link": "https://docs.house.gov/meetings/FA/FA17/20240604/117339/HMTG-118-FA17-Bio-MalinowskiT-20240604.pdf",
+        "snippet": "Tom Malinowski served two terms in the U.S. House of Representatives, after winning election in 2018 in New Jersey's 7th Congressional District. He was Vice Chairman of the House …",
+        "domain": "docs.house.gov"
+      },
+      {
+        "position": 2,
+        "title": "Statement of Tom Malinowski House Foreign Affairs …",
+        "link": "https://www.congress.gov/119/meeting/house/118216/witnesses/HHRG-119-FA07-Wstate-MalinowskiT-20250508.pdf",
+        "snippet": "On top of that, Secretary Rubio has said he wants to move all the DRL staff whose job is to influence our policies towards authoritarian countries into the Department’s regional …",
+        "domain": "www.congress.gov"
+      },
+      {
+        "position": 3,
+        "title": "Tom Malinowski Is Running for Congress as the Grownup in the Room",
+        "link": "https://villagegreennj.com/election/the-grownup-in-the-room-tom-malinowski/",
+        "snippet": "In an interview with Village Green, Malinowski explained that foreign affairs and national security are high on his list of priorities. “There’s still a lot of bipartisan agreement of …",
+        "domain": "villagegreennj.com"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski – Foreign Policy",
+        "link": "https://foreignpolicy.com/author/tom-malinowski/",
+        "snippet": "Tom Malinowski is a senior fellow at the McCain Institute and the former Congressman from New Jersey's 7th district.",
+        "domain": "foreignpolicy.com"
+      },
+      {
+        "position": 5,
+        "title": "Tom Malinowski Endorsement — FP Action Network",
+        "link": "https://www.fpactionnetwork.org/tom-malinowski-endorsement-2026",
+        "snippet": "Foreign Policy for America Endorses Tom Malinowski in NJ-11 Special Election FOR IMMEDIATE RELEASE – November 18, 2025 WASHINGTON D.C. - Foreign Policy for America has …",
+        "domain": "www.fpactionnetwork.org"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski and Victoria Nuland on deteriorating American …",
+        "link": "https://contrarian.substack.com/p/tom-malinowski-and-victoria-nuland",
+        "snippet": "Tom Malinowski and Victoria Nuland on deteriorating American diplomacy & foreign policy \"Basically six humans are making foreign policy for the United States.\"",
+        "domain": "contrarian.substack.com"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Malinowski worked as a special assistant to U.S. Senator Daniel Patrick Moynihan in 1988. He worked for the Institute for Human Sciences in …",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski | Scorecard - Foreign Policy for America",
+        "link": "https://www.fp4america.org/scorecard/tom-malinowski/117/",
+        "snippet": "Backed by that vision, Foreign Policy for America chose to score a collection of bills that address the many ways and areas in which women are either marginalized or disproportionately impacted …",
+        "domain": "www.fp4america.org"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski - Foreign Affairs",
+        "link": "https://www.foreignaffairs.com/authors/tom-malinowski",
+        "snippet": "Browse all articles written by Tom Malinowski for Foreign Affairs.",
+        "domain": "www.foreignaffairs.com"
+      },
+      {
+        "position": 10,
+        "title": "Seton Hall visiting scholar seeks return to Congress in NJ-11 race",
+        "link": "https://www.thesetonian.com/article/2025/11/shu-scholar-running-for-congress",
+        "snippet": "Former congressman and diplomat Tom Malinowski, now a visiting scholar in Seton Hall’s School of Diplomacy and International Relations, has entered the congressional race to fill …",
+        "domain": "www.thesetonian.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 1167
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski healthcare position",
+    "queryId": "policy_healthcare",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski is an American politician and former diplomat who served as the U.S. representative from New Jersey's 7th congressional ...",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski",
+        "link": "https://www.congress.gov/member/tom-malinowski/M001203",
+        "snippet": "Tom Malinowski, the Representative from New Jersey - in Congress from 2019 through 2023.",
+        "domain": "www.congress.gov"
+      },
+      {
+        "position": 3,
+        "title": "Rep. Tom Malinowski's 2022 Report Card",
+        "link": "https://www.govtrack.us/congress/members/tom_malinowski/412798/report-card/2022",
+        "snippet": "Year-end 2022 legislative statistics for Rep. Malinowski [D-NJ7, 2019-2022], the Representative from New Jersey.",
+        "domain": "www.govtrack.us"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski",
+        "link": "https://ballotpedia.org/Tom_Malinowski",
+        "snippet": "The general election will occur on April 16, 2026. General election candidates will be added here following the primary. The candidate list in this election may ...",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 5,
+        "title": "Tom Malinowski makes it official: He's running to succeed ...",
+        "link": "https://newjerseyglobe.com/congress/tom-malinowski-makes-it-official-hes-running-to-succeed-mikie-sherrill/",
+        "snippet": "-elect Mikie Sherrill soon to depart her seat in the 11th congressional district – one seat over from the 7th district Malinowski used to ...",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski",
+        "link": "https://giffords.org/candidates/tom-malinowski/",
+        "snippet": "Gun Laws. Giffords Law Center works in all 50 states to change policies and challenge injustice. We won't rest until every state has strong gun safety laws ...",
+        "domain": "giffords.org"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski",
+        "link": "https://justfacts.votesmart.org/candidate/179645/tom-malinowski",
+        "snippet": "Vote Smart provides free, unbiased, in-depth information about current officials, candidates, issues, legislation, and voting. Non-partisan and nonprofit ...",
+        "domain": "justfacts.votesmart.org"
+      },
+      {
+        "position": 8,
+        "title": "Rep. Tom Malinowski",
+        "link": "https://aflcio.org/scorecard/legislators/tom-malinowski",
+        "snippet": "This omnibus package provides a much needed increase in non-defense discretionary funding and critical investments in Medicaid, education, children's health and ...",
+        "domain": "aflcio.org"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski iVoterGuide Profile",
+        "link": "https://ivoterguide.com/candidate/43058/race/6807/election/949",
+        "snippet": "Candidate for U.S. Rep., Dist. 7 | New Jersey General | November 8, 2022.",
+        "domain": "ivoterguide.com"
+      },
+      {
+        "position": 10,
+        "title": "Rep. Tom Malinowski's 2020 Report Card",
+        "link": "https://www.govtrack.us/congress/members/tom_malinowski/412798/report-card/2020",
+        "snippet": "Year-end 2020 legislative statistics for Rep. Malinowski [D-NJ7, 2019-2022], the Representative from New Jersey.",
+        "domain": "www.govtrack.us"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 1329
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski healthcare position",
+    "queryId": "policy_healthcare",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Malinowski was born in Słupsk, Poland, and lived in Brwinów until leaving the country at the age of six with his mother, Joanna, who married journalist and a political operator Blair Clark. He was raised in Princeton, New Jersey, and …Early careerMalinowski worked as a special assistant to U.S. Senator Daniel Patrick Moynihan in 1988. He worked for the Institute for Human Sciences in Vienna, Austria, and later, as a research assistant for the Ford …",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski’s Policies on Healthcare Issues",
+        "link": "https://www.isidewith.com/candidates/tom-malinowski/policies/healthcare",
+        "snippet": "A list of 20 political views and policies made by Tom Malinowski about healthcare issues in 2024.",
+        "domain": "www.isidewith.com"
+      },
+      {
+        "position": 3,
+        "title": "Health care costs will get worse & Why Tom Malinowski wants to head ...",
+        "link": "https://contrarian.substack.com/p/health-care-costs-will-get-worse",
+        "snippet": "Tom Malinowski wants to fight back. There was a lot of news to follow this week, but we are still laser focused on rising health care costs that will impact millions of Americans. Rural …",
+        "domain": "contrarian.substack.com"
+      },
+      {
+        "position": 4,
+        "title": "Tom Malinowski on Health Care",
+        "link": "https://www.ontheissues.org/NJ/Tom_Malinowski_Health_Care.htm",
+        "snippet": "Keep healthcare mandate, according to CC survey. Malinowski opposes the CC survey question on healthcare mandate",
+        "domain": "www.ontheissues.org"
+      },
+      {
+        "position": 5,
+        "title": "Better Care America",
+        "link": "https://bettercareamerica.org/rep-tom-malinowski-new-jersey-health-care-leaders-share-ways-to-improve-health-outcomes/",
+        "snippet": "Rep. Tom Malinowski (D-NJ) recently joined a virtual roundtable conversation hosted by Independence Blue Cross and Better Care America to discuss issues related to social determinants …",
+        "domain": "bettercareamerica.org"
+      },
+      {
+        "position": 6,
+        "title": "iVoterGuide - Tom Malinowski iVoterGuide Profile",
+        "link": "https://ivoterguide.com/candidate/43058/race/6807/election/949?culture=en-us",
+        "snippet": "C) Medicaid and Medicare should remain available, but no other taxpayer-funded programs are necessary. D)Tax-payer funded health care should be abolished in all forms, and Medicaid and …",
+        "domain": "ivoterguide.com"
+      },
+      {
+        "position": 7,
+        "title": "Healthcare champion Tom Malinowski speaking on the importance of …",
+        "link": "https://www.facebook.com/1199NJ/videos/healthcare-champion-tom-malinowski-speaking-on-the-importance-of-the-people-powe/645777923827864/",
+        "snippet": "Healthcare champion Tom Malinowski speaking on the importance of the people power 1199 SEIU New Jersey brings to support his re-election. This is one of the most competitive races in the country and …",
+        "domain": "www.facebook.com"
+      },
+      {
+        "position": 8,
+        "title": "Health care costs will get worse & Why Tom Malinowski wants to head ...",
+        "link": "https://podscan.fm/podcasts/the-contrarian-pod/episodes/health-care-costs-will-get-worse-amp-why-tom-malinowski-wants-to-head-back-to-congress",
+        "snippet": "There was a lot of news to follow this week, but we are still laser focused on rising health care costs that will impact millions of Americans. Rural hospitals, the middle-class, vulnerable …",
+        "domain": "podscan.fm"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski’s policy on Medical Consensus - isidewith.com",
+        "link": "https://www.isidewith.com/candidates/tom-malinowski/policies/healthcare/medical-consensus",
+        "snippet": "Tom Malinowski’s most recent views and policy on Medical Consensus in 2024. In response to the question “Should medical boards penalize doctors who give health advice that contradicts …",
+        "domain": "www.isidewith.com"
+      },
+      {
+        "position": 10,
+        "title": "Tom Malinowski is always for us. | Tom doesn't take ... - Facebook",
+        "link": "https://www.facebook.com/tpmalinowski/videos/tom-malinowski-is-always-for-us/4605626692811549/",
+        "snippet": "Tom doesn't take corporate PAC money. He's pro-choice, preserving affordable healthcare and he will not tolerate bigotry. Tom will always be clear on...",
+        "domain": "www.facebook.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": "Malinowski cited health care, immigration, diplomacy, environmental policy, and infrastructure as areas of focus. [41] Malinowski supports the Affordable Care Act and criticized the Republican Party's attempts to dismantle it. [42]",
+    "peopleAlsoAsk": [],
+    "latencyMs": 1027
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski climate change",
+    "queryId": "policy_climate",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski",
+        "link": "https://www.lcv.org/moc/tom-malinowski/",
+        "snippet": "Representative. Tom Malinowski. D New Jersey (NJ-07). Lifetime Score. 97%. Share On. Scorecard; Recent; Annual. Filter. Filter by. All Years, 2024, 2023 ...",
+        "domain": "www.lcv.org"
+      },
+      {
+        "position": 2,
+        "title": "Malinowski: 'A Make-or-Break Moment for Climate'",
+        "link": "https://www.insidernj.com/malinowski-make-break-moment-climate/",
+        "snippet": "Mateo referenced the impacts of Hurricane Ida on New Jersey as a product of climate change. The BBB would, in theory, produce a green energy ...",
+        "domain": "www.insidernj.com"
+      },
+      {
+        "position": 3,
+        "title": "Sierra Club New Jersey Endorses Representative Tom ...",
+        "link": "https://www.sierraclub.org/new-jersey/blog/2022/04/sierra-club-new-jersey-endorses-representative-tom-malinowski",
+        "snippet": "“Tom Malinowski has been an environmental champion and leader in Congress, and we're proud to endorse him for reelection. He has supported ...",
+        "domain": "www.sierraclub.org"
+      },
+      {
+        "position": 4,
+        "title": "Press Releases - Don Beyer",
+        "link": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=5704",
+        "snippet": "Press Releases · Egypt Human Rights Caucus Co-Chairs' Statement On U.N. COP27 Climate Change Conference · Office Locations.",
+        "domain": "beyer.house.gov"
+      },
+      {
+        "position": 5,
+        "title": "Following Devastating Storms, Environment New Jersey Urges ...",
+        "link": "https://environmentamerica.org/newjersey/media-center/following-devastating-storms-environment-new-jersey-urges-reps-tom-malinowski-mikie-sherrill-to-continue-fight-for-climate-investments/",
+        "snippet": "Speakers called on Reps. Tom Malinowski (NJ-07) and Mikie Sherrill (NJ-11) to continue fighting for major investments to combat climate change through the Build ...",
+        "domain": "environmentamerica.org"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski",
+        "link": "https://ballotpedia.org/Tom_Malinowski",
+        "snippet": "The general election will occur on April 16, 2026. General election candidates will be added here following the primary. The candidate list in this election may ...",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 7,
+        "title": "Too divisive? In survey, bipartisan citizen panel agrees on ...",
+        "link": "https://vop.org/wp-content/uploads/2022/03/CPF-Malinowski-BernardsvilleNews032822.pdf",
+        "snippet": "Using rebates and tax incentives to make Americans better environmental stewards? That seems to be the consensus, according to a bipartisan ...",
+        "domain": "vop.org"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski",
+        "link": "https://www.congress.gov/member/tom-malinowski/M001203?page=12",
+        "snippet": "Tom Malinowski, the Representative from New Jersey - in Congress from 2019 through 2023.",
+        "domain": "www.congress.gov"
+      },
+      {
+        "position": 9,
+        "title": "Rep Malinowski Speaks at HFAC Roundtable o American ...",
+        "link": "https://www.youtube.com/watch?v=p0u0P_D_rb4",
+        "snippet": "Share your videos with friends, family, and the world.",
+        "domain": "www.youtube.com"
+      },
+      {
+        "position": 10,
+        "title": "Malinowski vs. Kean Jr.: familiar face-off in 7th District",
+        "link": "https://www.njspotlightnews.org/2022/09/tom-malinowski-tom-kean-jr-7th-congressional-district-democrat-republican-incumbent-social-justice-gun-rights-abortion-climate-change-voting-elections-inflation-economy/",
+        "snippet": "Tom Malinowski and Tom Kean Jr. square off again in the 7th, one of New Jersey's most hotly contested congressional districts.",
+        "domain": "www.njspotlightnews.org"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 1877
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski climate change",
+    "queryId": "policy_climate",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Malinowski: 'A Make-or-Break Moment for Climate'",
+        "link": "https://www.insidernj.com/malinowski-make-break-moment-climate/",
+        "snippet": "Malinowski championed the Build Back Better plan asserting that, nationwide, millions of jobs would be created focusing on environmental efforts, addressing climate change, community improvement, …",
+        "domain": "www.insidernj.com"
+      },
+      {
+        "position": 2,
+        "title": "Tom Malinowski’s policy on Climate Change - isidewith.com",
+        "link": "https://www.isidewith.com/candidates/tom-malinowski/policies/environmental/climate-change-3",
+        "snippet": "Tom Malinowski has consistently advocated for increased environmental regulations to combat climate change. He co-sponsored the Climate Action Now Act, which would require the President to develop …",
+        "domain": "www.isidewith.com"
+      },
+      {
+        "position": 3,
+        "title": "Following Devastating Storms, Environment New Jersey Urges Reps.",
+        "link": "https://environmentamerica.org/newjersey/media-center/following-devastating-storms-environment-new-jersey-urges-reps-tom-malinowski-mikie-sherrill-to-continue-fight-for-climate-investments/",
+        "snippet": "Speakers called on Reps. Tom Malinowski (NJ-07) and Mikie Sherrill (NJ-11) to continue fighting for major investments to combat climate change through the Build Back Better Budget.",
+        "domain": "environmentamerica.org"
+      },
+      {
+        "position": 4,
+        "title": "On the Issues | Tom Malinowski for Congress",
+        "link": "https://www.malinowskifornj.com/on-the-issues",
+        "snippet": "Yet Republicans have repealed parts of this law, driving the cost of electricity up. Congress must restore them while passing reasonable permitting reform. This will lower costs, slow climate change, and …",
+        "domain": "www.malinowskifornj.com"
+      },
+      {
+        "position": 5,
+        "title": "Campaigns Daily | Tom Malinowski for Congress: The House of ...",
+        "link": "https://campaignsdaily.com/stories/632906689-tom-malinowski-for-congress-the-house-of-representatives-passes-critical-federal-funding-to-combat-climate-change",
+        "snippet": "(Washington, DC) Today, the House of Representatives passed critical funding legislation to address the rising threat of climate change and to conserve open space and waterways in New …",
+        "domain": "campaignsdaily.com"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski on Energy & Oil",
+        "link": "https://ontheissues.org/NJ/Tom_Malinowski_Energy_+_Oil.htm",
+        "snippet": "I believe that climate change is real, and in the overwhelming scientific consensus that it is exacerbated by human activity. I support the Paris Climate Change Agreement.",
+        "domain": "ontheissues.org"
+      },
+      {
+        "position": 7,
+        "title": "Rep. Malinowski climate change Town Hall with CCL volunteers",
+        "link": "https://www.facebook.com/CitizensClimateLobby/videos/rep-malinowski-climate-change-town-hall-with-ccl-volunteers/3328964047147334/",
+        "snippet": "Hooray! I'm so grateful to my Congressman, Congressman Tom Malinowski, for his leadership on addressing climate change. He was so gracious in our statewide forum with him this summer. He …",
+        "domain": "www.facebook.com"
+      },
+      {
+        "position": 8,
+        "title": "Tom Malinowski - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Malinowski was reelected, defeating New Jersey Senate Republican leader Tom Kean Jr. by 1.2%. Due to the very close margin, the election remained unresolved for weeks.",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski | Scorecard - Foreign Policy for America",
+        "link": "https://www.fp4america.org/scorecard/tom-malinowski/117/",
+        "snippet": "The Women and Climate Change Act (H.R. 260), which would require a U.S. strategy and interagency coordination to address the disparate impact on climate change on women and girls.",
+        "domain": "www.fp4america.org"
+      },
+      {
+        "position": 10,
+        "title": "actl.ink - It’s Time For Climate Action!",
+        "link": "https://atadvocacy.com/malinowski-climate/",
+        "snippet": "The recent IPCC report shows that our planet is on the brink of no return. We need to do everything we can to pass progressive legislation that will put us on a path towards a clean energy future and tackle …",
+        "domain": "atadvocacy.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 1284
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski stock trading controversy",
+    "queryId": "stock_trading",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Scrutiny over Malinowski stock trades to continue after ...",
+        "link": "https://newjerseymonitor.com/2021/10/22/scrutiny-over-malinowski-stock-trades-to-continue-after-ethics-panel-votes-to-extend-investigation/",
+        "snippet": "A House ethics panel on Thursday extended its investigation into late stock trade disclosures filed by Rep. Tom Malinowksi (D-07).",
+        "domain": "newjerseymonitor.com"
+      },
+      {
+        "position": 2,
+        "title": "OCE Referral Regarding Rep. Tom Malinowski",
+        "link": "http://conduct.house.gov/reports/investigations/oce-referral-regarding-rep-tom-malinowski",
+        "snippet": "On July 23, 2021, the Office of Congressional Ethics transmitted a referral to the Committee on Ethics of the United States House of ...",
+        "domain": "conduct.house.gov"
+      },
+      {
+        "position": 3,
+        "title": "First True Enforcement of STOCK Act by OCE Follows CLC ...",
+        "link": "https://campaignlegal.org/update/first-true-enforcement-stock-act-oce-follows-clc-complaint",
+        "snippet": "Earlier this year, Campaign Legal Center (CLC) filed a complaint with the Office of Congressional Ethics (OCE) against Rep. Tom Malinowski ...",
+        "domain": "campaignlegal.org"
+      },
+      {
+        "position": 4,
+        "title": "If Malinowski returns to Congress, what will the Ethics ...",
+        "link": "https://newjerseyglobe.com/congress/if-malinowski-returns-to-congress-what-will-the-ethics-committee-do/",
+        "snippet": "If former Rep. Tom Malinowski wins next April's special election for the 11th congressional district, he'll bring some of the seniority he ...",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 5,
+        "title": "After bruising 2020 campaign, Malinowski's trading activity ...",
+        "link": "https://www.politico.com/states/new-jersey/story/2021/05/21/after-bruising-2020-campaign-malinowskis-trading-activity-could-spell-doom-in-2022-1383525",
+        "snippet": "Tom Malinowski's failure to disclose up to $1 million of stock trades in companies involved in the country's Covid-19 response has put a ...",
+        "domain": "www.politico.com"
+      },
+      {
+        "position": 6,
+        "title": "Rep. Tom Kean faces scrutiny over his stock portfolio | Video",
+        "link": "https://www.njspotlightnews.org/video/rep-tom-kean-faces-scrutiny-over-his-stock-portfolio/",
+        "snippet": "... Tom Malinowski, had acted unethically by trading stocks while serving in Congress. Kean, a Republican, promised to put his assets in a blind ...",
+        "domain": "www.njspotlightnews.org"
+      },
+      {
+        "position": 7,
+        "title": "NJ Democrats paid fines for violating stock law, prompting ...",
+        "link": "https://www.northjersey.com/story/news/politics/elections/2022/06/13/nj-democrats-stock-act-reform-insider-trading-malinowski-sherrill-pascrell/7501145001/",
+        "snippet": "Rep. Tom Malinowski became the poster child last year for reforming an insider trading and conflict of interest law when he failed to disclose up to $3 million ...",
+        "domain": "www.northjersey.com"
+      },
+      {
+        "position": 8,
+        "title": "CLC Files Complaint Against Malinowski, Emphasizing ...",
+        "link": "https://campaignlegal.org/update/clc-files-complaint-against-malinowski-emphasizing-need-disclose-congressional-stock-trades",
+        "snippet": "CLC filed a complaint with the Office of Congressional Ethics (OCE) on March 8, 2021 against Rep. Tom Malinowski for allegedly violating the Stop Trading on ...",
+        "domain": "campaignlegal.org"
+      },
+      {
+        "position": 9,
+        "title": "Malinowski still has no good answer for his stock trading ...",
+        "link": "https://www.nrcc.org/2022/10/17/malinowski-still-has-no-good-answer-for-his-stock-trading-scandal/",
+        "snippet": "Malinowski told CNN he is getting attacked for simply “having had investments in the stock market” despite his $3.2 million pandemic stock ...",
+        "domain": "www.nrcc.org"
+      },
+      {
+        "position": 10,
+        "title": "Democrat Rep. Tom Malinowski Failed to Disclose Stock ...",
+        "link": "https://www.businessinsider.com/tom-malinowski-stock-trades-congress-transparency-new-jersey-2021-3",
+        "snippet": "Government transparency has been a cornerstone of Rep. Tom Malinowski's congressional tenure. But the two-term New Jersey Democrat failed to ...",
+        "domain": "www.businessinsider.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [
+      "Which politicians have been accused of insider trading?",
+      "Has a congressman ever been convicted of insider trading?",
+      "How many Congress members have violated the STOCK Act?",
+      "Can U.S. politicians be charged with insider trading?"
+    ],
+    "latencyMs": 4240
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski stock trading controversy",
+    "queryId": "stock_trading",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Malinowski faces another ethics complaint over late stock trade ...",
+        "link": "https://newjerseyglobe.com/congress/malinowski-faces-another-ethics-complaint-over-late-stock-trade-disclosures/",
+        "snippet": "A conservative non-profit filed another ethics complaint against Rep. Tom Malinowski (D-Ringoes) over his continued failure to comply with stock disclosure requirements imposed on members …",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 2,
+        "title": "Two Candidates for New Jersey Governor Were Charged …",
+        "link": "https://www.shorenewsnetwork.com/two-candidates-for-new-jersey-governor-were-charged-by-house-ethics-committee-over-stock-trades/",
+        "snippet": "Tom Malinowski, who represented New Jersey’s 7th District from 2019 to 2023, faced a more severe reckoning. During the height of the COVID-19 …",
+        "domain": "www.shorenewsnetwork.com"
+      },
+      {
+        "position": 3,
+        "title": "Ethics watchdog finds ‘substantial’ evidence Rep.",
+        "link": "https://thehill.com/homenews/house/577924-ethics-watchdog-finds-substantial-evidence-rep-malinowski-failed-to-disclose/",
+        "snippet": "The Office of Congressional Ethics (OCE), an independent …",
+        "domain": "thehill.com"
+      },
+      {
+        "position": 4,
+        "title": "Scrutiny over Malinowski stock trades to continue after ethics panel ...",
+        "link": "https://www.newsfromthestates.com/article/scrutiny-over-malinowski-stock-trades-continue-after-ethics-panel-votes-extend",
+        "snippet": "A House ethics panel on Thursday extended its investigation into late stock trade disclosures filed by Rep. Tom Malinowksi (D-07). Despite reminders from staff, Malinowski failed to …",
+        "domain": "www.newsfromthestates.com"
+      },
+      {
+        "position": 5,
+        "title": "Congressional Ethics Complaint Targets New Jersey",
+        "link": "https://lawandcrime.com/high-profile/congressional-ethics-complaint-targets-new-jersey-democrat-for-failing-to-disclose-more-than-100-stock-trades-worth-up-to-5-million/",
+        "snippet": "Two government watchdog groups on Monday filed separate congressional ethics complaints against New Jersey Democratic Rep. Tom …",
+        "domain": "lawandcrime.com"
+      },
+      {
+        "position": 6,
+        "title": "OCE Moves on First True Enforcement of the STOCK Act, Months After ...",
+        "link": "https://campaignlegal.org/press-releases/oce-moves-first-true-enforcement-stock-act-months-after-complaint-filed-clc",
+        "snippet": "On March 8, 2021, Campaign Legal Center filed a complaint against Rep. Malinowski for apparent violation of the STOCK Act. Newly released documents show the Office of Congressional …",
+        "domain": "campaignlegal.org"
+      },
+      {
+        "position": 7,
+        "title": "Democratic Rep. Tom Malinowski Hit With Twin Ethics …",
+        "link": "https://www.businessinsider.com/tom-malinowski-stock-trades-congress-ethics-complaint-2021-3",
+        "snippet": "A pair of nonprofit watchdog organizations on Monday filed separate congressional ethics complaints against Rep. Tom Malinowski, a New Jersey …",
+        "domain": "www.businessinsider.com"
+      },
+      {
+        "position": 8,
+        "title": "Malinowski halts all stock trades until House approves his blind trust",
+        "link": "https://newjerseyglobe.com/congress/malinowski-halts-all-stock-trades-until-house-approves-his-blind-trust/",
+        "snippet": "Rep. Tom Malinowski (D-Ringoes) stopped trading stocks on May 26 and is awaiting approval of a plan to put his assets in a blind trust by the House Ethics Committee.",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 9,
+        "title": "Ethics Watchdogs hit Democratic Rep. Malinowski for undisclosed stock ...",
+        "link": "https://www.foxnews.com/politics/malinowski-democrat-ethics-complaints-investigation-stock?msockid=159ba93c2d2a6be324e5bfe52ca46a8b",
+        "snippet": "Rep. Tom Malinowski, D- N.J., is taking heat from two separate watchdog groups after he failed to publicly disclose at least $671,000 in personal stock trades in 2020.",
+        "domain": "www.foxnews.com"
+      },
+      {
+        "position": 10,
+        "title": "Tom Malinowski - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Tom_Malinowski",
+        "snippet": "Tomasz Pobóg \"Tom\" Malinowski (/ ˌmælɪˈnaʊskiː /; born September 23, 1965) [1] is an American politician and former diplomat who served as the U.S. representative …",
+        "domain": "en.wikipedia.org"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": "Background of the ControversyTom Malinowski, who served as a Democratic representative for New Jersey's 7th District, has been embroiled in a stock trading controversy primarily related to his failure to comply with the STOCK Act, which mandates timely disclosure of stock transactions by members of Congress. Reports indicate that he failed to disclose over 100 stock trades worth as much as $5 million, with some trades occurring during the early days of the COVID-19 pandemic when market volatility was high. Key AllegationsFailure to Disclose: Malinowski was accused of not reporting stock transactions within the required timeframe, which is 30 days after becoming aware of a transaction and no later than 45 days after the transaction. He reportedly failed to disclose hundreds of transactions between January 2019 and May 2021, leading to multiple ethics complaints filed by watchdog groups. Ethics Complaints: The Foundation for Accountability and Civic Trust and the Campaign Legal Center filed complaints against him, arguing that his repeated failures to disclose trades undermined public trust and violated federal law. The Office of Congressional Ethics (OCE) found \"substantial reason to believe\" that he had not complied with disclosure requirements. Defense and Acknowledgment: Malinowski has defended his actions by stating that the trades were managed by a broker without his direct involvement. He acknowledged being \"careless\" in his reporting and has since placed his assets into a blind trust to avoid future conflicts of interest. 5 SourcesImplications for Malinowski's CareerThe controversy has significant implications for Malinowski's political future, especially as he faced a competitive re-election campaign. His stock trading practices and the resulting investigations have raised questions about his ethical standards and transparency, which could impact voter trust as he seeks to maintain his position in Congress. In summary, Tom Malinowski's stock trading controversy highlights ongoing concerns about the ethical conduct of lawmakers and the importance of transparency in government, particularly regarding financial dealings that may influence public trust.",
+    "peopleAlsoAsk": [],
+    "latencyMs": 1408
+  },
+  {
+    "engine": "google",
+    "query": "Tom Malinowski endorsements 2026",
+    "queryId": "endorsements",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski 2026 Endorsement",
+        "link": "https://www.fpactionnetwork.org/tom-malinowski-2026-endorsement",
+        "snippet": "FP4A endorses Tom Malinowski for NJ ... 2026 ENDORSED FRONTLINERS · 2025 ENDORSED CANDIDATES · 2024 ENDORSED FRONTLINERS · 2024 ENDORSED CHAMPIONS ... 2026 ENDORSED ...",
+        "domain": "www.fpactionnetwork.org"
+      },
+      {
+        "position": 2,
+        "title": "Endorsements by Tom Malinowski",
+        "link": "https://ballotpedia.org/Endorsements_by_Tom_Malinowski",
+        "snippet": "This page contains a list of political endorsements made by Tom Malinowski. List of endorsements This section displays endorsements this individual made in ...",
+        "domain": "ballotpedia.org"
+      },
+      {
+        "position": 3,
+        "title": "Malinowski gets endorsement of Morris Dems for Mikie seat",
+        "link": "https://morristowngreen.com/2025/12/15/no-crooks-no-cowards-no-kings-malinowski-gets-endorsement-of-morris-dems-for-mikie-seat/",
+        "snippet": "Tom Malinowski won the Morris County Democratic Committee's endorsement in the race for New Jersey's 11th Congressional District, emerging from ...",
+        "domain": "morristowngreen.com"
+      },
+      {
+        "position": 4,
+        "title": "Morris County Democrats vote to endorse Malinowski",
+        "link": "https://newjerseyglobe.com/congress/morris-dems-vote-to-endorse-malinowski/",
+        "snippet": "Tom Malinowski in the fast-approaching special Democratic primary election for New Jersey's 11th congressional district, a key endorsement ...",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 5,
+        "title": "South Orange Mayor Sheena Collum Endorses Tom ...",
+        "link": "https://villagegreennj.com/election/south-orange-mayor-sheena-collum-endorses-tom-malinowski-for-congress/",
+        "snippet": "I will wholeheartedly cast my vote for Tom Malinowski—for his experience, independence, courage, ability to listen, readiness to serve on day ...",
+        "domain": "villagegreennj.com"
+      },
+      {
+        "position": 6,
+        "title": "Tom Malinowski prevails in vote for Morris Dems' ...",
+        "link": "https://www.northjersey.com/story/news/politics/elections/2025/12/15/tom-malinowski-morris-county-nj-democrats-endorsement/87783693007/",
+        "snippet": "Hoping for a return to the U.S. Congress as the replacement for Gov.-elect Mikie Sherrill, Tom Malinowski has captured a coveted endorsement ...",
+        "domain": "www.northjersey.com"
+      },
+      {
+        "position": 7,
+        "title": "Tom Malinowski - Democratic Party",
+        "link": "https://bluevoterguide.org/NJ/candidate_Tom_Malinowski/291429",
+        "snippet": "Endorsements for Tom Malinowski running as Democratic Party candidate for U.S. House New Jersey District 11. All the candidate information you need to make ...",
+        "domain": "bluevoterguide.org"
+      },
+      {
+        "position": 8,
+        "title": "South Orange Mayor Sheena Collum Endorses Tom ...",
+        "link": "https://www.insidernj.com/press-release/south-orange-mayor-sheena-collum-endorses-tom-malinowski-for-congress/",
+        "snippet": "Mayor Collum also announced that she will host a Community Forum on Defending Our Democracy featuring Malinowski and U.S. Senator Andy Kim on ...",
+        "domain": "www.insidernj.com"
+      },
+      {
+        "position": 9,
+        "title": "Tom Malinowski",
+        "link": "https://jstreetpac.org/candidate/tom-malinowski/",
+        "snippet": "Former Representative Tom Malinowski is running for New Jersey's 11th Congressional District, vacated by Mikie Sherrill following her election as Governor ...",
+        "domain": "jstreetpac.org"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": null,
+    "peopleAlsoAsk": [],
+    "latencyMs": 2890
+  },
+  {
+    "engine": "bing",
+    "query": "Tom Malinowski endorsements 2026",
+    "queryId": "endorsements",
+    "success": true,
+    "results": [
+      {
+        "position": 1,
+        "title": "Tom Malinowski 2026 Endorsement — FP Action Network",
+        "link": "https://www.fpactionnetwork.org/tom-malinowski-2026-endorsement",
+        "snippet": "Tom is a dedicated foreign policy leader who has defended democracy, strengthened alliances, and advanced American values at home and abroad. Read our …",
+        "domain": "www.fpactionnetwork.org"
+      },
+      {
+        "position": 2,
+        "title": "South Orange Mayor Sheena Collum Endorses Tom Malinowski for ...",
+        "link": "https://villagegreennj.com/election/south-orange-mayor-sheena-collum-endorses-tom-malinowski-for-congress/",
+        "snippet": "South Orange Mayor Sheena Collum is endorsing Tom Malinowski in the race for New Jersey’s 11th Congressional District to succeed Governor-Elect Mikie Sherrill. Primary day for the …",
+        "domain": "villagegreennj.com"
+      },
+      {
+        "position": 3,
+        "title": "South Orange Mayor Backs Fellow Democrat's Campaign To Replace",
+        "link": "https://patch.com/new-jersey/southorange/south-orange-mayor-backs-fellow-democrats-campaign-replace-sherrill-nj-11",
+        "snippet": "SOUTH ORANGE, NJ — A public forum to support Tom Malinowski’s 2026 congressional campaign in New Jersey will take place in South Orange – and it has the backing of the town’s mayor.",
+        "domain": "patch.com"
+      },
+      {
+        "position": 4,
+        "title": "2026 New Jersey's 11th congressional district special election",
+        "link": "https://en.wikipedia.org/wiki/2026_New_Jersey%27s_11th_congressional_district_special_election",
+        "snippet": "",
+        "domain": "en.wikipedia.org"
+      },
+      {
+        "position": 5,
+        "title": "13 Democrats Jump Into NJ Special Election to Replace Gov.-elect Mikie …",
+        "link": "https://www.crbcnews.com/articles/692f5b5662624ffa22e1a6da",
+        "snippet": "High-profile endorsements include Gov. Phil Murphy backing Brendan Gill, Sen. Bernie Sanders endorsing Analilia Mejia, and Sen. Andy Kim endorsing Tom Malinowski.",
+        "domain": "www.crbcnews.com"
+      },
+      {
+        "position": 6,
+        "title": "Morris County Democrats vote to endorse Malinowski",
+        "link": "https://newjerseyglobe.com/congress/morris-dems-vote-to-endorse-malinowski/",
+        "snippet": "While Essex and Passaic Democrats’ endorsements will appear on the ballots themselves,, Malinowski’s victory in Morris County won’t come with the use of the party’s official ballot slogan, since …",
+        "domain": "newjerseyglobe.com"
+      },
+      {
+        "position": 7,
+        "title": "Endorsements for Tom Malinowski - New Jersey Democratic Party …",
+        "link": "https://bluevoterguide.org/NJ/candidate_Tom_Malinowski/291429",
+        "snippet": "Watch this brief video! Endorsements for Tom Malinowski running as Democratic Party candidate for U.S. House New Jersey District 11. All the candidate information you need to make quick, informed, pro …",
+        "domain": "bluevoterguide.org"
+      },
+      {
+        "position": 8,
+        "title": "Democrats return to democracy messaging in NJ special election",
+        "link": "https://www.politico.com/news/2026/01/02/democrats-return-to-democracy-messaging-in-nj-special-election-00704771",
+        "snippet": "Ahead of the February special election for New Jersey’s 11th District, former Rep. Tom Malinowski recently hosted a town hall with Maryland Rep. Jamie Raskin about “ defending our …",
+        "domain": "www.politico.com"
+      },
+      {
+        "position": 9,
+        "title": "'No crooks, no cowards, no kings': Malinowski gets endorsement of ...",
+        "link": "https://morristowngreen.com/2025/12/15/no-crooks-no-cowards-no-kings-malinowski-gets-endorsement-of-morris-dems-for-mikie-seat/",
+        "snippet": "Tom Malinowski won the Morris County Democratic Committee’s endorsement in the race for New Jersey’s 11th Congressional District, emerging from a 12-candidate field after nine rounds of...",
+        "domain": "morristowngreen.com"
+      },
+      {
+        "position": 10,
+        "title": "iVoterGuide - Tom Malinowski iVoterGuide Profile",
+        "link": "https://ivoterguide.com/candidate/43058/race/6807/election/949?culture=en-us",
+        "snippet": "ENDORSEMENTS * * These endorsements were received after the deadline and were not considered in the Panel Evaluations and are for additional educational purposes only.",
+        "domain": "ivoterguide.com"
+      }
+    ],
+    "knowledgePanel": null,
+    "featuredSnippet": "South Orange Mayor Sheena Collum is endorsing Tom Malinowski in the race for New Jersey’s 11th Congressional District to succeed Governor-Elect Mikie Sherrill. Primary day for the special election is Thursday, Feb. 5, 2026, but mail-in ballots are being mailed out as of Dec. 22.",
+    "peopleAlsoAsk": [],
+    "latencyMs": 1495
+  }
+]
