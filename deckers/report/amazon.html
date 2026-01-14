@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Marketplace - Deckers AI Visibility Report</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .amazon-badge { background: #ff9900; }
+        .score-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 30px 0; }
+        .score-card { background: #f8f9fa; border-radius: 10px; padding: 25px; text-align: center; }
+        .score-card .value { font-size: 48px; font-weight: 700; }
+        .score-card .label { font-size: 14px; color: #666; margin-top: 8px; }
+        .score-high { color: #00a651; }
+        .score-medium { color: #f7941d; }
+        .score-low { color: #ed1c24; }
+        .surface-comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin: 30px 0; }
+        .surface-box { background: #f8f9fa; border-radius: 10px; padding: 25px; }
+        .surface-box h4 { margin-top: 0; display: flex; align-items: center; gap: 10px; }
+        .surface-box .icon { width: 32px; height: 32px; background: #ff9900; border-radius: 6px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; }
+        .brand-row { display: grid; grid-template-columns: 100px 1fr 1fr 1fr; gap: 15px; padding: 15px 0; border-bottom: 1px solid #eee; align-items: center; }
+        .brand-row:last-child { border-bottom: none; }
+        .brand-name { font-weight: 600; }
+        .metric { text-align: center; }
+        .metric .value { font-size: 24px; font-weight: 700; }
+        .metric .label { font-size: 12px; color: #888; }
+        .gap-alert { background: #fff3cd; border-left: 4px solid #f7941d; padding: 15px 20px; margin: 15px 0; border-radius: 0 8px 8px 0; }
+        .key-insight { background: #e7f3ff; border-left: 4px solid #0072bc; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+    </style>
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-header">
+            <h1><a href="index.html">Deckers AI Visibility</a></h1>
+            <p>January 14, 2026</p>
+        </div>
+
+        <div class="nav-section">
+            <h3>Overview</h3>
+            <a href="index.html" class="nav-link">Executive Summary</a>
+            <a href="index.html#key-findings" class="nav-link">Key Findings</a>
+        </div>
+
+        <div class="nav-section">
+            <h3>Brand Analysis</h3>
+            <a href="hoka.html" class="nav-link">
+                <span class="brand-indicator brand-hoka"></span>HOKA (42%)
+            </a>
+            <a href="ugg.html" class="nav-link">
+                <span class="brand-indicator brand-ugg"></span>UGG (18%)
+            </a>
+            <a href="teva.html" class="nav-link">
+                <span class="brand-indicator brand-teva"></span>Teva (8%)
+            </a>
+            <a href="sanuk.html" class="nav-link">
+                <span class="brand-indicator brand-sanuk"></span>Sanuk (0%)
+            </a>
+        </div>
+
+        <div class="nav-section">
+            <h3>Marketplace</h3>
+            <a href="amazon.html" class="nav-link active">
+                <span class="brand-indicator amazon-badge"></span>Amazon (NEW)
+            </a>
+        </div>
+
+        <div class="nav-section">
+            <h3>Details</h3>
+            <a href="methodology.html" class="nav-link">Methodology</a>
+            <a href="methodology.html#questions" class="nav-link">Questions Tested</a>
+        </div>
+    </nav>
+
+    <main class="main">
+        <div class="page-hero" style="background: linear-gradient(135deg, #232f3e 0%, #ff9900 100%);">
+            <div class="breadcrumb" style="color: rgba(255,255,255,0.7);"><a href="index.html" style="color: rgba(255,255,255,0.9);">Deckers Report</a> / Amazon Marketplace</div>
+            <h2 style="display: flex; align-items: center; gap: 15px;">
+                <span style="font-size: 36px;">🛒</span> Amazon Marketplace Visibility
+            </h2>
+            <p>How Deckers brands appear on Amazon Rufus AI and Amazon Search</p>
+            <p style="margin-top: 20px; font-size: 14px; opacity: 0.9;">51 queries tested across both surfaces | January 14, 2026</p>
+        </div>
+
+        <!-- Score Overview -->
+        <section class="section">
+            <h2>Visibility Scores</h2>
+            <div class="score-grid">
+                <div class="score-card">
+                    <div class="value score-high">72</div>
+                    <div class="label">Amazon Rufus AI</div>
+                    <p style="margin-top: 10px; font-size: 13px;">Strong AI recommendation presence</p>
+                </div>
+                <div class="score-card">
+                    <div class="value score-low">18</div>
+                    <div class="label">Amazon Search</div>
+                    <p style="margin-top: 10px; font-size: 13px;">Weak organic search visibility</p>
+                </div>
+                <div class="score-card">
+                    <div class="value score-medium">45</div>
+                    <div class="label">Combined Score</div>
+                    <p style="margin-top: 10px; font-size: 13px;">Opportunity for improvement</p>
+                </div>
+            </div>
+
+            <div class="key-insight">
+                <h4 style="margin-top: 0; color: #0a58ca;">Key Insight</h4>
+                <p style="margin-bottom: 0;"><strong>Amazon Rufus AI is designed for natural language questions</strong> while Amazon Search requires keyword queries. As shopping behavior shifts toward conversational discovery, Rufus visibility becomes increasingly critical. Deckers brands perform well on Rufus but are nearly invisible on traditional search.</p>
+            </div>
+        </section>
+
+        <!-- Surface Comparison -->
+        <section class="section">
+            <h2>Surface Comparison</h2>
+            <div class="surface-comparison">
+                <div class="surface-box">
+                    <h4><span class="icon">R</span> Amazon Rufus AI</h4>
+                    <p>AI shopping assistant that answers natural language questions about products.</p>
+                    <table style="margin-top: 20px;">
+                        <tr>
+                            <td><strong>HOKA</strong></td>
+                            <td><span class="status status-excellent">29% mention rate</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>UGG</strong></td>
+                            <td><span class="status status-excellent">24% mention rate</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>TEVA</strong></td>
+                            <td><span class="status status-good">10% mention rate</span></td>
+                        </tr>
+                    </table>
+                    <p style="margin-top: 15px; font-size: 13px; color: #666;">✓ Handles conversational queries<br>✓ Recommends specific products<br>✓ Positive sentiment for Deckers</p>
+                </div>
+                <div class="surface-box">
+                    <h4><span class="icon" style="background: #232f3e;">S</span> Amazon Search</h4>
+                    <p>Traditional keyword search with product listings.</p>
+                    <table style="margin-top: 20px;">
+                        <tr>
+                            <td><strong>HOKA</strong></td>
+                            <td><span class="status status-critical">2% appearance</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>UGG</strong></td>
+                            <td><span class="status status-critical">2% appearance</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>TEVA</strong></td>
+                            <td><span class="status status-critical">2% appearance</span></td>
+                        </tr>
+                    </table>
+                    <p style="margin-top: 15px; font-size: 13px; color: #666;">✗ Cannot process natural language<br>✗ 41% of queries returned no results<br>✗ Competitors dominate rankings</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Brand Performance on Rufus -->
+        <section class="section">
+            <h2>Brand Performance: Amazon Rufus AI</h2>
+
+            <div class="finding positive">
+                <h4>HOKA - 29% Mention Rate</h4>
+                <p><strong>Strong categories:</strong> Running, Medical/Comfort</p>
+                <div class="verbatim">
+                    <blockquote>"The <strong>Hoka Bondi</strong> models offer the most plushness"</blockquote>
+                    <p class="verbatim-source">— Rufus response to "What are the best running shoes for beginners?"</p>
+                </div>
+                <div class="gap-alert">
+                    <strong>Gap:</strong> HOKA is NOT mentioned for ultramarathon queries despite this being their heritage category. Brooks is recommended instead.
+                </div>
+            </div>
+
+            <div class="finding positive">
+                <h4>UGG - 24% Mention Rate</h4>
+                <p><strong>Strong categories:</strong> Slippers, Comfort/Lifestyle</p>
+                <div class="verbatim">
+                    <blockquote>"<strong>UGG</strong> uses premium 17mm Twinface sheepskin throughout (upper, lining, and insole), with natural temperature regulation and moisture-wicking"</blockquote>
+                    <p class="verbatim-source">— Rufus response to "UGG vs Bearpaw - what is the quality difference?"</p>
+                </div>
+                <div class="gap-alert">
+                    <strong>Gap:</strong> UGG is NOT appearing for general winter boots queries. Timberland and Sorel are recommended instead.
+                </div>
+            </div>
+
+            <div class="finding neutral">
+                <h4>TEVA - 10% Mention Rate</h4>
+                <p><strong>Strong categories:</strong> Sandals (comparison queries only)</p>
+                <div class="verbatim">
+                    <blockquote>"<strong>Teva</strong> uses injection-molded strap ends and quick-dry webbing. Generally lighter construction that's good for 2-4 years of regular hiking use."</blockquote>
+                    <p class="verbatim-source">— Rufus response to "Teva vs Chaco - which sandal is better for hiking?"</p>
+                </div>
+                <div class="gap-alert">
+                    <strong>Gap:</strong> TEVA only appears in direct brand comparison queries, not general category discovery like "best hiking sandals".
+                </div>
+            </div>
+        </section>
+
+        <!-- Competitor Analysis -->
+        <section class="section">
+            <h2>Competitor Landscape on Amazon Rufus</h2>
+            <p>Top competitors by mention frequency across 51 queries:</p>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Competitor</th>
+                        <th>Rufus Mentions</th>
+                        <th>Primary Categories</th>
+                        <th>Threat Level</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><span class="competitor">Brooks</span></td>
+                        <td>18</td>
+                        <td>Running, Medical, Stability</td>
+                        <td><span class="status status-critical">High</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="competitor">New Balance</span></td>
+                        <td>14</td>
+                        <td>Running, Medical</td>
+                        <td><span class="status status-critical">High</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="competitor">Skechers</span></td>
+                        <td>12</td>
+                        <td>Lifestyle, Occupational</td>
+                        <td><span class="status status-good">Medium</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="competitor">ASICS</span></td>
+                        <td>10</td>
+                        <td>Running</td>
+                        <td><span class="status status-good">Medium</span></td>
+                    </tr>
+                    <tr>
+                        <td><span class="competitor">Chaco</span></td>
+                        <td>6</td>
+                        <td>Sandals, Hiking</td>
+                        <td><span class="status status-good">Medium</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <!-- Recommendations -->
+        <section class="section">
+            <h2>Strategic Recommendations</h2>
+
+            <div class="recommendation">
+                <h4>1. HOKA: Claim Ultramarathon Category</h4>
+                <p>HOKA is NOT mentioned for ultramarathon queries despite being their heritage and core differentiator.</p>
+                <ul>
+                    <li>Update product listings to emphasize ultra-distance credentials</li>
+                    <li>Highlight trail racing heritage and elite athlete endorsements</li>
+                    <li>Ensure product descriptions mention "ultramarathon", "ultra-distance", "100-mile"</li>
+                </ul>
+            </div>
+
+            <div class="recommendation">
+                <h4>2. UGG: Strengthen Winter Boots Positioning</h4>
+                <p>UGG not appearing for general winter boots queries - Rufus recommends Timberland/Sorel instead.</p>
+                <ul>
+                    <li>Optimize listings for warmth, weather protection, and style keywords</li>
+                    <li>Emphasize waterproofing and insulation specifications</li>
+                    <li>Add structured data for winter boot attributes</li>
+                </ul>
+            </div>
+
+            <div class="recommendation">
+                <h4>3. TEVA: Expand Beyond Comparison Queries</h4>
+                <p>TEVA only appears when directly compared to Chaco, missing from category discovery.</p>
+                <ul>
+                    <li>Build category presence for "hiking sandals", "water sandals", "travel sandals"</li>
+                    <li>Ensure product titles include category keywords</li>
+                    <li>Add use-case content (hiking, water activities, travel)</li>
+                </ul>
+            </div>
+
+            <div class="recommendation urgent">
+                <h4>4. ALL BRANDS: Increase Amazon Sponsored Ads</h4>
+                <p>Organic search visibility is critically low at 2% appearance rate.</p>
+                <ul>
+                    <li>Target category keywords: cushioned running shoes, winter boots, hiking sandals</li>
+                    <li>Bid on medical/comfort keywords: plantar fasciitis, nurse shoes, knee pain</li>
+                    <li>Maintain branded search presence while building category visibility</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Methodology Note -->
+        <section class="section">
+            <h2>Methodology</h2>
+            <p>This analysis tested 51 queries across 9 categories on both Amazon Rufus AI and Amazon Search:</p>
+            <ul>
+                <li><strong>HOKA Running:</strong> 11 questions (beginner shoes, marathon, cushioning, medical)</li>
+                <li><strong>UGG Winter:</strong> 7 questions (winter boots, slippers, cozy gifts)</li>
+                <li><strong>Teva Sandals:</strong> 5 questions (hiking, water activities, travel)</li>
+                <li><strong>Lifestyle:</strong> 4 questions (casual shoes, beach, Europe travel)</li>
+                <li><strong>Brand Awareness:</strong> 4 questions (brand discovery, recommendations)</li>
+                <li><strong>Medical:</strong> 10 questions (plantar fasciitis, flat feet, diabetic, arthritis)</li>
+                <li><strong>Occupational:</strong> 5 questions (nurses, teachers, warehouse, flight attendants)</li>
+                <li><strong>Climate:</strong> 2 questions (snow/ice, hot weather breathable)</li>
+                <li><strong>Value:</strong> 3 questions (price comparison, alternatives)</li>
+            </ul>
+            <p><strong>Data collection:</strong> January 14, 2026 via browser automation with screenshot capture for verification.</p>
+        </section>
+
+        <footer class="footer">
+            <p>Report generated by <a href="https://github.com/edforman-75/glu-knowledge" target="_blank">Glu AI Visibility Monitoring</a></p>
+            <p>January 14, 2026</p>
+        </footer>
+    </main>
+</body>
+</html>

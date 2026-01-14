@@ -1,0 +1,227 @@
+{
+  "brand": "Deckers Brands",
+  "subsidiaries": ["HOKA", "UGG", "TEVA"],
+  "reportDate": "2026-01-14",
+  "platform": "Amazon Marketplace",
+
+  "executiveSummary": {
+    "headline": "Strong Rufus presence for branded queries, weak organic search visibility",
+    "amazonRufusScore": 72,
+    "amazonSearchScore": 18,
+    "combinedAmazonScore": 45,
+    "keyFindings": [
+      "Rufus AI recommends HOKA for cushioning and running questions",
+      "UGG appears prominently for slippers and comfort queries",
+      "TEVA mentioned in direct comparison queries only",
+      "Amazon Search organic visibility extremely low (2% appearance rate)",
+      "Natural language queries work well on Rufus, fail on Amazon Search",
+      "Competitors dominate category search results"
+    ]
+  },
+
+  "amazonRufus": {
+    "surface": "Amazon Rufus AI Assistant",
+    "description": "AI shopping assistant on Amazon web and mobile",
+    "totalQuestions": 51,
+    "methodology": "51 questions across 9 categories queried through Rufus panel",
+
+    "brandResults": {
+      "HOKA": {
+        "mentions": 15,
+        "mentionRate": "29%",
+        "sentiment": "Very Positive",
+        "strongCategories": ["HOKA Running", "Medical"],
+        "keyResponses": [
+          {
+            "question": "What are the best running shoes for beginners?",
+            "mentioned": true,
+            "excerpt": "The Hoka Bondi models offer the most plushness"
+          },
+          {
+            "question": "What are the most cushioned running shoes available?",
+            "mentioned": true,
+            "excerpt": "HOKA highlighted for maximum cushioning"
+          },
+          {
+            "question": "Are HOKA shoes worth the money?",
+            "mentioned": true,
+            "excerpt": "Detailed positive response about HOKA value"
+          }
+        ],
+        "gaps": [
+          "NOT mentioned for ultramarathon - a core HOKA heritage category",
+          "Brooks recommended instead for stability running"
+        ]
+      },
+      "UGG": {
+        "mentions": 12,
+        "mentionRate": "24%",
+        "sentiment": "Very Positive",
+        "strongCategories": ["UGG Winter", "Lifestyle"],
+        "keyResponses": [
+          {
+            "question": "What are the most comfortable slippers?",
+            "mentioned": true,
+            "excerpt": "UGG Women's Coquette Slipper - Premium Comfort & Quality"
+          },
+          {
+            "question": "UGG vs Bearpaw - what is the quality difference?",
+            "mentioned": true,
+            "excerpt": "UGG uses premium 17mm Twinface sheepskin throughout"
+          }
+        ],
+        "gaps": [
+          "NOT mentioned for general winter boots queries",
+          "Timberland and Sorel recommended over UGG for winter boots"
+        ]
+      },
+      "TEVA": {
+        "mentions": 5,
+        "mentionRate": "10%",
+        "sentiment": "Positive",
+        "strongCategories": ["Teva Sandals"],
+        "keyResponses": [
+          {
+            "question": "Teva vs Chaco - which sandal is better for hiking?",
+            "mentioned": true,
+            "excerpt": "Teva uses injection-molded strap ends and quick-dry webbing"
+          }
+        ],
+        "gaps": [
+          "NOT mentioned for general hiking sandal queries",
+          "Only appears in direct brand comparison queries"
+        ]
+      }
+    },
+
+    "competitorAnalysis": {
+      "topMentioned": [
+        { "brand": "Brooks", "mentions": 18, "categories": ["Running", "Medical"] },
+        { "brand": "New Balance", "mentions": 14, "categories": ["Running", "Medical"] },
+        { "brand": "Skechers", "mentions": 12, "categories": ["Lifestyle", "Occupational"] },
+        { "brand": "ASICS", "mentions": 10, "categories": ["Running"] },
+        { "brand": "Timberland", "mentions": 8, "categories": ["Winter"] },
+        { "brand": "Chaco", "mentions": 6, "categories": ["Sandals"] }
+      ]
+    },
+
+    "categoryBreakdown": [
+      { "category": "HOKA Running", "questions": 11, "hokaMentions": 8, "uggMentions": 0, "tevaMentions": 0 },
+      { "category": "UGG Winter", "questions": 7, "hokaMentions": 0, "uggMentions": 5, "tevaMentions": 0 },
+      { "category": "Teva Sandals", "questions": 5, "hokaMentions": 0, "uggMentions": 0, "tevaMentions": 3 },
+      { "category": "Lifestyle", "questions": 4, "hokaMentions": 1, "uggMentions": 2, "tevaMentions": 0 },
+      { "category": "Brand Awareness", "questions": 4, "hokaMentions": 2, "uggMentions": 1, "tevaMentions": 1 },
+      { "category": "Medical", "questions": 10, "hokaMentions": 4, "uggMentions": 0, "tevaMentions": 0 },
+      { "category": "Occupational", "questions": 5, "hokaMentions": 0, "uggMentions": 2, "tevaMentions": 0 },
+      { "category": "Climate", "questions": 2, "hokaMentions": 0, "uggMentions": 1, "tevaMentions": 0 },
+      { "category": "Value", "questions": 3, "hokaMentions": 0, "uggMentions": 1, "tevaMentions": 1 }
+    ]
+  },
+
+  "amazonSearch": {
+    "surface": "Amazon Product Search",
+    "description": "Traditional keyword search on Amazon",
+    "totalQueries": 51,
+    "successfulQueries": 30,
+    "failedQueries": 21,
+    "failureReason": "Amazon Search cannot process natural language questions - returns no results",
+
+    "brandResults": {
+      "HOKA": {
+        "appearances": 1,
+        "appearanceRate": "2%",
+        "avgPosition": 1,
+        "bestResult": {
+          "query": "Are HOKA shoes worth the money?",
+          "position": 1
+        },
+        "observation": "Only appears for branded queries, absent from category searches"
+      },
+      "UGG": {
+        "appearances": 1,
+        "appearanceRate": "2%",
+        "avgPosition": 16,
+        "bestResult": {
+          "query": "What are the best cozy gifts for women?",
+          "position": 16
+        },
+        "observation": "Appears rarely and in lower positions"
+      },
+      "TEVA": {
+        "appearances": 1,
+        "appearanceRate": "2%",
+        "avgPosition": 2,
+        "bestResult": {
+          "query": "Teva vs Chaco - which sandal is better for hiking?",
+          "position": 2
+        },
+        "observation": "Only appears for direct brand comparison query"
+      }
+    },
+
+    "competitorAnalysis": {
+      "topRanked": [
+        { "brand": "New Balance", "appearances": 3, "avgPosition": 9.3 },
+        { "brand": "ASICS", "appearances": 2, "avgPosition": 3.5 },
+        { "brand": "Skechers", "appearances": 2, "avgPosition": 7.5 },
+        { "brand": "Nike", "appearances": 2, "avgPosition": 10.0 },
+        { "brand": "Crocs", "appearances": 2, "avgPosition": 15.0 },
+        { "brand": "Brooks", "appearances": 1, "avgPosition": 3.0 },
+        { "brand": "Chaco", "appearances": 1, "avgPosition": 1.0 }
+      ]
+    },
+
+    "keyInsight": "Amazon Search is designed for product keywords, not natural language. 41% of queries returned no results because they were phrased as questions. This highlights why Rufus AI is critical for brand visibility."
+  },
+
+  "strategicRecommendations": {
+    "immediate": [
+      {
+        "priority": 1,
+        "brand": "HOKA",
+        "action": "Claim ultramarathon category in Rufus",
+        "rationale": "HOKA not mentioned for ultramarathon despite being their heritage",
+        "tactic": "Update product listings to emphasize ultra-distance credentials"
+      },
+      {
+        "priority": 2,
+        "brand": "UGG",
+        "action": "Strengthen winter boots positioning",
+        "rationale": "UGG not appearing for general winter boots queries",
+        "tactic": "Optimize listings for warmth, weather protection, style keywords"
+      },
+      {
+        "priority": 3,
+        "brand": "TEVA",
+        "action": "Expand beyond comparison queries",
+        "rationale": "TEVA only appears when directly compared to Chaco",
+        "tactic": "Build category presence for 'hiking sandals', 'water sandals'"
+      },
+      {
+        "priority": 4,
+        "brand": "All",
+        "action": "Increase Amazon Sponsored Ads",
+        "rationale": "Organic search visibility is extremely low (2%)",
+        "tactic": "Target category keywords: cushioned shoes, winter boots, hiking sandals"
+      }
+    ],
+    "strategic": [
+      "Leverage Rufus AI's positive sentiment by ensuring consistent product data",
+      "Focus on Rufus optimization over Search optimization - questions drive AI recommendations",
+      "Monitor competitor positions on category searches",
+      "Build A+ content highlighting differentiators that Rufus already mentions"
+    ]
+  },
+
+  "dataQuality": {
+    "rufusScreenshots": 51,
+    "searchResults": 30,
+    "textExtractionNote": "Rufus responses verified visually from screenshots due to DOM extraction limitations"
+  },
+
+  "files": {
+    "rufusScreenshots": "output/deckers-full/q01-q51*.png",
+    "searchResults": "output/deckers-search/deckers-search-full-*.json",
+    "rufusRawData": "output/deckers-full/deckers-rufus-full-*.json"
+  }
+}
